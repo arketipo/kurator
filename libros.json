@@ -33,7 +33,7 @@
     "createdAt": "2026-09-06T17:16:34.419817Z",
     "watched": false,
     "featured": false,
-    "comments": ""
+    "comments": "muy interesante. Se aprende mucho de gestión de sistemas"
   },
   {
     "id": "lib-003",
@@ -842,7 +842,7 @@
     "image": null,
     "createdAt": "2026-09-06T17:16:34.419817Z",
     "watched": false,
-    "featured": false,
+    "featured": true,
     "comments": ""
   },
   {
