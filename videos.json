@@ -13,8 +13,8 @@
     "type": "video",
     "folder": null,
     "tags": [],
-    "comments": "esta tia es muy interesante, tengo que dedicarle tiempo a su contenido",
-    "featured": true
+    "comments": "una tia muy intersante, tengo que revisar su contenido",
+    "featured": false
   },
   {
     "title": "\"Using AI To Decode Animal Communication\" with Aza Raskin",
@@ -135,7 +135,7 @@
     "type": "video",
     "folder": null,
     "tags": [],
-    "comments": "buen documental en filmin, meter en la documentación para compartirlo"
+    "comments": "el documental de filmin muy interesante. añadir a temario"
   },
   {
     "title": "24 fuentes GRATIS que parecen caras (¡Descárgalas!)",
@@ -1834,7 +1834,7 @@
     "type": "video",
     "folder": null,
     "tags": [],
-    "comments": "maravilla de video. Revisar este material",
+    "comments": "maravilla de video",
     "featured": true
   },
   {
@@ -14911,7 +14911,7 @@
     "tags": [
       "storytelling"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "title": "Give me 9min, and I'll improve your storytelling skills by 176%",
