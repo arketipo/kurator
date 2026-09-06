@@ -1,11 +1,32 @@
 [
   {
+    "id": "link-mtq56fel-ry430",
+    "title": "WebMCP Directory — sites with tools for AI agents",
+    "url": "https://webmcp.com/?utm_source=x&utm_medium=paid_social&utm_campaign=chatgpt_webmcp_launch&utm_term=",
+    "type": "link",
+    "description": "A live directory of websites exposing WebMCP tools to AI agents. Browse tools, inspect schemas, query the API.",
+    "author": "nekuda",
+    "year": null,
+    "image": "https://webmcp.com/og-image.png",
+    "folder": "",
+    "tags": [
+      "ia"
+    ],
+    "comments": "",
+    "featured": false,
+    "createdAt": "2026-09-06T18:25:16.413Z"
+  },
+  {
     "id": "link-001",
     "title": "Figma Design System",
     "url": "https://www.figma.com/",
     "type": "link",
     "folder": "Tools & Resources",
-    "tags": ["tools", "design", "collaboration"],
+    "tags": [
+      "tools",
+      "design",
+      "collaboration"
+    ],
     "description": "Herramienta principal para diseño colaborativo",
     "category": "design-tool",
     "createdAt": "2026-09-06T10:00:00Z",
@@ -17,7 +38,11 @@
     "url": "https://notebooklm.google.com/",
     "type": "link",
     "folder": "AI & Learning Tools",
-    "tags": ["ai", "learning", "productivity"],
+    "tags": [
+      "ai",
+      "learning",
+      "productivity"
+    ],
     "description": "Herramienta IA para transformar información en insights",
     "category": "learning-tool",
     "createdAt": "2026-09-06T10:00:00Z",
@@ -29,7 +54,11 @@
     "url": "https://designobserver.com/",
     "type": "link",
     "folder": "Communities & Publications",
-    "tags": ["design", "community", "writing"],
+    "tags": [
+      "design",
+      "community",
+      "writing"
+    ],
     "description": "Comunidad y publicaciones sobre diseño y cultura",
     "category": "publication",
     "createdAt": "2026-09-06T10:00:00Z",
@@ -41,7 +70,11 @@
     "url": "https://www.producthunt.com/",
     "type": "link",
     "folder": "Tools & Resources",
-    "tags": ["product", "discovery", "trends"],
+    "tags": [
+      "product",
+      "discovery",
+      "trends"
+    ],
     "description": "Descubre productos nuevos y tendencias de tech",
     "category": "discovery",
     "createdAt": "2026-09-06T10:00:00Z",
@@ -53,7 +86,11 @@
     "url": "https://obsidian.md/",
     "type": "link",
     "folder": "Tools & Resources",
-    "tags": ["tools", "notes", "knowledge-management"],
+    "tags": [
+      "tools",
+      "notes",
+      "knowledge-management"
+    ],
     "description": "Sistema de gestión del conocimiento basado en archivos locales",
     "category": "productivity-tool",
     "createdAt": "2026-09-06T10:00:00Z",
