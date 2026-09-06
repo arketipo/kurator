@@ -1,519 +1,15 @@
 [
   {
-    "id": "curso-photoshop",
-    "nombre": "curso photoshop",
-    "frecuencia": 58,
-    "color": "#FF6B6B"
-  },
-  {
-    "id": "figma-config",
-    "nombre": "figma config",
-    "frecuencia": 42,
-    "color": "#4ECDC4"
-  },
-  {
-    "id": "curiosidad",
-    "nombre": "curiosidad",
-    "frecuencia": 24,
-    "color": "#45B7D1"
-  },
-  {
-    "id": "audio---descargar",
-    "nombre": "audio - descargar",
-    "frecuencia": 20,
-    "color": "#FFA07A"
-  },
-  {
-    "id": "cuando-te-aburras",
-    "nombre": "cuando te aburras",
-    "frecuencia": 19,
-    "color": "#98D8C8"
-  },
-  {
-    "id": "ideas-interesantes",
-    "nombre": "ideas interesantes",
-    "frecuencia": 19,
-    "color": "#F7DC6F"
-  },
-  {
-    "id": "prest",
-    "nombre": "prest!",
-    "frecuencia": 18,
-    "color": "#BB8FCE"
-  },
-  {
-    "id": "caprichos",
-    "nombre": "caprichos",
-    "frecuencia": 17,
-    "color": "#85C1E2"
-  },
-  {
-    "id": "ux-motion",
-    "nombre": "ux motion",
-    "frecuencia": 17,
-    "color": "#F8B195"
-  },
-  {
-    "id": "fotografía",
-    "nombre": "fotografía",
-    "frecuencia": 17,
-    "color": "#C7CEEA"
-  },
-  {
-    "id": "storyline---tutoriales",
-    "nombre": "storyline - tutoriales",
-    "frecuencia": 15,
-    "color": "#B5EAD7"
-  },
-  {
-    "id": "-uxmotion-spline",
-    "nombre": "_uxmotion_spline",
-    "frecuencia": 12,
-    "color": "#FFDDC1"
-  },
-  {
-    "id": "curso---ia-y-diseño-c2b",
-    "nombre": "curso - ia y diseño (c2b)",
-    "frecuencia": 11,
-    "color": "#DDA0DD"
-  },
-  {
-    "id": "formación-interesante",
-    "nombre": "formación interesante",
-    "frecuencia": 11,
-    "color": "#87CEEB"
-  },
-  {
-    "id": "-curso-obsidian",
-    "nombre": "_curso obsidian",
-    "frecuencia": 10,
-    "color": "#FFB6C1"
-  },
-  {
-    "id": "claude",
-    "nombre": "claude",
-    "frecuencia": 10,
-    "color": "#98FB98"
-  },
-  {
-    "id": "estrategia-2024",
-    "nombre": "estrategia 2024",
-    "frecuencia": 10,
-    "color": "#FFE4B5"
-  },
-  {
-    "id": "enpresa-digitala---storytelling-con-ia",
-    "nombre": "enpresa digitala - storytelling con ia",
-    "frecuencia": 10,
-    "color": "#DEB887"
-  },
-  {
-    "id": "figma",
-    "nombre": "figma",
-    "frecuencia": 10,
-    "color": "#F0E68C"
-  },
-  {
-    "id": "compartir-en-redes",
-    "nombre": "compartir en redes",
-    "frecuencia": 9,
-    "color": "#E6E6FA"
-  },
-  {
-    "id": "framer",
-    "nombre": "framer",
-    "frecuencia": 9,
-    "color": "#FF6B6B"
-  },
-  {
-    "id": "-spline",
-    "nombre": "_spline",
-    "frecuencia": 8,
-    "color": "#4ECDC4"
-  },
-  {
-    "id": "color",
-    "nombre": "color",
-    "frecuencia": 8,
-    "color": "#45B7D1"
-  },
-  {
-    "id": "vlog---hospitalidad",
-    "nombre": "vlog - hospitalidad",
-    "frecuencia": 8,
-    "color": "#FFA07A"
-  },
-  {
-    "id": "framer---formación",
-    "nombre": "framer - formación",
-    "frecuencia": 8,
-    "color": "#98D8C8"
-  },
-  {
-    "id": "a-walling",
-    "nombre": "a walling",
-    "frecuencia": 7,
-    "color": "#F7DC6F"
-  },
-  {
-    "id": "c4d",
-    "nombre": "c4d",
-    "frecuencia": 7,
-    "color": "#BB8FCE"
-  },
-  {
-    "id": "figma-curso",
-    "nombre": "figma curso",
-    "frecuencia": 7,
-    "color": "#85C1E2"
-  },
-  {
-    "id": "uipedia",
-    "nombre": "uipedia",
-    "frecuencia": 7,
-    "color": "#F8B195"
-  },
-  {
-    "id": "euskal-encounter-2026",
-    "nombre": "euskal encounter 2026",
-    "frecuencia": 6,
-    "color": "#C7CEEA"
-  },
-  {
-    "id": "magnific---upscale-2026",
-    "nombre": "magnific - upscale 2026",
-    "frecuencia": 6,
-    "color": "#B5EAD7"
-  },
-  {
-    "id": "preparar-prueba-técnica",
-    "nombre": "preparar prueba técnica",
-    "frecuencia": 6,
-    "color": "#FFDDC1"
-  },
-  {
-    "id": "creatividad",
-    "nombre": "creatividad",
-    "frecuencia": 5,
-    "color": "#DDA0DD"
-  },
-  {
-    "id": "documentales-ver",
-    "nombre": "documentales (ver)",
-    "frecuencia": 5,
-    "color": "#87CEEB"
-  },
-  {
-    "id": "proyecto---póster",
-    "nombre": "proyecto - póster",
-    "frecuencia": 5,
-    "color": "#FFB6C1"
-  },
-  {
-    "id": "2025",
-    "nombre": "2025",
-    "frecuencia": 4,
-    "color": "#98FB98"
-  },
-  {
-    "id": "-rive",
-    "nombre": "_rive",
-    "frecuencia": 4,
-    "color": "#FFE4B5"
-  },
-  {
-    "id": "-ver-hoy",
-    "nombre": "_ver hoy",
-    "frecuencia": 4,
-    "color": "#DEB887"
-  },
-  {
-    "id": "cultura-del-diseño-101",
-    "nombre": "cultura del diseño (101)",
-    "frecuencia": 4,
-    "color": "#F0E68C"
-  },
-  {
-    "id": "curso---diseño-de-interfaces-efectivas",
-    "nombre": "curso - diseño de interfaces efectivas",
-    "frecuencia": 4,
-    "color": "#E6E6FA"
-  },
-  {
-    "id": "fotografía---hardware",
-    "nombre": "fotografía - hardware",
-    "frecuencia": 4,
-    "color": "#FF6B6B"
-  },
-  {
-    "id": "herramientas-probar",
-    "nombre": "herramientas (probar)",
-    "frecuencia": 4,
-    "color": "#4ECDC4"
-  },
-  {
-    "id": "hhh",
-    "nombre": "hhh",
-    "frecuencia": 4,
-    "color": "#45B7D1"
-  },
-  {
-    "id": "el-proceso-de-diseño-digital",
-    "nombre": "el proceso de diseño digital",
-    "frecuencia": 4,
-    "color": "#FFA07A"
-  },
-  {
-    "id": "-uxmotion-fable",
-    "nombre": "_uxmotion_fable",
-    "frecuencia": 4,
-    "color": "#98D8C8"
-  },
-  {
-    "id": "rive-uxmotion",
-    "nombre": "rive_uxmotion",
-    "frecuencia": 4,
-    "color": "#F7DC6F"
-  },
-  {
-    "id": "videos-que-debo-ver",
-    "nombre": "videos que debo ver",
-    "frecuencia": 4,
-    "color": "#BB8FCE"
-  },
-  {
-    "id": "video-en-móvil",
-    "nombre": "video en móvil",
-    "frecuencia": 4,
-    "color": "#85C1E2"
-  },
-  {
-    "id": "-adobe--ia",
-    "nombre": "_adobe + ia",
-    "frecuencia": 3,
-    "color": "#F8B195"
-  },
-  {
-    "id": "-contenidos-ver",
-    "nombre": "_contenidos (ver)",
-    "frecuencia": 3,
-    "color": "#C7CEEA"
-  },
-  {
-    "id": "after-effects",
-    "nombre": "after effects",
-    "frecuencia": 3,
-    "color": "#B5EAD7"
-  },
-  {
-    "id": "aprender-a-mirar",
-    "nombre": "aprender a mirar",
-    "frecuencia": 3,
-    "color": "#FFDDC1"
-  },
-  {
-    "id": "auditorías",
-    "nombre": "auditorías",
-    "frecuencia": 3,
-    "color": "#DDA0DD"
-  },
-  {
-    "id": "referencias",
-    "nombre": "referencias",
-    "frecuencia": 3,
-    "color": "#87CEEB"
-  },
-  {
-    "id": "curso-producto",
-    "nombre": "curso producto",
-    "frecuencia": 3,
-    "color": "#FFB6C1"
-  },
-  {
-    "id": "davinci-resolve",
-    "nombre": "davinci resolve",
-    "frecuencia": 3,
-    "color": "#98FB98"
-  },
-  {
-    "id": "2024-posicionamiento-profesional",
-    "nombre": "2024 posicionamiento profesional",
-    "frecuencia": 3,
-    "color": "#FFE4B5"
-  },
-  {
-    "id": "ventas",
-    "nombre": "ventas",
-    "frecuencia": 3,
-    "color": "#DEB887"
-  },
-  {
-    "id": "ia-en-local",
-    "nombre": "ia en local",
-    "frecuencia": 3,
-    "color": "#F0E68C"
-  },
-  {
-    "id": "illustrator",
-    "nombre": "illustrator",
-    "frecuencia": 3,
-    "color": "#E6E6FA"
-  },
-  {
-    "id": "proyecto---agencia-webflow",
-    "nombre": "proyecto - agencia webflow",
-    "frecuencia": 3,
-    "color": "#FF6B6B"
-  },
-  {
-    "id": "proyecto---aprender-diseño-de-los-animales",
-    "nombre": "proyecto - aprender diseño de los animales",
-    "frecuencia": 3,
-    "color": "#4ECDC4"
-  },
-  {
-    "id": "proyecto---libretas-de-bolsillo",
-    "nombre": "proyecto - libretas de bolsillo",
-    "frecuencia": 3,
-    "color": "#45B7D1"
-  },
-  {
-    "id": "storytelling",
-    "nombre": "storytelling",
-    "frecuencia": 3,
-    "color": "#FFA07A"
-  },
-  {
-    "id": "indesign--ia",
-    "nombre": "indesign + ia",
-    "frecuencia": 2,
-    "color": "#98D8C8"
-  },
-  {
-    "id": "-quiero-hacer-ésto",
-    "nombre": "_quiero hacer ésto",
-    "frecuencia": 2,
-    "color": "#F7DC6F"
-  },
-  {
-    "id": "arketxoko-2025",
-    "nombre": "arketxoko 2025",
-    "frecuencia": 2,
-    "color": "#BB8FCE"
-  },
-  {
-    "id": "dsalud",
-    "nombre": "d&salud",
-    "frecuencia": 2,
-    "color": "#85C1E2"
-  },
-  {
-    "id": "curso---aprender-a-mirar-lateral-academy",
-    "nombre": "curso - aprender a mirar (lateral academy)",
-    "frecuencia": 2,
-    "color": "#F8B195"
-  },
-  {
-    "id": "curso---presentaciones--ia-enpresa-digitala",
-    "nombre": "curso - presentaciones + ia (enpresa digitala)",
-    "frecuencia": 2,
-    "color": "#C7CEEA"
-  },
-  {
-    "id": "desperdicio-alimentario",
-    "nombre": "desperdicio alimentario",
-    "frecuencia": 2,
-    "color": "#B5EAD7"
-  },
-  {
-    "id": "framer--nocode",
-    "nombre": "framer + nocode",
-    "frecuencia": 2,
-    "color": "#FFDDC1"
-  },
-  {
-    "id": "fotografía-de-producto",
-    "nombre": "fotografía de producto",
-    "frecuencia": 2,
-    "color": "#DDA0DD"
-  },
-  {
-    "id": "ia",
-    "nombre": "ia",
-    "frecuencia": 2,
-    "color": "#87CEEB"
-  },
-  {
-    "id": "kaixonocode",
-    "nombre": "kaixonocode",
-    "frecuencia": 2,
-    "color": "#FFB6C1"
-  },
-  {
-    "id": "proyecto---autoretratos",
-    "nombre": "proyecto - autoretratos",
-    "frecuencia": 2,
-    "color": "#98FB98"
-  },
-  {
-    "id": "proyecto---taller-linkedin-para-posicionamiento-profesional",
-    "nombre": "proyecto - taller linkedin para posicionamiento profesional",
-    "frecuencia": 2,
-    "color": "#FFE4B5"
-  },
-  {
-    "id": "ai",
-    "nombre": "ai",
-    "frecuencia": 2,
-    "color": "#DEB887"
-  },
-  {
-    "id": "tools",
-    "nombre": "tools",
-    "frecuencia": 2,
-    "color": "#F0E68C"
-  },
-  {
-    "id": "design",
-    "nombre": "design",
-    "frecuencia": 2,
-    "color": "#E6E6FA"
-  },
-  {
-    "id": "101cosas",
-    "nombre": "101cosas",
-    "frecuencia": 1,
-    "color": "#FF6B6B"
-  },
-  {
-    "id": "branding",
-    "nombre": "branding",
-    "frecuencia": 1,
-    "color": "#4ECDC4"
-  },
-  {
-    "id": "illustrator--ia",
-    "nombre": "illustrator + ia",
-    "frecuencia": 1,
-    "color": "#45B7D1"
-  },
-  {
-    "id": "photoshop--ia",
-    "nombre": "photoshop + ia",
-    "frecuencia": 1,
-    "color": "#FFA07A"
-  },
-  {
-    "id": "legibilidad",
-    "nombre": "legibilidad",
-    "frecuencia": 1,
-    "color": "#98D8C8"
-  },
-  {
     "id": "01--definir-mi-propuesta-de-valor",
     "nombre": "01.- definir mi propuesta de valor",
     "frecuencia": 1,
     "color": "#F7DC6F"
+  },
+  {
+    "id": "02-lovable---wip",
+    "nombre": "02. lovable - wip",
+    "frecuencia": 1,
+    "color": "#F8B195"
   },
   {
     "id": "02--arreglar-mi-web",
@@ -528,16 +24,58 @@
     "color": "#85C1E2"
   },
   {
+    "id": "07",
+    "nombre": "07",
+    "frecuencia": 1,
+    "color": "#DDA0DD"
+  },
+  {
     "id": "08--consistencia-en-compartir",
     "nombre": "08.- consistencia en compartir",
     "frecuencia": 1,
     "color": "#F8B195"
   },
   {
-    "id": "cursos-linkedin",
-    "nombre": "cursos linkedin",
+    "id": "101cosas",
+    "nombre": "101cosas",
     "frecuencia": 1,
+    "color": "#FF6B6B"
+  },
+  {
+    "id": "2024-posicionamiento-profesional",
+    "nombre": "2024 posicionamiento profesional",
+    "frecuencia": 3,
+    "color": "#FFE4B5"
+  },
+  {
+    "id": "2025",
+    "nombre": "2025",
+    "frecuencia": 4,
+    "color": "#98FB98"
+  },
+  {
+    "id": "-adobe--ia",
+    "nombre": "_adobe + ia",
+    "frecuencia": 3,
+    "color": "#F8B195"
+  },
+  {
+    "id": "-contenidos-ver",
+    "nombre": "_contenidos (ver)",
+    "frecuencia": 3,
     "color": "#C7CEEA"
+  },
+  {
+    "id": "-curso-obsidian",
+    "nombre": "_curso obsidian",
+    "frecuencia": 10,
+    "color": "#FFB6C1"
+  },
+  {
+    "id": "-magnific",
+    "nombre": "_magnific",
+    "frecuencia": 1,
+    "color": "#87CEEB"
   },
   {
     "id": "-montar-mi-servidor-de-herramientas-en-local",
@@ -552,6 +90,54 @@
     "color": "#FFDDC1"
   },
   {
+    "id": "-probar",
+    "nombre": "_probar",
+    "frecuencia": 1,
+    "color": "#85C1E2"
+  },
+  {
+    "id": "-quiero-hacer-ésto",
+    "nombre": "_quiero hacer ésto",
+    "frecuencia": 2,
+    "color": "#F7DC6F"
+  },
+  {
+    "id": "-rive",
+    "nombre": "_rive",
+    "frecuencia": 4,
+    "color": "#FFE4B5"
+  },
+  {
+    "id": "-spline",
+    "nombre": "_spline",
+    "frecuencia": 8,
+    "color": "#4ECDC4"
+  },
+  {
+    "id": "-uxmotion-fable",
+    "nombre": "_uxmotion_fable",
+    "frecuencia": 4,
+    "color": "#98D8C8"
+  },
+  {
+    "id": "-uxmotion-shape",
+    "nombre": "_uxmotion_shape",
+    "frecuencia": 1,
+    "color": "#DDA0DD"
+  },
+  {
+    "id": "-uxmotion-spline",
+    "nombre": "_uxmotion_spline",
+    "frecuencia": 12,
+    "color": "#FFDDC1"
+  },
+  {
+    "id": "-ver-hoy",
+    "nombre": "_ver hoy",
+    "frecuencia": 4,
+    "color": "#DEB887"
+  },
+  {
     "id": "-videos",
     "nombre": "_videos",
     "frecuencia": 1,
@@ -562,6 +148,12 @@
     "nombre": "a gitbook",
     "frecuencia": 1,
     "color": "#87CEEB"
+  },
+  {
+    "id": "a-walling",
+    "nombre": "a walling",
+    "frecuencia": 7,
+    "color": "#F7DC6F"
   },
   {
     "id": "accesibilidad",
@@ -582,10 +174,40 @@
     "color": "#FFE4B5"
   },
   {
+    "id": "after-effects",
+    "nombre": "after effects",
+    "frecuencia": 3,
+    "color": "#B5EAD7"
+  },
+  {
+    "id": "agentes",
+    "nombre": "agentes",
+    "frecuencia": 1,
+    "color": "#FF6B6B"
+  },
+  {
+    "id": "ai",
+    "nombre": "ai",
+    "frecuencia": 2,
+    "color": "#DEB887"
+  },
+  {
+    "id": "ai-design",
+    "nombre": "ai-design",
+    "frecuencia": 1,
+    "color": "#F0E68C"
+  },
+  {
     "id": "aprender",
     "nombre": "aprender",
     "frecuencia": 1,
     "color": "#DEB887"
+  },
+  {
+    "id": "aprender-a-mirar",
+    "nombre": "aprender a mirar",
+    "frecuencia": 3,
+    "color": "#FFDDC1"
   },
   {
     "id": "aprender-a-pensar-mejor",
@@ -594,40 +216,52 @@
     "color": "#F0E68C"
   },
   {
-    "id": "dan-koe",
-    "nombre": "dan koe",
-    "frecuencia": 1,
-    "color": "#E6E6FA"
-  },
-  {
-    "id": "vistos",
-    "nombre": "vistos",
-    "frecuencia": 1,
-    "color": "#FF6B6B"
-  },
-  {
-    "id": "daniel-schmachtenberger",
-    "nombre": "daniel schmachtenberger",
-    "frecuencia": 1,
-    "color": "#4ECDC4"
-  },
-  {
     "id": "aprender-diseño-de-los-animales",
     "nombre": "aprender diseño de los animales",
     "frecuencia": 1,
     "color": "#45B7D1"
   },
   {
-    "id": "josh-bersin-hr--trabajo",
-    "nombre": "josh bersin (hr & trabajo)",
+    "id": "arketxoko-2025",
+    "nombre": "arketxoko 2025",
+    "frecuencia": 2,
+    "color": "#BB8FCE"
+  },
+  {
+    "id": "atajos",
+    "nombre": "atajos",
     "frecuencia": 1,
     "color": "#FFA07A"
+  },
+  {
+    "id": "audio---descargar",
+    "nombre": "audio - descargar",
+    "frecuencia": 20,
+    "color": "#FFA07A"
+  },
+  {
+    "id": "audiovisuales-y-gastronomía",
+    "nombre": "audiovisuales y gastronomía",
+    "frecuencia": 1,
+    "color": "#DDA0DD"
+  },
+  {
+    "id": "auditorías",
+    "nombre": "auditorías",
+    "frecuencia": 3,
+    "color": "#DDA0DD"
   },
   {
     "id": "basque-talent-podcast",
     "nombre": "basque talent podcast",
     "frecuencia": 1,
     "color": "#98D8C8"
+  },
+  {
+    "id": "best-practices",
+    "nombre": "best-practices",
+    "frecuencia": 1,
+    "color": "#DEB887"
   },
   {
     "id": "biblioteca-de-hardware",
@@ -642,10 +276,40 @@
     "color": "#BB8FCE"
   },
   {
+    "id": "blog---el-proceso-de-diseño",
+    "nombre": "blog - el proceso de diseño",
+    "frecuencia": 1,
+    "color": "#87CEEB"
+  },
+  {
+    "id": "branding",
+    "nombre": "branding",
+    "frecuencia": 1,
+    "color": "#4ECDC4"
+  },
+  {
     "id": "buscar-curro",
     "nombre": "buscar curro",
     "frecuencia": 1,
     "color": "#85C1E2"
+  },
+  {
+    "id": "c4d",
+    "nombre": "c4d",
+    "frecuencia": 7,
+    "color": "#BB8FCE"
+  },
+  {
+    "id": "caprichos",
+    "nombre": "caprichos",
+    "frecuencia": 17,
+    "color": "#85C1E2"
+  },
+  {
+    "id": "cardinal",
+    "nombre": "cardinal",
+    "frecuencia": 1,
+    "color": "#45B7D1"
   },
   {
     "id": "casa",
@@ -654,10 +318,52 @@
     "color": "#F8B195"
   },
   {
+    "id": "chatgpt",
+    "nombre": "chatgpt",
+    "frecuencia": 1,
+    "color": "#98FB98"
+  },
+  {
+    "id": "claude",
+    "nombre": "claude",
+    "frecuencia": 10,
+    "color": "#98FB98"
+  },
+  {
+    "id": "collaboration",
+    "nombre": "collaboration",
+    "frecuencia": 1,
+    "color": "#45B7D1"
+  },
+  {
+    "id": "color",
+    "nombre": "color",
+    "frecuencia": 8,
+    "color": "#45B7D1"
+  },
+  {
+    "id": "color-en-photoshop",
+    "nombre": "color en photoshop",
+    "frecuencia": 1,
+    "color": "#F0E68C"
+  },
+  {
+    "id": "community",
+    "nombre": "community",
+    "frecuencia": 1,
+    "color": "#F7DC6F"
+  },
+  {
     "id": "compartir---poned-un-abogado-por-medio-siempre",
     "nombre": "compartir - poned un abogado por medio siempre",
     "frecuencia": 1,
     "color": "#C7CEEA"
+  },
+  {
+    "id": "compartir-en-redes",
+    "nombre": "compartir en redes",
+    "frecuencia": 9,
+    "color": "#E6E6FA"
   },
   {
     "id": "composición",
@@ -672,69 +378,45 @@
     "color": "#FFDDC1"
   },
   {
-    "id": "audiovisuales-y-gastronomía",
-    "nombre": "audiovisuales y gastronomía",
-    "frecuencia": 1,
-    "color": "#DDA0DD"
-  },
-  {
-    "id": "blog---el-proceso-de-diseño",
-    "nombre": "blog - el proceso de diseño",
-    "frecuencia": 1,
-    "color": "#87CEEB"
-  },
-  {
-    "id": "dmedicina",
-    "nombre": "d&medicina",
-    "frecuencia": 1,
-    "color": "#FFB6C1"
-  },
-  {
-    "id": "dnegocio",
-    "nombre": "d&negocio",
-    "frecuencia": 1,
-    "color": "#98FB98"
-  },
-  {
-    "id": "ehealth",
-    "nombre": "ehealth",
-    "frecuencia": 1,
-    "color": "#FFE4B5"
-  },
-  {
-    "id": "vlog---diseño-y-países",
-    "nombre": "vlog - diseño y países",
-    "frecuencia": 1,
-    "color": "#DEB887"
-  },
-  {
-    "id": "vlog---el-mal-diseño",
-    "nombre": "vlog - el mal diseño",
-    "frecuencia": 1,
-    "color": "#F0E68C"
-  },
-  {
     "id": "contenidos---analizar-a-brian-eno",
     "nombre": "contenidos - analizar a brian eno",
     "frecuencia": 1,
     "color": "#E6E6FA"
   },
   {
-    "id": "historia-del-diseño",
-    "nombre": "historia del diseño",
+    "id": "crear-un-patrón",
+    "nombre": "crear un patrón",
     "frecuencia": 1,
-    "color": "#FF6B6B"
+    "color": "#85C1E2"
   },
   {
-    "id": "punk",
-    "nombre": "punk",
+    "id": "crear-un-podcast",
+    "nombre": "crear un podcast",
     "frecuencia": 1,
-    "color": "#4ECDC4"
+    "color": "#F7DC6F"
   },
   {
-    "id": "sapolsky-biología",
-    "nombre": "sapolsky (biología)",
-    "frecuencia": 1,
+    "id": "creatividad",
+    "nombre": "creatividad",
+    "frecuencia": 5,
+    "color": "#DDA0DD"
+  },
+  {
+    "id": "cuando-te-aburras",
+    "nombre": "cuando te aburras",
+    "frecuencia": 19,
+    "color": "#98D8C8"
+  },
+  {
+    "id": "cultura-del-diseño-101",
+    "nombre": "cultura del diseño (101)",
+    "frecuencia": 4,
+    "color": "#F0E68C"
+  },
+  {
+    "id": "curiosidad",
+    "nombre": "curiosidad",
+    "frecuencia": 24,
     "color": "#45B7D1"
   },
   {
@@ -744,22 +426,34 @@
     "color": "#FFA07A"
   },
   {
+    "id": "curso---aprender-a-mirar-lateral-academy",
+    "nombre": "curso - aprender a mirar (lateral academy)",
+    "frecuencia": 2,
+    "color": "#F8B195"
+  },
+  {
+    "id": "curso---diseño-de-interfaces-efectivas",
+    "nombre": "curso - diseño de interfaces efectivas",
+    "frecuencia": 4,
+    "color": "#E6E6FA"
+  },
+  {
     "id": "curso---finanzas-personales",
     "nombre": "curso - finanzas personales",
     "frecuencia": 1,
     "color": "#98D8C8"
   },
   {
-    "id": "crear-un-podcast",
-    "nombre": "crear un podcast",
-    "frecuencia": 1,
-    "color": "#F7DC6F"
+    "id": "curso---ia-y-diseño-c2b",
+    "nombre": "curso - ia y diseño (c2b)",
+    "frecuencia": 11,
+    "color": "#DDA0DD"
   },
   {
-    "id": "documentación",
-    "nombre": "documentación",
-    "frecuencia": 1,
-    "color": "#BB8FCE"
+    "id": "curso---presentaciones--ia-enpresa-digitala",
+    "nombre": "curso - presentaciones + ia (enpresa digitala)",
+    "frecuencia": 2,
+    "color": "#C7CEEA"
   },
   {
     "id": "curso---producto-enpresa-digitala",
@@ -780,24 +474,6 @@
     "color": "#C7CEEA"
   },
   {
-    "id": "referencias-e-inspiración",
-    "nombre": "referencias e inspiración",
-    "frecuencia": 1,
-    "color": "#B5EAD7"
-  },
-  {
-    "id": "fotografía-ecommerce",
-    "nombre": "fotografía ecommerce",
-    "frecuencia": 1,
-    "color": "#FFDDC1"
-  },
-  {
-    "id": "técnicas-especiales",
-    "nombre": "técnicas especiales",
-    "frecuencia": 1,
-    "color": "#DDA0DD"
-  },
-  {
     "id": "curso-hotjar",
     "nombre": "curso hotjar",
     "frecuencia": 1,
@@ -810,28 +486,76 @@
     "color": "#FFB6C1"
   },
   {
-    "id": "chatgpt",
-    "nombre": "chatgpt",
-    "frecuencia": 1,
-    "color": "#98FB98"
-  },
-  {
-    "id": "replit---canvas",
-    "nombre": "replit - canvas",
-    "frecuencia": 1,
-    "color": "#FFE4B5"
-  },
-  {
     "id": "curso-obsidian",
     "nombre": "curso obsidian",
     "frecuencia": 1,
     "color": "#DEB887"
   },
   {
-    "id": "color-en-photoshop",
-    "nombre": "color en photoshop",
+    "id": "curso-photoshop",
+    "nombre": "curso photoshop",
+    "frecuencia": 58,
+    "color": "#FF6B6B"
+  },
+  {
+    "id": "curso-producto",
+    "nombre": "curso producto",
+    "frecuencia": 3,
+    "color": "#FFB6C1"
+  },
+  {
+    "id": "cursos-linkedin",
+    "nombre": "cursos linkedin",
     "frecuencia": 1,
-    "color": "#F0E68C"
+    "color": "#C7CEEA"
+  },
+  {
+    "id": "cómo-crear-una-credencial-para-google",
+    "nombre": "cómo crear una credencial para google",
+    "frecuencia": 1,
+    "color": "#FFB6C1"
+  },
+  {
+    "id": "dmedicina",
+    "nombre": "d&medicina",
+    "frecuencia": 1,
+    "color": "#FFB6C1"
+  },
+  {
+    "id": "dnegocio",
+    "nombre": "d&negocio",
+    "frecuencia": 1,
+    "color": "#98FB98"
+  },
+  {
+    "id": "dsalud",
+    "nombre": "d&salud",
+    "frecuencia": 2,
+    "color": "#85C1E2"
+  },
+  {
+    "id": "da-vinci-resolve",
+    "nombre": "da vinci resolve",
+    "frecuencia": 1,
+    "color": "#98FB98"
+  },
+  {
+    "id": "dan-koe",
+    "nombre": "dan koe",
+    "frecuencia": 1,
+    "color": "#E6E6FA"
+  },
+  {
+    "id": "daniel-schmachtenberger",
+    "nombre": "daniel schmachtenberger",
+    "frecuencia": 1,
+    "color": "#4ECDC4"
+  },
+  {
+    "id": "davinci-resolve",
+    "nombre": "davinci resolve",
+    "frecuencia": 3,
+    "color": "#98FB98"
   },
   {
     "id": "ddd",
@@ -840,22 +564,16 @@
     "color": "#E6E6FA"
   },
   {
-    "id": "estrategia-de-ventas",
-    "nombre": "estrategia de ventas",
-    "frecuencia": 1,
-    "color": "#FF6B6B"
+    "id": "design",
+    "nombre": "design",
+    "frecuencia": 2,
+    "color": "#E6E6FA"
   },
   {
-    "id": "promocionarme",
-    "nombre": "promocionarme",
+    "id": "design-systems",
+    "nombre": "design-systems",
     "frecuencia": 1,
-    "color": "#4ECDC4"
-  },
-  {
-    "id": "cardinal",
-    "nombre": "cardinal",
-    "frecuencia": 1,
-    "color": "#45B7D1"
+    "color": "#FFE4B5"
   },
   {
     "id": "designeskolaeu---plataforma-de-formación",
@@ -864,10 +582,34 @@
     "color": "#FFA07A"
   },
   {
+    "id": "desperdicio-alimentario",
+    "nombre": "desperdicio alimentario",
+    "frecuencia": 2,
+    "color": "#B5EAD7"
+  },
+  {
+    "id": "discovery",
+    "nombre": "discovery",
+    "frecuencia": 1,
+    "color": "#F8B195"
+  },
+  {
     "id": "diseño",
     "nombre": "diseño",
     "frecuencia": 1,
     "color": "#98D8C8"
+  },
+  {
+    "id": "documentación",
+    "nombre": "documentación",
+    "frecuencia": 1,
+    "color": "#BB8FCE"
+  },
+  {
+    "id": "documentales-ver",
+    "nombre": "documentales (ver)",
+    "frecuencia": 5,
+    "color": "#87CEEB"
   },
   {
     "id": "documentar-para-el-futuro",
@@ -882,16 +624,52 @@
     "color": "#BB8FCE"
   },
   {
-    "id": "-probar",
-    "nombre": "_probar",
+    "id": "editor-picks",
+    "nombre": "editor-picks",
     "frecuencia": 1,
-    "color": "#85C1E2"
+    "color": "#4ECDC4"
+  },
+  {
+    "id": "ehealth",
+    "nombre": "ehealth",
+    "frecuencia": 1,
+    "color": "#FFE4B5"
+  },
+  {
+    "id": "el-proceso-de-diseño-digital",
+    "nombre": "el proceso de diseño digital",
+    "frecuencia": 4,
+    "color": "#FFA07A"
+  },
+  {
+    "id": "enpresa-digitala---storytelling-con-ia",
+    "nombre": "enpresa digitala - storytelling con ia",
+    "frecuencia": 10,
+    "color": "#DEB887"
+  },
+  {
+    "id": "estrategia-2024",
+    "nombre": "estrategia 2024",
+    "frecuencia": 10,
+    "color": "#FFE4B5"
+  },
+  {
+    "id": "estrategia-de-ventas",
+    "nombre": "estrategia de ventas",
+    "frecuencia": 1,
+    "color": "#FF6B6B"
   },
   {
     "id": "estudio-fotografía-hhh",
     "nombre": "estudio fotografía hhh",
     "frecuencia": 1,
     "color": "#F8B195"
+  },
+  {
+    "id": "euskal-encounter-2026",
+    "nombre": "euskal encounter 2026",
+    "frecuencia": 6,
+    "color": "#C7CEEA"
   },
   {
     "id": "evento-diseño-desde-casa",
@@ -906,10 +684,34 @@
     "color": "#B5EAD7"
   },
   {
+    "id": "figma",
+    "nombre": "figma",
+    "frecuencia": 10,
+    "color": "#F0E68C"
+  },
+  {
     "id": "figma--ai",
     "nombre": "figma + ai",
     "frecuencia": 1,
     "color": "#FFDDC1"
+  },
+  {
+    "id": "figma-config",
+    "nombre": "figma config",
+    "frecuencia": 42,
+    "color": "#4ECDC4"
+  },
+  {
+    "id": "figma-curso",
+    "nombre": "figma curso",
+    "frecuencia": 7,
+    "color": "#85C1E2"
+  },
+  {
+    "id": "flora",
+    "nombre": "flora",
+    "frecuencia": 1,
+    "color": "#4ECDC4"
   },
   {
     "id": "flujo-1",
@@ -924,28 +726,94 @@
     "color": "#87CEEB"
   },
   {
-    "id": "variables",
-    "nombre": "variables",
+    "id": "formación-ia",
+    "nombre": "formación ia",
     "frecuencia": 1,
-    "color": "#FFB6C1"
+    "color": "#45B7D1"
   },
   {
-    "id": "da-vinci-resolve",
-    "nombre": "da vinci resolve",
-    "frecuencia": 1,
-    "color": "#98FB98"
+    "id": "formación-interesante",
+    "nombre": "formación interesante",
+    "frecuencia": 11,
+    "color": "#87CEEB"
   },
   {
-    "id": "ooux",
-    "nombre": "ooux",
-    "frecuencia": 1,
-    "color": "#FFE4B5"
+    "id": "fotografía",
+    "nombre": "fotografía",
+    "frecuencia": 17,
+    "color": "#C7CEEA"
   },
   {
-    "id": "sobre-cámaras",
-    "nombre": "sobre cámaras",
+    "id": "fotografía---hardware",
+    "nombre": "fotografía - hardware",
+    "frecuencia": 4,
+    "color": "#FF6B6B"
+  },
+  {
+    "id": "fotografía-de-producto",
+    "nombre": "fotografía de producto",
+    "frecuencia": 2,
+    "color": "#DDA0DD"
+  },
+  {
+    "id": "fotografía-ecommerce",
+    "nombre": "fotografía ecommerce",
+    "frecuencia": 1,
+    "color": "#FFDDC1"
+  },
+  {
+    "id": "framer",
+    "nombre": "framer",
+    "frecuencia": 9,
+    "color": "#FF6B6B"
+  },
+  {
+    "id": "framer--nocode",
+    "nombre": "framer + nocode",
+    "frecuencia": 2,
+    "color": "#FFDDC1"
+  },
+  {
+    "id": "framer---componentes",
+    "nombre": "framer - componentes",
     "frecuencia": 1,
     "color": "#DEB887"
+  },
+  {
+    "id": "framer---formación",
+    "nombre": "framer - formación",
+    "frecuencia": 8,
+    "color": "#98D8C8"
+  },
+  {
+    "id": "google-vids",
+    "nombre": "google vids",
+    "frecuencia": 1,
+    "color": "#FFA07A"
+  },
+  {
+    "id": "herramientas-probar",
+    "nombre": "herramientas (probar)",
+    "frecuencia": 4,
+    "color": "#4ECDC4"
+  },
+  {
+    "id": "hhh",
+    "nombre": "hhh",
+    "frecuencia": 4,
+    "color": "#45B7D1"
+  },
+  {
+    "id": "historia-del-diseño",
+    "nombre": "historia del diseño",
+    "frecuencia": 1,
+    "color": "#FF6B6B"
+  },
+  {
+    "id": "ia",
+    "nombre": "ia",
+    "frecuencia": 2,
+    "color": "#87CEEB"
   },
   {
     "id": "ia--mockups",
@@ -960,28 +828,40 @@
     "color": "#E6E6FA"
   },
   {
-    "id": "agentes",
-    "nombre": "agentes",
+    "id": "ia-agentes",
+    "nombre": "ia agentes",
     "frecuencia": 1,
-    "color": "#FF6B6B"
+    "color": "#F7DC6F"
   },
   {
-    "id": "flora",
-    "nombre": "flora",
-    "frecuencia": 1,
-    "color": "#4ECDC4"
+    "id": "ia-en-local",
+    "nombre": "ia en local",
+    "frecuencia": 3,
+    "color": "#F0E68C"
   },
   {
-    "id": "formación-ia",
-    "nombre": "formación ia",
+    "id": "ia-y-ecommerce",
+    "nombre": "ia y ecommerce",
+    "frecuencia": 1,
+    "color": "#BB8FCE"
+  },
+  {
+    "id": "ideas-interesantes",
+    "nombre": "ideas interesantes",
+    "frecuencia": 19,
+    "color": "#F7DC6F"
+  },
+  {
+    "id": "illustrator",
+    "nombre": "illustrator",
+    "frecuencia": 3,
+    "color": "#E6E6FA"
+  },
+  {
+    "id": "illustrator--ia",
+    "nombre": "illustrator + ia",
     "frecuencia": 1,
     "color": "#45B7D1"
-  },
-  {
-    "id": "google-vids",
-    "nombre": "google vids",
-    "frecuencia": 1,
-    "color": "#FFA07A"
   },
   {
     "id": "imagen--video",
@@ -990,10 +870,10 @@
     "color": "#98D8C8"
   },
   {
-    "id": "ia-agentes",
-    "nombre": "ia agentes",
-    "frecuencia": 1,
-    "color": "#F7DC6F"
+    "id": "indesign--ia",
+    "nombre": "indesign + ia",
+    "frecuencia": 2,
+    "color": "#98D8C8"
   },
   {
     "id": "innovación",
@@ -1002,10 +882,34 @@
     "color": "#BB8FCE"
   },
   {
-    "id": "crear-un-patrón",
-    "nombre": "crear un patrón",
+    "id": "instalar-docker-en-local",
+    "nombre": "instalar docker en local",
     "frecuencia": 1,
-    "color": "#85C1E2"
+    "color": "#98FB98"
+  },
+  {
+    "id": "josh-bersin-hr--trabajo",
+    "nombre": "josh bersin (hr & trabajo)",
+    "frecuencia": 1,
+    "color": "#FFA07A"
+  },
+  {
+    "id": "kaixonocode",
+    "nombre": "kaixonocode",
+    "frecuencia": 2,
+    "color": "#FFB6C1"
+  },
+  {
+    "id": "knowledge-management",
+    "nombre": "knowledge-management",
+    "frecuencia": 1,
+    "color": "#FFDDC1"
+  },
+  {
+    "id": "la-felicidad",
+    "nombre": "la felicidad",
+    "frecuencia": 1,
+    "color": "#4ECDC4"
   },
   {
     "id": "la-máquina",
@@ -1020,10 +924,28 @@
     "color": "#C7CEEA"
   },
   {
+    "id": "learning",
+    "nombre": "learning",
+    "frecuencia": 1,
+    "color": "#FFA07A"
+  },
+  {
+    "id": "legibilidad",
+    "nombre": "legibilidad",
+    "frecuencia": 1,
+    "color": "#98D8C8"
+  },
+  {
     "id": "linkedin---design-eskola",
     "nombre": "linkedin - design eskola",
     "frecuencia": 1,
     "color": "#B5EAD7"
+  },
+  {
+    "id": "lottie-uxmotion",
+    "nombre": "lottie_uxmotion",
+    "frecuencia": 1,
+    "color": "#87CEEB"
   },
   {
     "id": "lovable",
@@ -1032,28 +954,10 @@
     "color": "#FFDDC1"
   },
   {
-    "id": "07",
-    "nombre": "07",
-    "frecuencia": 1,
-    "color": "#DDA0DD"
-  },
-  {
-    "id": "-magnific",
-    "nombre": "_magnific",
-    "frecuencia": 1,
-    "color": "#87CEEB"
-  },
-  {
-    "id": "cómo-crear-una-credencial-para-google",
-    "nombre": "cómo crear una credencial para google",
-    "frecuencia": 1,
-    "color": "#FFB6C1"
-  },
-  {
-    "id": "instalar-docker-en-local",
-    "nombre": "instalar docker en local",
-    "frecuencia": 1,
-    "color": "#98FB98"
+    "id": "magnific---upscale-2026",
+    "nombre": "magnific - upscale 2026",
+    "frecuencia": 6,
+    "color": "#B5EAD7"
   },
   {
     "id": "negocio-y-diseño",
@@ -1062,10 +966,16 @@
     "color": "#FFE4B5"
   },
   {
-    "id": "framer---componentes",
-    "nombre": "framer - componentes",
+    "id": "notes",
+    "nombre": "notes",
     "frecuencia": 1,
-    "color": "#DEB887"
+    "color": "#B5EAD7"
+  },
+  {
+    "id": "ooux",
+    "nombre": "ooux",
+    "frecuencia": 1,
+    "color": "#FFE4B5"
   },
   {
     "id": "pasar-a-notebook-lm",
@@ -1074,10 +984,22 @@
     "color": "#F0E68C"
   },
   {
+    "id": "pensamiento-estratégico",
+    "nombre": "pensamiento estratégico",
+    "frecuencia": 1,
+    "color": "#FFDDC1"
+  },
+  {
     "id": "phase---junio-2025",
     "nombre": "phase - junio 2025",
     "frecuencia": 1,
     "color": "#E6E6FA"
+  },
+  {
+    "id": "photoshop--ia",
+    "nombre": "photoshop + ia",
+    "frecuencia": 1,
+    "color": "#FFA07A"
   },
   {
     "id": "podcast",
@@ -1086,10 +1008,28 @@
     "color": "#FF6B6B"
   },
   {
-    "id": "la-felicidad",
-    "nombre": "la felicidad",
+    "id": "preparar-prueba-técnica",
+    "nombre": "preparar prueba técnica",
+    "frecuencia": 6,
+    "color": "#FFDDC1"
+  },
+  {
+    "id": "prest",
+    "nombre": "prest!",
+    "frecuencia": 18,
+    "color": "#BB8FCE"
+  },
+  {
+    "id": "product",
+    "nombre": "product",
     "frecuencia": 1,
-    "color": "#4ECDC4"
+    "color": "#85C1E2"
+  },
+  {
+    "id": "product-design",
+    "nombre": "product-design",
+    "frecuencia": 1,
+    "color": "#E6E6FA"
   },
   {
     "id": "productividad-mac",
@@ -1098,16 +1038,40 @@
     "color": "#45B7D1"
   },
   {
-    "id": "atajos",
-    "nombre": "atajos",
+    "id": "productivity",
+    "nombre": "productivity",
     "frecuencia": 1,
-    "color": "#FFA07A"
+    "color": "#98D8C8"
+  },
+  {
+    "id": "promocionarme",
+    "nombre": "promocionarme",
+    "frecuencia": 1,
+    "color": "#4ECDC4"
+  },
+  {
+    "id": "proyecto---agencia-webflow",
+    "nombre": "proyecto - agencia webflow",
+    "frecuencia": 3,
+    "color": "#FF6B6B"
   },
   {
     "id": "proyecto---albarelo-design-system",
     "nombre": "proyecto - albarelo design system",
     "frecuencia": 1,
     "color": "#98D8C8"
+  },
+  {
+    "id": "proyecto---aprender-diseño-de-los-animales",
+    "nombre": "proyecto - aprender diseño de los animales",
+    "frecuencia": 3,
+    "color": "#4ECDC4"
+  },
+  {
+    "id": "proyecto---autoretratos",
+    "nombre": "proyecto - autoretratos",
+    "frecuencia": 2,
+    "color": "#98FB98"
   },
   {
     "id": "proyecto---biblioteca-de-texturas",
@@ -1146,12 +1110,6 @@
     "color": "#B5EAD7"
   },
   {
-    "id": "pensamiento-estratégico",
-    "nombre": "pensamiento estratégico",
-    "frecuencia": 1,
-    "color": "#FFDDC1"
-  },
-  {
     "id": "proyecto---field-notes-cuadernos-caseros-diy",
     "nombre": "proyecto - field notes cuadernos caseros diy",
     "frecuencia": 1,
@@ -1174,6 +1132,12 @@
     "nombre": "proyecto - la máquina de contar historias",
     "frecuencia": 1,
     "color": "#98FB98"
+  },
+  {
+    "id": "proyecto---libretas-de-bolsillo",
+    "nombre": "proyecto - libretas de bolsillo",
+    "frecuencia": 3,
+    "color": "#45B7D1"
   },
   {
     "id": "proyecto---madera",
@@ -1206,10 +1170,22 @@
     "color": "#FF6B6B"
   },
   {
+    "id": "proyecto---póster",
+    "nombre": "proyecto - póster",
+    "frecuencia": 5,
+    "color": "#FFB6C1"
+  },
+  {
     "id": "proyecto---símbolos-vascos-y-código",
     "nombre": "proyecto - símbolos vascos y código",
     "frecuencia": 1,
     "color": "#4ECDC4"
+  },
+  {
+    "id": "proyecto---taller-linkedin-para-posicionamiento-profesional",
+    "nombre": "proyecto - taller linkedin para posicionamiento profesional",
+    "frecuencia": 2,
+    "color": "#FFE4B5"
   },
   {
     "id": "proyecto---tienda-miniaturas",
@@ -1224,10 +1200,34 @@
     "color": "#FFA07A"
   },
   {
+    "id": "punk",
+    "nombre": "punk",
+    "frecuencia": 1,
+    "color": "#4ECDC4"
+  },
+  {
+    "id": "referencias",
+    "nombre": "referencias",
+    "frecuencia": 3,
+    "color": "#87CEEB"
+  },
+  {
+    "id": "referencias-e-inspiración",
+    "nombre": "referencias e inspiración",
+    "frecuencia": 1,
+    "color": "#B5EAD7"
+  },
+  {
     "id": "relume",
     "nombre": "relume",
     "frecuencia": 1,
     "color": "#98D8C8"
+  },
+  {
+    "id": "replit---canvas",
+    "nombre": "replit - canvas",
+    "frecuencia": 1,
+    "color": "#FFE4B5"
   },
   {
     "id": "revisar-y-probar",
@@ -1236,22 +1236,40 @@
     "color": "#F7DC6F"
   },
   {
-    "id": "ia-y-ecommerce",
-    "nombre": "ia y ecommerce",
+    "id": "rive-uxmotion",
+    "nombre": "rive_uxmotion",
+    "frecuencia": 4,
+    "color": "#F7DC6F"
+  },
+  {
+    "id": "sapolsky-biología",
+    "nombre": "sapolsky (biología)",
     "frecuencia": 1,
-    "color": "#BB8FCE"
+    "color": "#45B7D1"
+  },
+  {
+    "id": "sobre-cámaras",
+    "nombre": "sobre cámaras",
+    "frecuencia": 1,
+    "color": "#DEB887"
+  },
+  {
+    "id": "storyline---tutoriales",
+    "nombre": "storyline - tutoriales",
+    "frecuencia": 15,
+    "color": "#B5EAD7"
+  },
+  {
+    "id": "storytelling",
+    "nombre": "storytelling",
+    "frecuencia": 3,
+    "color": "#FFA07A"
   },
   {
     "id": "subframe",
     "nombre": "subframe",
     "frecuencia": 1,
     "color": "#85C1E2"
-  },
-  {
-    "id": "02-lovable---wip",
-    "nombre": "02. lovable - wip",
-    "frecuencia": 1,
-    "color": "#F8B195"
   },
   {
     "id": "tailwind-css",
@@ -1266,22 +1284,94 @@
     "color": "#B5EAD7"
   },
   {
+    "id": "tools",
+    "nombre": "tools",
+    "frecuencia": 2,
+    "color": "#F0E68C"
+  },
+  {
+    "id": "trends",
+    "nombre": "trends",
+    "frecuencia": 1,
+    "color": "#C7CEEA"
+  },
+  {
+    "id": "técnicas-especiales",
+    "nombre": "técnicas especiales",
+    "frecuencia": 1,
+    "color": "#DDA0DD"
+  },
+  {
     "id": "ui-cursos",
     "nombre": "ui cursos",
     "frecuencia": 1,
     "color": "#FFDDC1"
   },
   {
-    "id": "-uxmotion-shape",
-    "nombre": "_uxmotion_shape",
-    "frecuencia": 1,
-    "color": "#DDA0DD"
+    "id": "uipedia",
+    "nombre": "uipedia",
+    "frecuencia": 7,
+    "color": "#F8B195"
   },
   {
-    "id": "lottie-uxmotion",
-    "nombre": "lottie_uxmotion",
+    "id": "ux",
+    "nombre": "ux",
     "frecuencia": 1,
-    "color": "#87CEEB"
+    "color": "#FF6B6B"
+  },
+  {
+    "id": "ux-motion",
+    "nombre": "ux motion",
+    "frecuencia": 17,
+    "color": "#F8B195"
+  },
+  {
+    "id": "variables",
+    "nombre": "variables",
+    "frecuencia": 1,
+    "color": "#FFB6C1"
+  },
+  {
+    "id": "ventas",
+    "nombre": "ventas",
+    "frecuencia": 3,
+    "color": "#DEB887"
+  },
+  {
+    "id": "video-en-móvil",
+    "nombre": "video en móvil",
+    "frecuencia": 4,
+    "color": "#85C1E2"
+  },
+  {
+    "id": "videos-que-debo-ver",
+    "nombre": "videos que debo ver",
+    "frecuencia": 4,
+    "color": "#BB8FCE"
+  },
+  {
+    "id": "vistos",
+    "nombre": "vistos",
+    "frecuencia": 1,
+    "color": "#FF6B6B"
+  },
+  {
+    "id": "vlog---diseño-y-países",
+    "nombre": "vlog - diseño y países",
+    "frecuencia": 1,
+    "color": "#DEB887"
+  },
+  {
+    "id": "vlog---el-mal-diseño",
+    "nombre": "vlog - el mal diseño",
+    "frecuencia": 1,
+    "color": "#F0E68C"
+  },
+  {
+    "id": "vlog---hospitalidad",
+    "nombre": "vlog - hospitalidad",
+    "frecuencia": 8,
+    "color": "#FFA07A"
   },
   {
     "id": "vlog---proyecto-colaborativos",
@@ -1296,99 +1386,9 @@
     "color": "#98FB98"
   },
   {
-    "id": "design-systems",
-    "nombre": "design-systems",
-    "frecuencia": 1,
-    "color": "#FFE4B5"
-  },
-  {
-    "id": "best-practices",
-    "nombre": "best-practices",
-    "frecuencia": 1,
-    "color": "#DEB887"
-  },
-  {
-    "id": "ai-design",
-    "nombre": "ai-design",
-    "frecuencia": 1,
-    "color": "#F0E68C"
-  },
-  {
-    "id": "product-design",
-    "nombre": "product-design",
-    "frecuencia": 1,
-    "color": "#E6E6FA"
-  },
-  {
-    "id": "ux",
-    "nombre": "ux",
-    "frecuencia": 1,
-    "color": "#FF6B6B"
-  },
-  {
-    "id": "editor-picks",
-    "nombre": "editor-picks",
-    "frecuencia": 1,
-    "color": "#4ECDC4"
-  },
-  {
-    "id": "collaboration",
-    "nombre": "collaboration",
-    "frecuencia": 1,
-    "color": "#45B7D1"
-  },
-  {
-    "id": "learning",
-    "nombre": "learning",
-    "frecuencia": 1,
-    "color": "#FFA07A"
-  },
-  {
-    "id": "productivity",
-    "nombre": "productivity",
-    "frecuencia": 1,
-    "color": "#98D8C8"
-  },
-  {
-    "id": "community",
-    "nombre": "community",
-    "frecuencia": 1,
-    "color": "#F7DC6F"
-  },
-  {
     "id": "writing",
     "nombre": "writing",
     "frecuencia": 1,
     "color": "#BB8FCE"
-  },
-  {
-    "id": "product",
-    "nombre": "product",
-    "frecuencia": 1,
-    "color": "#85C1E2"
-  },
-  {
-    "id": "discovery",
-    "nombre": "discovery",
-    "frecuencia": 1,
-    "color": "#F8B195"
-  },
-  {
-    "id": "trends",
-    "nombre": "trends",
-    "frecuencia": 1,
-    "color": "#C7CEEA"
-  },
-  {
-    "id": "notes",
-    "nombre": "notes",
-    "frecuencia": 1,
-    "color": "#B5EAD7"
-  },
-  {
-    "id": "knowledge-management",
-    "nombre": "knowledge-management",
-    "frecuencia": 1,
-    "color": "#FFDDC1"
   }
 ]
