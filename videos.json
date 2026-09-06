@@ -1825,7 +1825,8 @@
     "type": "video",
     "folder": null,
     "tags": [],
-    "comments": "maravilla de video"
+    "comments": "maravilla de video",
+    "featured": true
   },
   {
     "title": "impresiones pequeñas, GRANDES IMPACTOS",
@@ -3855,7 +3856,8 @@
     "folder": "_Quiero hacer ésto",
     "tags": [
       "_quiero hacer ésto"
-    ]
+    ],
+    "featured": true
   },
   {
     "title": "Why I'm Documenting My Life",
@@ -4062,7 +4064,8 @@
     "folder": "a WALLING",
     "tags": [
       "a walling"
-    ]
+    ],
+    "featured": true
   },
   {
     "title": "Los 5 tipos principales de videos interactivos (con ejemplos asombrosos)",
