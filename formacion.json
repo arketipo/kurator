@@ -1,0 +1,952 @@
+[
+  {
+    "plataforma": "Coursera",
+    "tema": "User Experience Design",
+    "enlace": "https://coursera.org/learn/user-experience-design"
+  },
+  {
+    "plataforma": "edX",
+    "tema": "Interactive Design",
+    "enlace": "https://edx.org/course/interactive-design"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Digital Product Design",
+    "enlace": "https://skillshare.com/classes/digital-product-design"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "Mobile UX Design",
+    "enlace": "https://interaction-design.org/courses/mobile-ux-design"
+  },
+  {
+    "plataforma": "Udemy",
+    "tema": "Web Design Principles",
+    "enlace": "https://udemy.com/course/web-design-principles"
+  },
+  {
+    "plataforma": "Frontend Masters",
+    "tema": "Advanced CSS",
+    "enlace": "https://frontendmasters.com/courses/advanced-css"
+  },
+  {
+    "plataforma": "LinkedIn Learning",
+    "tema": "Product Strategy",
+    "enlace": "https://linkedin.com/learning/product-strategy"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Design Thinking",
+    "enlace": "https://coursera.org/learn/design-thinking"
+  },
+  {
+    "plataforma": "CreativeLive",
+    "tema": "Web Accessibility",
+    "enlace": "https://creativelive.com/courses/web-accessibility"
+  },
+  {
+    "plataforma": "Adobe Learn",
+    "tema": "XD Masterclass",
+    "enlace": "https://adobe.com/learn/xd"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "Information Architecture",
+    "enlace": "https://interaction-design.org/courses/information-architecture"
+  },
+  {
+    "plataforma": "Udacity",
+    "tema": "Nanodegree UX",
+    "enlace": "https://udacity.com/course/ux-designer-nanodegree"
+  },
+  {
+    "plataforma": "Dribbble",
+    "tema": "Design Inspiration",
+    "enlace": "https://dribbble.com/resources"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "Motion Design",
+    "enlace": "https://youtube.com/results?search_query=motion+design+tutorial"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Figma Fundamentals",
+    "enlace": "https://skillshare.com/classes/figma-fundamentals"
+  },
+  {
+    "plataforma": "A Book Apart",
+    "tema": "Web Design",
+    "enlace": "https://abookapart.com/products/web-design"
+  },
+  {
+    "plataforma": "Designlab",
+    "tema": "Product Design Bootcamp",
+    "enlace": "https://designlab.com/bootcamp"
+  },
+  {
+    "plataforma": "General Assembly",
+    "tema": "UX Design Immersive",
+    "enlace": "https://generalassembly.com/ux-design"
+  },
+  {
+    "plataforma": "IDEO",
+    "tema": "Design Thinking Workshop",
+    "enlace": "https://ideo.com/work/design-thinking-workshop"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Behavioral Economics",
+    "enlace": "https://coursera.org/learn/behavioral-economics"
+  },
+  {
+    "plataforma": "MIT Media Lab",
+    "tema": "Interactive Design",
+    "enlace": "https://media.mit.edu/courses"
+  },
+  {
+    "plataforma": "Stanford d.school",
+    "tema": "Design Process",
+    "enlace": "https://dschool.stanford.edu"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "Visual Design",
+    "enlace": "https://interaction-design.org/courses/visual-design"
+  },
+  {
+    "plataforma": "Udemy",
+    "tema": "UI Kit Creation",
+    "enlace": "https://udemy.com/course/ui-kit-creation"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Typography Design",
+    "enlace": "https://skillshare.com/classes/typography-design"
+  },
+  {
+    "plataforma": "Frontend Masters",
+    "tema": "Design Systems",
+    "enlace": "https://frontendmasters.com/courses/design-systems"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Service Design",
+    "enlace": "https://coursera.org/learn/service-design"
+  },
+  {
+    "plataforma": "LinkedIn Learning",
+    "tema": "User Research Methods",
+    "enlace": "https://linkedin.com/learning/user-research-methods"
+  },
+  {
+    "plataforma": "edX",
+    "tema": "Design for Social Impact",
+    "enlace": "https://edx.org/course/design-social-impact"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "After Effects Animation",
+    "enlace": "https://youtube.com/results?search_query=after+effects+animation"
+  },
+  {
+    "plataforma": "CreativeLive",
+    "tema": "Illustration for Design",
+    "enlace": "https://creativelive.com/courses/illustration-for-design"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Design Thinking",
+    "enlace": "https://skillshare.com/classes/design-thinking"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "Usability Testing",
+    "enlace": "https://interaction-design.org/courses/usability-testing"
+  },
+  {
+    "plataforma": "Udemy",
+    "tema": "Prototyping Tools",
+    "enlace": "https://udemy.com/course/prototyping-tools"
+  },
+  {
+    "plataforma": "Adobe Learn",
+    "tema": "InDesign Templates",
+    "enlace": "https://adobe.com/learn/indesign"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Interaction Design",
+    "enlace": "https://coursera.org/learn/interaction-design"
+  },
+  {
+    "plataforma": "Frontend Masters",
+    "tema": "JavaScript Animations",
+    "enlace": "https://frontendmasters.com/courses/javascript-animations"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Color Theory",
+    "enlace": "https://skillshare.com/classes/color-theory"
+  },
+  {
+    "plataforma": "Dribbble",
+    "tema": "Design Trends",
+    "enlace": "https://dribbble.com/design-trends"
+  },
+  {
+    "plataforma": "LinkedIn Learning",
+    "tema": "Data Visualization",
+    "enlace": "https://linkedin.com/learning/data-visualization"
+  },
+  {
+    "plataforma": "Udacity",
+    "tema": "Responsive Design",
+    "enlace": "https://udacity.com/course/responsive-web-design"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "Cinema 4D Basics",
+    "enlace": "https://youtube.com/results?search_query=cinema+4d+basics"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "Interaction Patterns",
+    "enlace": "https://interaction-design.org/courses/interaction-patterns"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "E-commerce Design",
+    "enlace": "https://coursera.org/learn/ecommerce-design"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Layout Design",
+    "enlace": "https://skillshare.com/classes/layout-design"
+  },
+  {
+    "plataforma": "Adobe Learn",
+    "tema": "Photoshop Workflow",
+    "enlace": "https://adobe.com/learn/photoshop"
+  },
+  {
+    "plataforma": "CreativeLive",
+    "tema": "Digital Illustration",
+    "enlace": "https://creativelive.com/courses/digital-illustration"
+  },
+  {
+    "plataforma": "Figma",
+    "tema": "Design Essentials",
+    "enlace": "https://figma.com/community/file/1254025637621699699"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Design Ethics",
+    "enlace": "https://coursera.org/learn/design-ethics"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "Blender Modeling",
+    "enlace": "https://youtube.com/results?search_query=blender+modeling+tutorial"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Icon Design",
+    "enlace": "https://skillshare.com/classes/icon-design"
+  },
+  {
+    "plataforma": "Frontend Masters",
+    "tema": "Responsive Web Design",
+    "enlace": "https://frontendmasters.com/courses/responsive-web-design"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "Affordances",
+    "enlace": "https://interaction-design.org/courses/affordances"
+  },
+  {
+    "plataforma": "Udemy",
+    "tema": "Web Animation",
+    "enlace": "https://udemy.com/course/web-animation"
+  },
+  {
+    "plataforma": "Adobe Learn",
+    "tema": "Illustrator Techniques",
+    "enlace": "https://adobe.com/learn/illustrator"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Mobile App Design",
+    "enlace": "https://coursera.org/learn/mobile-app-design"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Branding Basics",
+    "enlace": "https://skillshare.com/classes/branding-basics"
+  },
+  {
+    "plataforma": "LinkedIn Learning",
+    "tema": "Design Leadership",
+    "enlace": "https://linkedin.com/learning/design-leadership"
+  },
+  {
+    "plataforma": "Dribbble",
+    "tema": "Portfolio Showcase",
+    "enlace": "https://dribbble.com/resources/portfolio"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "Premiere Pro Editing",
+    "enlace": "https://youtube.com/results?search_query=premiere+pro+editing"
+  },
+  {
+    "plataforma": "Udacity",
+    "tema": "Front End Developer",
+    "enlace": "https://udacity.com/course/front-end-web-developer"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "User Testing",
+    "enlace": "https://interaction-design.org/courses/user-testing"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Product Management",
+    "enlace": "https://coursera.org/learn/product-management"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Web Layout",
+    "enlace": "https://skillshare.com/classes/web-layout"
+  },
+  {
+    "plataforma": "CreativeLive",
+    "tema": "Brand Strategy",
+    "enlace": "https://creativelive.com/courses/brand-strategy"
+  },
+  {
+    "plataforma": "Adobe Learn",
+    "tema": "Animate Interactions",
+    "enlace": "https://adobe.com/learn/xd-interactions"
+  },
+  {
+    "plataforma": "Frontend Masters",
+    "tema": "Advanced React",
+    "enlace": "https://frontendmasters.com/courses/advanced-react"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "UI/UX Principles",
+    "enlace": "https://youtube.com/results?search_query=ui+ux+principles"
+  },
+  {
+    "plataforma": "Designlab",
+    "tema": "UX Research",
+    "enlace": "https://designlab.com/ux-research"
+  },
+  {
+    "plataforma": "IDEO",
+    "tema": "Human-Centered Design",
+    "enlace": "https://ideo.com/work/human-centered-design"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "Wireframing",
+    "enlace": "https://interaction-design.org/courses/wireframing"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Data Visualization Design",
+    "enlace": "https://coursera.org/learn/data-visualization"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Packaging Design",
+    "enlace": "https://skillshare.com/classes/packaging-design"
+  },
+  {
+    "plataforma": "edX",
+    "tema": "Web Development",
+    "enlace": "https://edx.org/course/web-development"
+  },
+  {
+    "plataforma": "LinkedIn Learning",
+    "tema": "Design Fundamentals",
+    "enlace": "https://linkedin.com/learning/design-fundamentals"
+  },
+  {
+    "plataforma": "Udemy",
+    "tema": "UI Design Patterns",
+    "enlace": "https://udemy.com/course/ui-design-patterns"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "Motion Graphics",
+    "enlace": "https://youtube.com/results?search_query=motion+graphics"
+  },
+  {
+    "plataforma": "Adobe Learn",
+    "tema": "XD Advanced",
+    "enlace": "https://adobe.com/learn/xd-advanced"
+  },
+  {
+    "plataforma": "Figma",
+    "tema": "Advanced Components",
+    "enlace": "https://figma.com/community"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "Navigation Design",
+    "enlace": "https://interaction-design.org/courses/navigation-design"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Accessibility Design",
+    "enlace": "https://coursera.org/learn/accessibility"
+  },
+  {
+    "plataforma": "Frontend Masters",
+    "tema": "CSS Grid Mastery",
+    "enlace": "https://frontendmasters.com/courses/css-grid"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Hand Lettering",
+    "enlace": "https://skillshare.com/classes/hand-lettering"
+  },
+  {
+    "plataforma": "CreativeLive",
+    "tema": "Photography Basics",
+    "enlace": "https://creativelive.com/courses/photography-basics"
+  },
+  {
+    "plataforma": "Udacity",
+    "tema": "Full Stack Developer",
+    "enlace": "https://udacity.com/course/full-stack-web-developer"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "SVG Animation",
+    "enlace": "https://youtube.com/results?search_query=svg+animation"
+  },
+  {
+    "plataforma": "Designlab",
+    "tema": "Visual Design",
+    "enlace": "https://designlab.com/visual-design"
+  },
+  {
+    "plataforma": "LinkedIn Learning",
+    "tema": "Stakeholder Management",
+    "enlace": "https://linkedin.com/learning/stakeholder-management"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Interaction Techniques",
+    "enlace": "https://coursera.org/learn/interaction-techniques"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Modern Web Design",
+    "enlace": "https://skillshare.com/classes/modern-web-design"
+  },
+  {
+    "plataforma": "Adobe Learn",
+    "tema": "Photoshop Advanced",
+    "enlace": "https://adobe.com/learn/photoshop-advanced"
+  },
+  {
+    "plataforma": "IDEO",
+    "tema": "Innovation Workshop",
+    "enlace": "https://ideo.com/work/innovation-workshop"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "Mobile Patterns",
+    "enlace": "https://interaction-design.org/courses/mobile-patterns"
+  },
+  {
+    "plataforma": "Udemy",
+    "tema": "Responsive Frameworks",
+    "enlace": "https://udemy.com/course/responsive-frameworks"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "Web Performance",
+    "enlace": "https://youtube.com/results?search_query=web+performance"
+  },
+  {
+    "plataforma": "Frontend Masters",
+    "tema": "Performance Optimization",
+    "enlace": "https://frontendmasters.com/courses/performance-optimization"
+  },
+  {
+    "plataforma": "Figma",
+    "tema": "Design Systems",
+    "enlace": "https://figma.com/community/file/1079053561186617050"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Business Strategy",
+    "enlace": "https://coursera.org/learn/business-strategy"
+  },
+  {
+    "plataforma": "LinkedIn Learning",
+    "tema": "Team Leadership",
+    "enlace": "https://linkedin.com/learning/team-leadership"
+  },
+  {
+    "plataforma": "CreativeLive",
+    "tema": "Product Photography",
+    "enlace": "https://creativelive.com/courses/product-photography"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Watercolor Painting",
+    "enlace": "https://skillshare.com/classes/watercolor-painting"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "Visual Hierarchy",
+    "enlace": "https://interaction-design.org/courses/visual-hierarchy"
+  },
+  {
+    "plataforma": "Udacity",
+    "tema": "Machine Learning",
+    "enlace": "https://udacity.com/course/machine-learning"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "After Effects Tips",
+    "enlace": "https://youtube.com/results?search_query=after+effects+tips"
+  },
+  {
+    "plataforma": "Designlab",
+    "tema": "Design Critique",
+    "enlace": "https://designlab.com/design-critique"
+  },
+  {
+    "plataforma": "Adobe Learn",
+    "tema": "InDesign Workflow",
+    "enlace": "https://adobe.com/learn/indesign-workflow"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Analytics Design",
+    "enlace": "https://coursera.org/learn/analytics-design"
+  },
+  {
+    "plataforma": "edX",
+    "tema": "Computer Science",
+    "enlace": "https://edx.org/course/computer-science"
+  },
+  {
+    "plataforma": "Frontend Masters",
+    "tema": "TypeScript Mastery",
+    "enlace": "https://frontendmasters.com/courses/typescript"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Visual Effects",
+    "enlace": "https://skillshare.com/classes/visual-effects"
+  },
+  {
+    "plataforma": "LinkedIn Learning",
+    "tema": "Change Management",
+    "enlace": "https://linkedin.com/learning/change-management"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "Blender Animation",
+    "enlace": "https://youtube.com/results?search_query=blender+animation"
+  },
+  {
+    "plataforma": "IDEO",
+    "tema": "Service Design",
+    "enlace": "https://ideo.com/work/service-design"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "Feedback Design",
+    "enlace": "https://interaction-design.org/courses/feedback-design"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Network Design",
+    "enlace": "https://coursera.org/learn/network-design"
+  },
+  {
+    "plataforma": "Figma",
+    "tema": "Prototyping",
+    "enlace": "https://figma.com/community/file/1229372172892161450"
+  },
+  {
+    "plataforma": "CreativeLive",
+    "tema": "Lighting Design",
+    "enlace": "https://creativelive.com/courses/lighting-design"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Game Design",
+    "enlace": "https://skillshare.com/classes/game-design"
+  },
+  {
+    "plataforma": "Udemy",
+    "tema": "JavaScript ES6",
+    "enlace": "https://udemy.com/course/javascript-es6"
+  },
+  {
+    "plataforma": "Adobe Learn",
+    "tema": "Premiere Advanced",
+    "enlace": "https://adobe.com/learn/premiere-advanced"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "User Flows",
+    "enlace": "https://interaction-design.org/courses/user-flows"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "CSS Tricks",
+    "enlace": "https://youtube.com/results?search_query=css+tricks"
+  },
+  {
+    "plataforma": "Frontend Masters",
+    "tema": "Web Components",
+    "enlace": "https://frontendmasters.com/courses/web-components"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Statistics Design",
+    "enlace": "https://coursera.org/learn/statistics-design"
+  },
+  {
+    "plataforma": "LinkedIn Learning",
+    "tema": "Strategic Planning",
+    "enlace": "https://linkedin.com/learning/strategic-planning"
+  },
+  {
+    "plataforma": "Designlab",
+    "tema": "UX Writing",
+    "enlace": "https://designlab.com/ux-writing"
+  },
+  {
+    "plataforma": "Udacity",
+    "tema": "AI Design",
+    "enlace": "https://udacity.com/course/ai-design"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Social Media Design",
+    "enlace": "https://skillshare.com/classes/social-media-design"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "Figma Tips",
+    "enlace": "https://youtube.com/results?search_query=figma+tips"
+  },
+  {
+    "plataforma": "IDEO",
+    "tema": "Prototyping Workshop",
+    "enlace": "https://ideo.com/work/prototyping-workshop"
+  },
+  {
+    "plataforma": "Figma",
+    "tema": "Variables and Tokens",
+    "enlace": "https://figma.com/community/file/1222624408163324373"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Microinteractions Design",
+    "enlace": "https://coursera.org/learn/microinteractions"
+  },
+  {
+    "plataforma": "Adobe Learn",
+    "tema": "Character Animation",
+    "enlace": "https://adobe.com/learn/character-animation"
+  },
+  {
+    "plataforma": "CreativeLive",
+    "tema": "Cinematography",
+    "enlace": "https://creativelive.com/courses/cinematography"
+  },
+  {
+    "plataforma": "Frontend Masters",
+    "tema": "Nextjs Mastery",
+    "enlace": "https://frontendmasters.com/courses/nextjs"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "Gesture Design",
+    "enlace": "https://interaction-design.org/courses/gesture-design"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "NFT Design",
+    "enlace": "https://skillshare.com/classes/nft-design"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "Web3 Design",
+    "enlace": "https://youtube.com/results?search_query=web3+design"
+  },
+  {
+    "plataforma": "Udemy",
+    "tema": "Vue.js Advanced",
+    "enlace": "https://udemy.com/course/vue-js-advanced"
+  },
+  {
+    "plataforma": "LinkedIn Learning",
+    "tema": "Executive Presence",
+    "enlace": "https://linkedin.com/learning/executive-presence"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Voice Design",
+    "enlace": "https://coursera.org/learn/voice-design"
+  },
+  {
+    "plataforma": "Designlab",
+    "tema": "AR/VR Design",
+    "enlace": "https://designlab.com/ar-vr-design"
+  },
+  {
+    "plataforma": "Figma",
+    "tema": "Collaborative Design",
+    "enlace": "https://figma.com/community"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "React Patterns",
+    "enlace": "https://youtube.com/results?search_query=react+patterns"
+  },
+  {
+    "plataforma": "Adobe Learn",
+    "tema": "VFX Compositing",
+    "enlace": "https://adobe.com/learn/vfx-compositing"
+  },
+  {
+    "plataforma": "IDEO",
+    "tema": "Futures Thinking",
+    "enlace": "https://ideo.com/work/futures-thinking"
+  },
+  {
+    "plataforma": "Frontend Masters",
+    "tema": "Serverless Functions",
+    "enlace": "https://frontendmasters.com/courses/serverless"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Metaverse Design",
+    "enlace": "https://skillshare.com/classes/metaverse-design"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Emotional Design",
+    "enlace": "https://coursera.org/learn/emotional-design"
+  },
+  {
+    "plataforma": "CreativeLive",
+    "tema": "Studio Management",
+    "enlace": "https://creativelive.com/courses/studio-management"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "Color Psychology",
+    "enlace": "https://interaction-design.org/courses/color-psychology"
+  },
+  {
+    "plataforma": "Udacity",
+    "tema": "Blockchain Design",
+    "enlace": "https://udacity.com/course/blockchain-design"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "Database Design",
+    "enlace": "https://youtube.com/results?search_query=database+design"
+  },
+  {
+    "plataforma": "Designlab",
+    "tema": "Content Strategy",
+    "enlace": "https://designlab.com/content-strategy"
+  },
+  {
+    "plataforma": "LinkedIn Learning",
+    "tema": "Emotional Intelligence",
+    "enlace": "https://linkedin.com/learning/emotional-intelligence"
+  },
+  {
+    "plataforma": "Figma",
+    "tema": "Performance Optimization",
+    "enlace": "https://figma.com/community"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Neurodesign",
+    "enlace": "https://coursera.org/learn/neurodesign"
+  },
+  {
+    "plataforma": "Adobe Learn",
+    "tema": "Stock Footage",
+    "enlace": "https://adobe.com/learn/stock"
+  },
+  {
+    "plataforma": "Frontend Masters",
+    "tema": "WebGL Fundamentals",
+    "enlace": "https://frontendmasters.com/courses/webgl"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Sustainable Design",
+    "enlace": "https://skillshare.com/classes/sustainable-design"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "Node.js Patterns",
+    "enlace": "https://youtube.com/results?search_query=nodejs+patterns"
+  },
+  {
+    "plataforma": "IDEO",
+    "tema": "Circular Economy Design",
+    "enlace": "https://ideo.com/work/circular-economy"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "Inclusive Design",
+    "enlace": "https://interaction-design.org/courses/inclusive-design"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Digital Transformation",
+    "enlace": "https://coursera.org/learn/digital-transformation"
+  },
+  {
+    "plataforma": "CreativeLive",
+    "tema": "Media Management",
+    "enlace": "https://creativelive.com/courses/media-management"
+  },
+  {
+    "plataforma": "Designlab",
+    "tema": "Growth Design",
+    "enlace": "https://designlab.com/growth-design"
+  },
+  {
+    "plataforma": "Udemy",
+    "tema": "Python for Data",
+    "enlace": "https://udemy.com/course/python-for-data"
+  },
+  {
+    "plataforma": "Figma",
+    "tema": "Design Handoff",
+    "enlace": "https://figma.com/community"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "System Design",
+    "enlace": "https://youtube.com/results?search_query=system+design"
+  },
+  {
+    "plataforma": "Frontend Masters",
+    "tema": "GraphQL Mastery",
+    "enlace": "https://frontendmasters.com/courses/graphql"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Diversity Design",
+    "enlace": "https://skillshare.com/classes/diversity-design"
+  },
+  {
+    "plataforma": "LinkedIn Learning",
+    "tema": "Conflict Resolution",
+    "enlace": "https://linkedin.com/learning/conflict-resolution"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Quantum Computing Design",
+    "enlace": "https://coursera.org/learn/quantum-computing"
+  },
+  {
+    "plataforma": "Adobe Learn",
+    "tema": "Motion Tracking",
+    "enlace": "https://adobe.com/learn/motion-tracking"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "Mental Models",
+    "enlace": "https://interaction-design.org/courses/mental-models"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "Docker Containers",
+    "enlace": "https://youtube.com/results?search_query=docker+containers"
+  },
+  {
+    "plataforma": "IDEO",
+    "tema": "Biosignals Design",
+    "enlace": "https://ideo.com/work/biosignals"
+  },
+  {
+    "plataforma": "Designlab",
+    "tema": "Behavior Change Design",
+    "enlace": "https://designlab.com/behavior-change"
+  },
+  {
+    "plataforma": "Udacity",
+    "tema": "Quantum Machine Learning",
+    "enlace": "https://udacity.com/course/quantum-machine-learning"
+  },
+  {
+    "plataforma": "Figma",
+    "tema": "Real-time Collaboration",
+    "enlace": "https://figma.com/multiplayer"
+  },
+  {
+    "plataforma": "Frontend Masters",
+    "tema": "Rust Web Development",
+    "enlace": "https://frontendmasters.com/courses/rust"
+  },
+  {
+    "plataforma": "Coursera",
+    "tema": "Biosecurity Design",
+    "enlace": "https://coursera.org/learn/biosecurity"
+  },
+  {
+    "plataforma": "Skillshare",
+    "tema": "Indigenous Design",
+    "enlace": "https://skillshare.com/classes/indigenous-design"
+  },
+  {
+    "plataforma": "CreativeLive",
+    "tema": "Podcast Production",
+    "enlace": "https://creativelive.com/courses/podcast-production"
+  },
+  {
+    "plataforma": "YouTube",
+    "tema": "Kubernetes Orchestration",
+    "enlace": "https://youtube.com/results?search_query=kubernetes"
+  },
+  {
+    "plataforma": "Interaction Design Foundation",
+    "tema": "Context Mapping",
+    "enlace": "https://interaction-design.org/courses/context-mapping"
+  },
+  {
+    "plataforma": "LinkedIn Learning",
+    "tema": "Presence and Impact",
+    "enlace": "https://linkedin.com/learning/presence-and-impact"
+  },
+  {
+    "plataforma": "Adobe Learn",
+    "tema": "Creative Cloud Master",
+    "enlace": "https://adobe.com/learn"
+  },
+  {
+    "plataforma": "IDEO",
+    "tema": "Resilience Design",
+    "enlace": "https://ideo.com/work/resilience"
+  },
+  {
+    "plataforma": "Designlab",
+    "tema": "Privacy by Design",
+    "enlace": "https://designlab.com/privacy-by-design"
+  }
+]
