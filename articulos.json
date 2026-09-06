@@ -9,6 +9,24 @@
     "description": "Mejores prácticas para crear design systems escalables",
     "source": "Medium",
     "createdAt": "2026-09-06T10:00:00Z",
-    "watched": false
+    "watched": false,
+    "featured": false,
+    "comments": ""
+  },
+  {
+    "id": "maya-brennan-ai-designer",
+    "title": "How to become an AI Designer",
+    "subtitle": "A realistic guide to shipping your own designs.",
+    "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205",
+    "type": "article",
+    "folder": "AI & Design",
+    "tags": ["ai-design", "ai", "product-design", "ux", "editor-picks"],
+    "description": "Guía realista de 6 pasos para convertirse en diseñador de IA: desde dejar Figma, vibecoding, encontrar source of truth, acceso al código, ownership del frontend, hasta abrazar el caos del flujo AI-native.",
+    "source": "UX Collective",
+    "author": "Maya Brennan",
+    "createdAt": "2026-08-15T00:00:00Z",
+    "watched": false,
+    "featured": false,
+    "comments": ""
   }
 ]
