@@ -67,7 +67,7 @@
     "rating": 8.6,
     "createdAt": "2026-09-06T16:28:41.503983Z",
     "watched": false,
-    "featured": true,
+    "featured": false,
     "comments": "",
     "image": null
   },
@@ -85,7 +85,7 @@
     "rating": 9.1,
     "createdAt": "2026-09-06T16:28:41.503983Z",
     "watched": false,
-    "featured": true,
+    "featured": false,
     "comments": "",
     "image": null
   },
