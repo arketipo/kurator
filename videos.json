@@ -402,14 +402,18 @@
     "url": "https://www.youtube.com/watch?v=iwk4rQhwi1g",
     "type": "video",
     "folder": null,
-    "tags": []
+    "tags": [
+      "fotografía"
+    ]
   },
   {
     "title": "Aprendo Animación en 7 días con Procreate Dreams",
     "url": "https://www.youtube.com/watch?v=n7stFUh832w",
     "type": "video",
     "folder": null,
-    "tags": []
+    "tags": [
+      "ux-motion"
+    ]
   },
   {
     "title": "Art of Experimentation",
@@ -438,7 +442,8 @@
     "type": "video",
     "folder": null,
     "tags": [],
-    "comments": "esta gente es brillante. Tengo que revisar bien todos sus trabajos y su forma de hacerlo"
+    "comments": "esta gente es brillante. Tengo que revisar bien todos sus trabajos y su forma de hacerlo",
+    "featured": true
   },
   {
     "title": "Behind The Scenes: Making Our 'Tokyo City Guide' For Issue 3!",
