@@ -1,5 +1,23 @@
 [
   {
+    "id": "link-mtq9rbo3-ls8w1",
+    "title": "DESIGN.md Examples for AI Agents | Refero Styles",
+    "url": "https://styles.refero.design/",
+    "type": "link",
+    "description": "Browse a curated DESIGN.md library for AI agents: colors, typography, spacing, components, and design rules from leading product websites.",
+    "author": "",
+    "year": null,
+    "image": "https://styles.refero.design/opengraph-image.png",
+    "folder": "",
+    "tags": [
+      "ia",
+      "claude"
+    ],
+    "comments": "",
+    "featured": false,
+    "createdAt": "2026-09-06T20:33:30.247Z"
+  },
+  {
     "id": "link-001",
     "title": "Figma Design System",
     "url": "https://www.figma.com/",
