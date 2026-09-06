@@ -13,8 +13,8 @@
     "type": "video",
     "folder": null,
     "tags": [],
-    "comments": "esta tia es muy interesante, tengo que dedicarle tiempo a su contenido",
-    "featured": true
+    "comments": "una tia muy intersante, tengo que revisar su contenido",
+    "featured": false
   },
   {
     "title": "\"Using AI To Decode Animal Communication\" with Aza Raskin",
@@ -71,7 +71,9 @@
     "url": "https://www.youtube.com/watch?v=TGpqJfJSSHI",
     "type": "video",
     "folder": null,
-    "tags": []
+    "tags": [
+      "formación-interesante"
+    ]
   },
   {
     "title": "10 atajos sencillos para hacer vídeos de YouTube más rápidos y fáciles",
@@ -135,7 +137,7 @@
     "type": "video",
     "folder": null,
     "tags": [],
-    "comments": "buen documental en filmin, meter en la documentación para compartirlo"
+    "comments": "el documental de filmin muy interesante. añadir a temario"
   },
   {
     "title": "24 fuentes GRATIS que parecen caras (¡Descárgalas!)",
@@ -1270,7 +1272,9 @@
     "url": "https://www.youtube.com/watch?v=QGDsjGvweb4",
     "type": "video",
     "folder": null,
-    "tags": []
+    "tags": [
+      "animación"
+    ]
   },
   {
     "title": "Give Me 15 Minutes. I'll Teach You 80% of Obsidian",
@@ -1557,7 +1561,9 @@
     "url": "https://www.youtube.com/watch?v=p7jqQepG3Kc",
     "type": "video",
     "folder": null,
-    "tags": []
+    "tags": [
+      "ventas"
+    ]
   },
   {
     "title": "How To Change Your Life",
@@ -1613,7 +1619,9 @@
     "url": "https://www.youtube.com/watch?v=DoyXz8gYvwA",
     "type": "video",
     "folder": null,
-    "tags": []
+    "tags": [
+      "framer---formación"
+    ]
   },
   {
     "title": "How To Position Your Design Company And Reduce Competition",
@@ -1834,7 +1842,7 @@
     "type": "video",
     "folder": null,
     "tags": [],
-    "comments": "maravilla de video. Revisar este material",
+    "comments": "maravilla de video",
     "featured": true
   },
   {
@@ -3866,7 +3874,8 @@
     "folder": "_Rive",
     "tags": [
       "_rive"
-    ]
+    ],
+    "featured": true
   },
   {
     "title": "Rive Tutorial for Beginners - Interactive Animation in 25 Minutes!",
@@ -4076,7 +4085,8 @@
     "folder": "Accesibilidad",
     "tags": [
       "Diseño"
-    ]
+    ],
+    "featured": true
   },
   {
     "title": "Norwegian Postal Service - The Reinfall",
@@ -5956,7 +5966,8 @@
     "type": "video",
     "folder": "curso Obsidian",
     "tags": [
-      "curso obsidian"
+      "curso-hotjar",
+      "research"
     ]
   },
   {
@@ -7279,7 +7290,8 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "Figma"
+      "figma-config",
+      "evento-diseño-(desde-casa)"
     ]
   },
   {
@@ -7753,7 +7765,8 @@
     "type": "video",
     "folder": "FORMACIÓN interesante",
     "tags": [
-      "Formación interesante"
+      "formación-interesante",
+      "uxmotion"
     ]
   },
   {
