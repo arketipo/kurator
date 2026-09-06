@@ -1,22 +1,5 @@
 [
   {
-    "id": "link-mtq56fel-ry430",
-    "title": "WebMCP Directory — sites with tools for AI agents",
-    "url": "https://webmcp.com/?utm_source=x&utm_medium=paid_social&utm_campaign=chatgpt_webmcp_launch&utm_term=",
-    "type": "link",
-    "description": "A live directory of websites exposing WebMCP tools to AI agents. Browse tools, inspect schemas, query the API.",
-    "author": "nekuda",
-    "year": null,
-    "image": "https://webmcp.com/og-image.png",
-    "folder": "",
-    "tags": [
-      "ia"
-    ],
-    "comments": "",
-    "featured": false,
-    "createdAt": "2026-09-06T18:25:16.413Z"
-  },
-  {
     "id": "link-001",
     "title": "Figma Design System",
     "url": "https://www.figma.com/",
@@ -39,7 +22,7 @@
     "type": "link",
     "folder": "AI & Learning Tools",
     "tags": [
-      "ai",
+      "IA",
       "learning",
       "productivity"
     ],

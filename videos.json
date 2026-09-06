@@ -13,8 +13,8 @@
     "type": "video",
     "folder": null,
     "tags": [],
-    "comments": "una tia muy intersante, tengo que revisar su contenido",
-    "featured": false
+    "comments": "esta tia es muy interesante, tengo que dedicarle tiempo a su contenido",
+    "featured": true
   },
   {
     "title": "\"Using AI To Decode Animal Communication\" with Aza Raskin",
@@ -71,9 +71,7 @@
     "url": "https://www.youtube.com/watch?v=TGpqJfJSSHI",
     "type": "video",
     "folder": null,
-    "tags": [
-      "formación-interesante"
-    ]
+    "tags": []
   },
   {
     "title": "10 atajos sencillos para hacer vídeos de YouTube más rápidos y fáciles",
@@ -137,7 +135,7 @@
     "type": "video",
     "folder": null,
     "tags": [],
-    "comments": "el documental de filmin muy interesante. añadir a temario"
+    "comments": "buen documental en filmin, meter en la documentación para compartirlo"
   },
   {
     "title": "24 fuentes GRATIS que parecen caras (¡Descárgalas!)",
@@ -1272,9 +1270,7 @@
     "url": "https://www.youtube.com/watch?v=QGDsjGvweb4",
     "type": "video",
     "folder": null,
-    "tags": [
-      "animación"
-    ]
+    "tags": []
   },
   {
     "title": "Give Me 15 Minutes. I'll Teach You 80% of Obsidian",
@@ -1561,9 +1557,7 @@
     "url": "https://www.youtube.com/watch?v=p7jqQepG3Kc",
     "type": "video",
     "folder": null,
-    "tags": [
-      "ventas"
-    ]
+    "tags": []
   },
   {
     "title": "How To Change Your Life",
@@ -1619,9 +1613,7 @@
     "url": "https://www.youtube.com/watch?v=DoyXz8gYvwA",
     "type": "video",
     "folder": null,
-    "tags": [
-      "framer---formación"
-    ]
+    "tags": []
   },
   {
     "title": "How To Position Your Design Company And Reduce Competition",
@@ -1842,7 +1834,7 @@
     "type": "video",
     "folder": null,
     "tags": [],
-    "comments": "maravilla de video",
+    "comments": "maravilla de video. Revisar este material",
     "featured": true
   },
   {
@@ -3638,7 +3630,7 @@
     "type": "video",
     "folder": "_Adobe + IA / Branding",
     "tags": [
-      "branding"
+      "Diseño"
     ]
   },
   {
@@ -3719,7 +3711,7 @@
     "type": "video",
     "folder": "_Curso Obsidian",
     "tags": [
-      "_curso obsidian"
+      "Obsidian"
     ]
   },
   {
@@ -3728,7 +3720,7 @@
     "type": "video",
     "folder": "_Curso Obsidian",
     "tags": [
-      "_curso obsidian"
+      "Obsidian"
     ]
   },
   {
@@ -3737,7 +3729,7 @@
     "type": "video",
     "folder": "_Curso Obsidian",
     "tags": [
-      "_curso obsidian"
+      "Obsidian"
     ]
   },
   {
@@ -3746,7 +3738,7 @@
     "type": "video",
     "folder": "_Curso Obsidian",
     "tags": [
-      "_curso obsidian"
+      "Obsidian"
     ]
   },
   {
@@ -3755,7 +3747,7 @@
     "type": "video",
     "folder": "_Curso Obsidian",
     "tags": [
-      "_curso obsidian"
+      "Obsidian"
     ]
   },
   {
@@ -3764,7 +3756,7 @@
     "type": "video",
     "folder": "_Curso Obsidian",
     "tags": [
-      "_curso obsidian"
+      "Obsidian"
     ]
   },
   {
@@ -3773,7 +3765,7 @@
     "type": "video",
     "folder": "_Curso Obsidian",
     "tags": [
-      "_curso obsidian"
+      "Obsidian"
     ]
   },
   {
@@ -3782,7 +3774,7 @@
     "type": "video",
     "folder": "_Curso Obsidian",
     "tags": [
-      "_curso obsidian"
+      "Obsidian"
     ]
   },
   {
@@ -3791,7 +3783,7 @@
     "type": "video",
     "folder": "_Curso Obsidian",
     "tags": [
-      "_curso obsidian"
+      "Obsidian"
     ]
   },
   {
@@ -3800,7 +3792,7 @@
     "type": "video",
     "folder": "_Curso Obsidian",
     "tags": [
-      "_curso obsidian"
+      "Obsidian"
     ]
   },
   {
@@ -3927,7 +3919,7 @@
     "type": "video",
     "folder": "_Spline",
     "tags": [
-      "_spline"
+      "Ux motion"
     ]
   },
   {
@@ -3936,7 +3928,7 @@
     "type": "video",
     "folder": "_Spline",
     "tags": [
-      "_spline"
+      "Ux motion"
     ]
   },
   {
@@ -3945,7 +3937,7 @@
     "type": "video",
     "folder": "_Spline",
     "tags": [
-      "_spline"
+      "Ux motion"
     ]
   },
   {
@@ -3954,7 +3946,7 @@
     "type": "video",
     "folder": "_Spline",
     "tags": [
-      "_spline"
+      "Ux motion"
     ]
   },
   {
@@ -3963,7 +3955,7 @@
     "type": "video",
     "folder": "_Spline",
     "tags": [
-      "_spline"
+      "Ux motion"
     ]
   },
   {
@@ -3972,7 +3964,7 @@
     "type": "video",
     "folder": "_Spline",
     "tags": [
-      "_spline"
+      "Ux motion"
     ]
   },
   {
@@ -3981,7 +3973,7 @@
     "type": "video",
     "folder": "_Spline",
     "tags": [
-      "_spline"
+      "Ux motion"
     ]
   },
   {
@@ -3990,7 +3982,7 @@
     "type": "video",
     "folder": "_Spline",
     "tags": [
-      "_spline"
+      "Ux motion"
     ]
   },
   {
@@ -4053,7 +4045,7 @@
     "type": "video",
     "folder": "a WALLING",
     "tags": [
-      "a walling"
+      "Guardar"
     ]
   },
   {
@@ -4062,7 +4054,7 @@
     "type": "video",
     "folder": "a WALLING",
     "tags": [
-      "a walling"
+      "Guardar"
     ]
   },
   {
@@ -4071,7 +4063,7 @@
     "type": "video",
     "folder": "a WALLING",
     "tags": [
-      "a walling"
+      "Guardar"
     ],
     "featured": true
   },
@@ -4081,7 +4073,7 @@
     "type": "video",
     "folder": "a WALLING",
     "tags": [
-      "a walling"
+      "Guardar"
     ],
     "featured": true,
     "comments": "visto, pero hay que revisarlo de nuevo y compartirlo"
@@ -4092,7 +4084,7 @@
     "type": "video",
     "folder": "a WALLING",
     "tags": [
-      "a walling"
+      "Guardar"
     ]
   },
   {
@@ -4101,7 +4093,7 @@
     "type": "video",
     "folder": "a WALLING",
     "tags": [
-      "a walling"
+      "Guardar"
     ]
   },
   {
@@ -4110,7 +4102,7 @@
     "type": "video",
     "folder": "a WALLING",
     "tags": [
-      "a walling"
+      "Guardar"
     ]
   },
   {
@@ -4119,7 +4111,7 @@
     "type": "video",
     "folder": "Accesibilidad",
     "tags": [
-      "accesibilidad"
+      "Diseño"
     ]
   },
   {
@@ -4146,7 +4138,7 @@
     "type": "video",
     "folder": "After Effects",
     "tags": [
-      "after effects"
+      "Ux motion"
     ]
   },
   {
@@ -4155,7 +4147,7 @@
     "type": "video",
     "folder": "After Effects",
     "tags": [
-      "after effects"
+      "Ux motion"
     ]
   },
   {
@@ -4164,7 +4156,7 @@
     "type": "video",
     "folder": "After Effects",
     "tags": [
-      "after effects"
+      "Ux motion"
     ]
   },
   {
@@ -4272,7 +4264,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4281,7 +4273,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4290,7 +4282,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4299,7 +4291,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4308,7 +4300,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4317,7 +4309,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4326,7 +4318,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4335,7 +4327,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4344,7 +4336,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4353,7 +4345,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4362,7 +4354,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4371,7 +4363,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4380,7 +4372,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4389,7 +4381,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4398,7 +4390,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4407,7 +4399,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4416,7 +4408,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4425,7 +4417,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4434,7 +4426,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4443,7 +4435,7 @@
     "type": "video",
     "folder": "Audio - DESCARGAR",
     "tags": [
-      "audio - descargar"
+      "Descargar"
     ]
   },
   {
@@ -4524,7 +4516,7 @@
     "type": "video",
     "folder": "C4D",
     "tags": [
-      "c4d"
+      "Ux motion"
     ]
   },
   {
@@ -4533,7 +4525,7 @@
     "type": "video",
     "folder": "C4D",
     "tags": [
-      "c4d"
+      "Ux motion"
     ]
   },
   {
@@ -4542,7 +4534,7 @@
     "type": "video",
     "folder": "C4D",
     "tags": [
-      "c4d"
+      "Ux motion"
     ]
   },
   {
@@ -4551,7 +4543,7 @@
     "type": "video",
     "folder": "C4D",
     "tags": [
-      "c4d"
+      "Ux motion"
     ]
   },
   {
@@ -4560,7 +4552,7 @@
     "type": "video",
     "folder": "C4D",
     "tags": [
-      "c4d"
+      "Ux motion"
     ]
   },
   {
@@ -4569,7 +4561,7 @@
     "type": "video",
     "folder": "C4D",
     "tags": [
-      "c4d"
+      "Ux motion"
     ]
   },
   {
@@ -4578,7 +4570,7 @@
     "type": "video",
     "folder": "C4D",
     "tags": [
-      "c4d"
+      "Ux motion"
     ]
   },
   {
@@ -4587,7 +4579,7 @@
     "type": "video",
     "folder": "Caprichos",
     "tags": [
-      "caprichos"
+      "Caprichos"
     ]
   },
   {
@@ -4596,7 +4588,7 @@
     "type": "video",
     "folder": "Caprichos",
     "tags": [
-      "caprichos"
+      "Caprichos"
     ]
   },
   {
@@ -4605,7 +4597,7 @@
     "type": "video",
     "folder": "Caprichos",
     "tags": [
-      "caprichos"
+      "Caprichos"
     ]
   },
   {
@@ -4614,7 +4606,7 @@
     "type": "video",
     "folder": "Caprichos",
     "tags": [
-      "caprichos"
+      "Caprichos"
     ]
   },
   {
@@ -4623,7 +4615,7 @@
     "type": "video",
     "folder": "Caprichos",
     "tags": [
-      "caprichos"
+      "Caprichos"
     ]
   },
   {
@@ -4632,7 +4624,7 @@
     "type": "video",
     "folder": "Caprichos",
     "tags": [
-      "caprichos"
+      "Caprichos"
     ]
   },
   {
@@ -4641,7 +4633,7 @@
     "type": "video",
     "folder": "Caprichos",
     "tags": [
-      "caprichos"
+      "Caprichos"
     ]
   },
   {
@@ -4650,7 +4642,7 @@
     "type": "video",
     "folder": "Caprichos",
     "tags": [
-      "caprichos"
+      "Caprichos"
     ]
   },
   {
@@ -4659,7 +4651,7 @@
     "type": "video",
     "folder": "Caprichos",
     "tags": [
-      "caprichos"
+      "Caprichos"
     ]
   },
   {
@@ -4668,7 +4660,7 @@
     "type": "video",
     "folder": "Caprichos",
     "tags": [
-      "caprichos"
+      "Caprichos"
     ]
   },
   {
@@ -4677,7 +4669,7 @@
     "type": "video",
     "folder": "Caprichos",
     "tags": [
-      "caprichos"
+      "Caprichos"
     ]
   },
   {
@@ -4686,7 +4678,7 @@
     "type": "video",
     "folder": "Caprichos",
     "tags": [
-      "caprichos"
+      "Caprichos"
     ]
   },
   {
@@ -4695,7 +4687,7 @@
     "type": "video",
     "folder": "Caprichos",
     "tags": [
-      "caprichos"
+      "Caprichos"
     ]
   },
   {
@@ -4704,7 +4696,7 @@
     "type": "video",
     "folder": "Caprichos",
     "tags": [
-      "caprichos"
+      "Caprichos"
     ]
   },
   {
@@ -4713,7 +4705,7 @@
     "type": "video",
     "folder": "Caprichos",
     "tags": [
-      "caprichos"
+      "Caprichos"
     ]
   },
   {
@@ -4722,7 +4714,7 @@
     "type": "video",
     "folder": "Caprichos",
     "tags": [
-      "caprichos"
+      "Caprichos"
     ]
   },
   {
@@ -4731,7 +4723,7 @@
     "type": "video",
     "folder": "Caprichos",
     "tags": [
-      "caprichos"
+      "Caprichos"
     ]
   },
   {
@@ -4749,7 +4741,7 @@
     "type": "video",
     "folder": "Claude",
     "tags": [
-      "claude"
+      "Claude"
     ]
   },
   {
@@ -4758,7 +4750,7 @@
     "type": "video",
     "folder": "Claude",
     "tags": [
-      "claude"
+      "Claude"
     ]
   },
   {
@@ -4767,7 +4759,7 @@
     "type": "video",
     "folder": "Claude",
     "tags": [
-      "claude"
+      "Claude"
     ]
   },
   {
@@ -4776,7 +4768,7 @@
     "type": "video",
     "folder": "Claude",
     "tags": [
-      "claude"
+      "Claude"
     ]
   },
   {
@@ -4785,7 +4777,7 @@
     "type": "video",
     "folder": "Claude",
     "tags": [
-      "claude"
+      "Claude"
     ]
   },
   {
@@ -4794,7 +4786,7 @@
     "type": "video",
     "folder": "Claude",
     "tags": [
-      "claude"
+      "Claude"
     ]
   },
   {
@@ -4803,7 +4795,7 @@
     "type": "video",
     "folder": "Claude",
     "tags": [
-      "claude"
+      "Claude"
     ]
   },
   {
@@ -4812,7 +4804,7 @@
     "type": "video",
     "folder": "Claude",
     "tags": [
-      "claude"
+      "Claude"
     ]
   },
   {
@@ -4821,7 +4813,7 @@
     "type": "video",
     "folder": "Claude",
     "tags": [
-      "claude"
+      "Claude"
     ]
   },
   {
@@ -4830,7 +4822,7 @@
     "type": "video",
     "folder": "Claude",
     "tags": [
-      "claude"
+      "Claude"
     ]
   },
   {
@@ -4839,7 +4831,7 @@
     "type": "video",
     "folder": "COLOR",
     "tags": [
-      "color"
+      "Color"
     ]
   },
   {
@@ -4848,7 +4840,7 @@
     "type": "video",
     "folder": "COLOR",
     "tags": [
-      "color"
+      "Color"
     ]
   },
   {
@@ -4857,7 +4849,7 @@
     "type": "video",
     "folder": "COLOR",
     "tags": [
-      "color"
+      "Color"
     ]
   },
   {
@@ -4866,7 +4858,7 @@
     "type": "video",
     "folder": "COLOR",
     "tags": [
-      "color"
+      "Color"
     ]
   },
   {
@@ -4875,7 +4867,7 @@
     "type": "video",
     "folder": "COLOR",
     "tags": [
-      "color"
+      "Color"
     ]
   },
   {
@@ -4884,7 +4876,7 @@
     "type": "video",
     "folder": "COLOR",
     "tags": [
-      "color"
+      "Color"
     ]
   },
   {
@@ -4893,7 +4885,7 @@
     "type": "video",
     "folder": "COLOR",
     "tags": [
-      "color"
+      "Color"
     ]
   },
   {
@@ -4911,7 +4903,7 @@
     "type": "video",
     "folder": "COMPARTIR en redes",
     "tags": [
-      "compartir en redes"
+      "Compartir"
     ]
   },
   {
@@ -4920,7 +4912,7 @@
     "type": "video",
     "folder": "Compartir en redes",
     "tags": [
-      "compartir en redes"
+      "Compartir"
     ]
   },
   {
@@ -4929,7 +4921,7 @@
     "type": "video",
     "folder": "Compartir en redes",
     "tags": [
-      "compartir en redes"
+      "Compartir"
     ]
   },
   {
@@ -4938,7 +4930,7 @@
     "type": "video",
     "folder": "COMPARTIR en redes",
     "tags": [
-      "compartir en redes"
+      "Compartir"
     ]
   },
   {
@@ -4947,7 +4939,7 @@
     "type": "video",
     "folder": "Compartir en redes",
     "tags": [
-      "compartir en redes"
+      "Compartir"
     ]
   },
   {
@@ -4956,7 +4948,7 @@
     "type": "video",
     "folder": "compartir en redes",
     "tags": [
-      "compartir en redes"
+      "Compartir"
     ]
   },
   {
@@ -4965,7 +4957,7 @@
     "type": "video",
     "folder": "COMPARTIR en redes",
     "tags": [
-      "compartir en redes"
+      "Compartir"
     ]
   },
   {
@@ -4974,7 +4966,7 @@
     "type": "video",
     "folder": "COMPARTIR en redes",
     "tags": [
-      "compartir en redes"
+      "Compartir"
     ]
   },
   {
@@ -4983,7 +4975,7 @@
     "type": "video",
     "folder": "Compartir en redes",
     "tags": [
-      "compartir en redes"
+      "Compartir"
     ]
   },
   {
@@ -5091,7 +5083,7 @@
     "type": "video",
     "folder": "CONTENIDOS (Publicar) / VLOG - HOSPITALIDAD",
     "tags": [
-      "vlog - hospitalidad"
+      "Vlog"
     ]
   },
   {
@@ -5100,7 +5092,7 @@
     "type": "video",
     "folder": "CONTENIDOS (Publicar) / VLOG - HOSPITALIDAD",
     "tags": [
-      "vlog - hospitalidad"
+      "Vlog"
     ]
   },
   {
@@ -5109,7 +5101,7 @@
     "type": "video",
     "folder": "CONTENIDOS (Publicar) / VLOG - HOSPITALIDAD",
     "tags": [
-      "vlog - hospitalidad"
+      "Vlog"
     ]
   },
   {
@@ -5118,7 +5110,7 @@
     "type": "video",
     "folder": "CONTENIDOS (Publicar) / VLOG - HOSPITALIDAD",
     "tags": [
-      "vlog - hospitalidad"
+      "Vlog"
     ]
   },
   {
@@ -5127,7 +5119,7 @@
     "type": "video",
     "folder": "CONTENIDOS (Publicar) / VLOG - HOSPITALIDAD",
     "tags": [
-      "vlog - hospitalidad"
+      "Vlog"
     ]
   },
   {
@@ -5136,7 +5128,7 @@
     "type": "video",
     "folder": "CONTENIDOS (Publicar) / VLOG - HOSPITALIDAD",
     "tags": [
-      "vlog - hospitalidad"
+      "Vlog"
     ]
   },
   {
@@ -5145,7 +5137,7 @@
     "type": "video",
     "folder": "CONTENIDOS (Publicar) / VLOG - HOSPITALIDAD",
     "tags": [
-      "vlog - hospitalidad"
+      "Vlog"
     ]
   },
   {
@@ -5154,7 +5146,7 @@
     "type": "video",
     "folder": "CONTENIDOS (Publicar) / VLOG - HOSPITALIDAD",
     "tags": [
-      "vlog - hospitalidad"
+      "Vlog"
     ]
   },
   {
@@ -5217,7 +5209,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5226,7 +5218,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5235,7 +5227,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5244,7 +5236,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5253,7 +5245,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5262,7 +5254,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5271,7 +5263,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5280,7 +5272,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5289,7 +5281,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5298,7 +5290,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5307,7 +5299,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5316,7 +5308,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5325,7 +5317,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5334,7 +5326,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5343,7 +5335,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5352,7 +5344,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5361,7 +5353,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5370,7 +5362,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5379,7 +5371,7 @@
     "type": "video",
     "folder": "Cuando te aburras",
     "tags": [
-      "cuando te aburras"
+      "curiosidad"
     ]
   },
   {
@@ -5739,7 +5731,7 @@
     "type": "video",
     "folder": "CURSO - IA y Diseño (C2B)",
     "tags": [
-      "curso - ia y diseño (c2b)"
+      "Curso ia"
     ]
   },
   {
@@ -5748,7 +5740,7 @@
     "type": "video",
     "folder": "CURSO - IA y Diseño (C2B)",
     "tags": [
-      "curso - ia y diseño (c2b)"
+      "Curso ia"
     ]
   },
   {
@@ -5757,7 +5749,7 @@
     "type": "video",
     "folder": "CURSO - IA y Diseño (C2B)",
     "tags": [
-      "curso - ia y diseño (c2b)"
+      "Curso ia"
     ]
   },
   {
@@ -5766,7 +5758,7 @@
     "type": "video",
     "folder": "CURSO - IA y Diseño (C2B)",
     "tags": [
-      "curso - ia y diseño (c2b)"
+      "Curso ia"
     ]
   },
   {
@@ -5775,7 +5767,7 @@
     "type": "video",
     "folder": "CURSO - IA y Diseño (C2B)",
     "tags": [
-      "curso - ia y diseño (c2b)"
+      "Curso ia"
     ]
   },
   {
@@ -5784,7 +5776,7 @@
     "type": "video",
     "folder": "CURSO - IA y Diseño (C2B)",
     "tags": [
-      "curso - ia y diseño (c2b)"
+      "Curso ia"
     ]
   },
   {
@@ -5793,7 +5785,7 @@
     "type": "video",
     "folder": "CURSO - IA y Diseño (C2B)",
     "tags": [
-      "curso - ia y diseño (c2b)"
+      "Curso ia"
     ]
   },
   {
@@ -5802,7 +5794,7 @@
     "type": "video",
     "folder": "CURSO - IA y Diseño (C2B)",
     "tags": [
-      "curso - ia y diseño (c2b)"
+      "Curso ia"
     ]
   },
   {
@@ -5811,7 +5803,7 @@
     "type": "video",
     "folder": "CURSO - IA y Diseño (C2B)",
     "tags": [
-      "curso - ia y diseño (c2b)"
+      "Curso ia"
     ]
   },
   {
@@ -5820,7 +5812,7 @@
     "type": "video",
     "folder": "CURSO - IA y Diseño (C2B)",
     "tags": [
-      "curso - ia y diseño (c2b)"
+      "Curso ia"
     ]
   },
   {
@@ -5829,7 +5821,7 @@
     "type": "video",
     "folder": "CURSO - IA y Diseño (C2B)",
     "tags": [
-      "curso - ia y diseño (c2b)"
+      "Curso ia"
     ]
   },
   {
@@ -5928,7 +5920,7 @@
     "type": "video",
     "folder": "Curso Design Eskola (septiembre 2025) / Color",
     "tags": [
-      "color"
+      "Color"
     ]
   },
   {
@@ -5964,8 +5956,7 @@
     "type": "video",
     "folder": "Curso Hotjar",
     "tags": [
-      "curso-hotjar",
-      "research"
+      "curso hotjar"
     ]
   },
   {
@@ -6010,7 +6001,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6019,7 +6010,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6028,7 +6019,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6037,7 +6028,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6046,7 +6037,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6055,7 +6046,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6064,7 +6055,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6073,7 +6064,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6082,7 +6073,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6091,7 +6082,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6100,7 +6091,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6109,7 +6100,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6118,7 +6109,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6127,7 +6118,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6136,7 +6127,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6145,7 +6136,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6154,7 +6145,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6163,7 +6154,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6172,7 +6163,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6181,7 +6172,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6190,7 +6181,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6199,7 +6190,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6208,7 +6199,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6217,7 +6208,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6226,7 +6217,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6235,7 +6226,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6244,7 +6235,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6253,7 +6244,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6262,7 +6253,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6271,7 +6262,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6280,7 +6271,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6289,7 +6280,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6298,7 +6289,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6307,7 +6298,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6316,7 +6307,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6325,7 +6316,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6334,7 +6325,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6343,7 +6334,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6352,7 +6343,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6361,7 +6352,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6370,7 +6361,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6379,7 +6370,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6388,7 +6379,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6397,7 +6388,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6406,7 +6397,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6415,7 +6406,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6424,7 +6415,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6433,7 +6424,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6442,7 +6433,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6451,7 +6442,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6460,7 +6451,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6469,7 +6460,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6478,7 +6469,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6487,7 +6478,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6496,7 +6487,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6505,7 +6496,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6514,7 +6505,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6523,7 +6514,7 @@
     "type": "video",
     "folder": "Curso Photoshop",
     "tags": [
-      "curso photoshop"
+      "Photoshop"
     ]
   },
   {
@@ -6631,7 +6622,7 @@
     "type": "video",
     "folder": "DESDE DENTRO (La Nave) / 2024 Posicionamiento Profesional / ESTRATEGIA 2024",
     "tags": [
-      "estrategia 2024"
+      "Estrategia"
     ]
   },
   {
@@ -6640,7 +6631,7 @@
     "type": "video",
     "folder": "DESDE DENTRO (La Nave) / 2024 Posicionamiento Profesional / ESTRATEGIA 2024",
     "tags": [
-      "estrategia 2024"
+      "Estrategia"
     ]
   },
   {
@@ -6649,7 +6640,7 @@
     "type": "video",
     "folder": "DESDE DENTRO (La Nave) / 2024 Posicionamiento Profesional / ESTRATEGIA 2024",
     "tags": [
-      "estrategia 2024"
+      "Estrategia"
     ]
   },
   {
@@ -6658,7 +6649,7 @@
     "type": "video",
     "folder": "DESDE DENTRO (La Nave) / 2024 Posicionamiento Profesional / ESTRATEGIA 2024",
     "tags": [
-      "estrategia 2024"
+      "Estrategia"
     ]
   },
   {
@@ -6667,7 +6658,7 @@
     "type": "video",
     "folder": "DESDE DENTRO (La Nave) / 2024 Posicionamiento Profesional / ESTRATEGIA 2024",
     "tags": [
-      "estrategia 2024"
+      "Estrategia"
     ]
   },
   {
@@ -6676,7 +6667,7 @@
     "type": "video",
     "folder": "DESDE DENTRO (La Nave) / 2024 Posicionamiento Profesional / ESTRATEGIA 2024",
     "tags": [
-      "estrategia 2024"
+      "Estrategia"
     ]
   },
   {
@@ -6685,7 +6676,7 @@
     "type": "video",
     "folder": "DESDE DENTRO (La Nave) / 2024 Posicionamiento Profesional / ESTRATEGIA 2024",
     "tags": [
-      "estrategia 2024"
+      "Estrategia"
     ]
   },
   {
@@ -6694,7 +6685,7 @@
     "type": "video",
     "folder": "DESDE DENTRO (La Nave) / 2024 Posicionamiento Profesional / ESTRATEGIA 2024",
     "tags": [
-      "estrategia 2024"
+      "Estrategia"
     ]
   },
   {
@@ -6703,7 +6694,7 @@
     "type": "video",
     "folder": "DESDE DENTRO (La Nave) / 2024 Posicionamiento Profesional / ESTRATEGIA 2024",
     "tags": [
-      "estrategia 2024"
+      "Estrategia"
     ]
   },
   {
@@ -6712,7 +6703,7 @@
     "type": "video",
     "folder": "DESDE DENTRO (La Nave) / 2024 Posicionamiento Profesional / ESTRATEGIA 2024",
     "tags": [
-      "estrategia 2024"
+      "Estrategia"
     ]
   },
   {
@@ -6865,7 +6856,7 @@
     "type": "video",
     "folder": "Enpresa Digitala - Storytelling con IA",
     "tags": [
-      "enpresa digitala - storytelling con ia"
+      "Storytelling"
     ]
   },
   {
@@ -6874,7 +6865,7 @@
     "type": "video",
     "folder": "Enpresa Digitala - Storytelling con IA",
     "tags": [
-      "enpresa digitala - storytelling con ia"
+      "Storytelling"
     ]
   },
   {
@@ -6883,7 +6874,7 @@
     "type": "video",
     "folder": "Enpresa Digitala - Storytelling con IA",
     "tags": [
-      "enpresa digitala - storytelling con ia"
+      "Storytelling"
     ]
   },
   {
@@ -6892,7 +6883,7 @@
     "type": "video",
     "folder": "Enpresa Digitala - Storytelling con IA",
     "tags": [
-      "enpresa digitala - storytelling con ia"
+      "Storytelling"
     ]
   },
   {
@@ -6901,7 +6892,7 @@
     "type": "video",
     "folder": "Enpresa Digitala - Storytelling con IA",
     "tags": [
-      "enpresa digitala - storytelling con ia"
+      "Storytelling"
     ]
   },
   {
@@ -6910,7 +6901,7 @@
     "type": "video",
     "folder": "Enpresa Digitala - Storytelling con IA",
     "tags": [
-      "enpresa digitala - storytelling con ia"
+      "Storytelling"
     ]
   },
   {
@@ -6919,7 +6910,7 @@
     "type": "video",
     "folder": "Enpresa Digitala - Storytelling con IA",
     "tags": [
-      "enpresa digitala - storytelling con ia"
+      "Storytelling"
     ]
   },
   {
@@ -6928,7 +6919,7 @@
     "type": "video",
     "folder": "Enpresa Digitala - Storytelling con IA",
     "tags": [
-      "enpresa digitala - storytelling con ia"
+      "Storytelling"
     ]
   },
   {
@@ -6937,7 +6928,7 @@
     "type": "video",
     "folder": "Enpresa Digitala - Storytelling con IA",
     "tags": [
-      "enpresa digitala - storytelling con ia"
+      "Storytelling"
     ]
   },
   {
@@ -6946,7 +6937,7 @@
     "type": "video",
     "folder": "Enpresa Digitala - Storytelling con IA",
     "tags": [
-      "enpresa digitala - storytelling con ia"
+      "Storytelling"
     ]
   },
   {
@@ -7045,7 +7036,7 @@
     "type": "video",
     "folder": "Figma",
     "tags": [
-      "figma"
+      "Figma"
     ]
   },
   {
@@ -7054,7 +7045,7 @@
     "type": "video",
     "folder": "Figma",
     "tags": [
-      "figma"
+      "Figma"
     ]
   },
   {
@@ -7063,7 +7054,7 @@
     "type": "video",
     "folder": "Figma",
     "tags": [
-      "figma"
+      "Figma"
     ]
   },
   {
@@ -7072,7 +7063,7 @@
     "type": "video",
     "folder": "Figma",
     "tags": [
-      "figma"
+      "Figma"
     ]
   },
   {
@@ -7081,7 +7072,7 @@
     "type": "video",
     "folder": "Figma",
     "tags": [
-      "figma"
+      "Figma"
     ]
   },
   {
@@ -7090,7 +7081,7 @@
     "type": "video",
     "folder": "Figma",
     "tags": [
-      "figma"
+      "Figma"
     ]
   },
   {
@@ -7099,7 +7090,7 @@
     "type": "video",
     "folder": "Figma",
     "tags": [
-      "figma"
+      "Figma"
     ]
   },
   {
@@ -7108,7 +7099,7 @@
     "type": "video",
     "folder": "Figma",
     "tags": [
-      "figma"
+      "Figma"
     ]
   },
   {
@@ -7117,7 +7108,7 @@
     "type": "video",
     "folder": "Figma",
     "tags": [
-      "figma"
+      "Figma"
     ]
   },
   {
@@ -7162,7 +7153,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7171,7 +7162,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7180,7 +7171,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7189,7 +7180,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7198,7 +7189,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7207,7 +7198,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7216,7 +7207,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7225,7 +7216,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7234,7 +7225,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7243,7 +7234,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7252,7 +7243,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7261,7 +7252,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7270,7 +7261,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7279,7 +7270,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7288,8 +7279,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma-config",
-      "evento-diseño-(desde-casa)"
+      "Figma"
     ]
   },
   {
@@ -7298,7 +7288,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7307,7 +7297,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7316,7 +7306,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7325,7 +7315,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7334,7 +7324,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7343,7 +7333,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7352,7 +7342,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7361,7 +7351,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7370,7 +7360,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7379,7 +7369,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7388,7 +7378,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7397,7 +7387,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7406,7 +7396,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7415,7 +7405,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7424,7 +7414,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7433,7 +7423,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7442,7 +7432,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7451,7 +7441,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7460,7 +7450,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7469,7 +7459,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7478,7 +7468,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7487,7 +7477,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7496,7 +7486,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7505,7 +7495,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7514,7 +7504,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7523,7 +7513,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7532,7 +7522,7 @@
     "type": "video",
     "folder": "Figma / Figma config",
     "tags": [
-      "figma config"
+      "Figma"
     ]
   },
   {
@@ -7541,7 +7531,7 @@
     "type": "video",
     "folder": "Figma Curso",
     "tags": [
-      "figma curso"
+      "Figma"
     ]
   },
   {
@@ -7550,7 +7540,7 @@
     "type": "video",
     "folder": "Figma Curso",
     "tags": [
-      "figma curso"
+      "Figma"
     ]
   },
   {
@@ -7559,7 +7549,7 @@
     "type": "video",
     "folder": "Figma Curso",
     "tags": [
-      "figma curso"
+      "Figma"
     ]
   },
   {
@@ -7568,7 +7558,7 @@
     "type": "video",
     "folder": "Figma Curso",
     "tags": [
-      "figma curso"
+      "Figma"
     ]
   },
   {
@@ -7577,7 +7567,7 @@
     "type": "video",
     "folder": "Figma Curso",
     "tags": [
-      "figma curso"
+      "Figma"
     ]
   },
   {
@@ -7586,7 +7576,7 @@
     "type": "video",
     "folder": "Figma Curso",
     "tags": [
-      "figma curso"
+      "Figma"
     ]
   },
   {
@@ -7595,7 +7585,7 @@
     "type": "video",
     "folder": "Figma Curso",
     "tags": [
-      "figma curso"
+      "Figma"
     ]
   },
   {
@@ -7613,7 +7603,7 @@
     "type": "video",
     "folder": "FORMACIÓN en marcha / FIGMA",
     "tags": [
-      "figma"
+      "Figma"
     ]
   },
   {
@@ -7639,135 +7629,105 @@
     "url": "https://www.youtube.com/watch?v=vfA-fCOpcA8",
     "type": "video",
     "folder": "FORMACIÓN en marcha / INSTRUCTIONAL DESIGN / STORYLINE - tutoriales",
-    "tags": [
-      "storyline - tutoriales"
-    ]
+    "tags": []
   },
   {
     "title": "Development | Scenes vs slides",
     "url": "https://www.youtube.com/watch?v=ziX5GvRilyE",
     "type": "video",
     "folder": "FORMACIÓN en marcha / INSTRUCTIONAL DESIGN / STORYLINE - tutoriales",
-    "tags": [
-      "storyline - tutoriales"
-    ]
+    "tags": []
   },
   {
     "title": "Development | Starting a project with Storyline",
     "url": "https://www.youtube.com/watch?v=K5lotXqo_bY",
     "type": "video",
     "folder": "FORMACIÓN en marcha / INSTRUCTIONAL DESIGN / STORYLINE - tutoriales",
-    "tags": [
-      "storyline - tutoriales"
-    ]
+    "tags": []
   },
   {
     "title": "Development | Themes and Templates",
     "url": "https://www.youtube.com/watch?v=QCuz7rJZiDA",
     "type": "video",
     "folder": "FORMACIÓN en marcha / INSTRUCTIONAL DESIGN / STORYLINE - tutoriales",
-    "tags": [
-      "storyline - tutoriales"
-    ]
+    "tags": []
   },
   {
     "title": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F3rgKV28hgeA%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3rgKV28hgeA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3rgKV28hgeA%2Fhqdefault.jpg&key=40cb30655a7f4a46adaaf18efb05db21&type=text%2Fhtml&schema=youtube",
     "url": "https://www.youtube.com/watch?v=3rgKV28hgeA",
     "type": "video",
     "folder": "FORMACIÓN en marcha / INSTRUCTIONAL DESIGN / STORYLINE - tutoriales",
-    "tags": [
-      "storyline - tutoriales"
-    ]
+    "tags": []
   },
   {
     "title": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FDENAUXbEV44%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDENAUXbEV44&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FDENAUXbEV44%2Fhqdefault.jpg&key=40cb30655a7f4a46adaaf18efb05db21&type=text%2Fhtml&schema=youtube",
     "url": "https://www.youtube.com/watch?v=DENAUXbEV44",
     "type": "video",
     "folder": "FORMACIÓN en marcha / INSTRUCTIONAL DESIGN / STORYLINE - tutoriales",
-    "tags": [
-      "storyline - tutoriales"
-    ]
+    "tags": []
   },
   {
     "title": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fdfywe1nC0xY%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ddfywe1nC0xY&key=40cb30655a7f4a46adaaf18efb05db21&type=text%2Fhtml&schema=youtube",
     "url": "https://www.youtube.com/watch?v=dfywe1nC0xY",
     "type": "video",
     "folder": "FORMACIÓN en marcha / INSTRUCTIONAL DESIGN / STORYLINE - tutoriales",
-    "tags": [
-      "storyline - tutoriales"
-    ]
+    "tags": []
   },
   {
     "title": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FElbElaN6wA8%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DElbElaN6wA8&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FElbElaN6wA8%2Fhqdefault.jpg&key=40cb30655a7f4a46adaaf18efb05db21&type=text%2Fhtml&schema=youtube",
     "url": "https://www.youtube.com/watch?v=ElbElaN6wA8",
     "type": "video",
     "folder": "FORMACIÓN en marcha / INSTRUCTIONAL DESIGN / STORYLINE - tutoriales",
-    "tags": [
-      "storyline - tutoriales"
-    ]
+    "tags": []
   },
   {
     "title": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FfFqIfuoMS0U%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfFqIfuoMS0U&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfFqIfuoMS0U%2Fhqdefault.jpg&key=40cb30655a7f4a46adaaf18efb05db21&type=text%2Fhtml&schema=youtube",
     "url": "https://www.youtube.com/watch?v=fFqIfuoMS0U",
     "type": "video",
     "folder": "FORMACIÓN en marcha / INSTRUCTIONAL DESIGN / STORYLINE - tutoriales",
-    "tags": [
-      "storyline - tutoriales"
-    ]
+    "tags": []
   },
   {
     "title": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fk-doS0cuu6M%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dk-doS0cuu6M&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fk-doS0cuu6M%2Fhqdefault.jpg&key=40cb30655a7f4a46adaaf18efb05db21&type=text%2Fhtml&schema=youtube",
     "url": "https://www.youtube.com/watch?v=k-doS0cuu6M",
     "type": "video",
     "folder": "FORMACIÓN en marcha / INSTRUCTIONAL DESIGN / STORYLINE - tutoriales",
-    "tags": [
-      "storyline - tutoriales"
-    ]
+    "tags": []
   },
   {
     "title": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FKEZvqxMwCeo%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKEZvqxMwCeo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKEZvqxMwCeo%2Fhqdefault.jpg&key=40cb30655a7f4a46adaaf18efb05db21&type=text%2Fhtml&schema=youtube",
     "url": "https://www.youtube.com/watch?v=KEZvqxMwCeo",
     "type": "video",
     "folder": "FORMACIÓN en marcha / INSTRUCTIONAL DESIGN / STORYLINE - tutoriales",
-    "tags": [
-      "storyline - tutoriales"
-    ]
+    "tags": []
   },
   {
     "title": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FNlaT69y-irI%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNlaT69y-irI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNlaT69y-irI%2Fhqdefault.jpg&key=40cb30655a7f4a46adaaf18efb05db21&type=text%2Fhtml&schema=youtube",
     "url": "https://www.youtube.com/watch?v=NlaT69y-irI",
     "type": "video",
     "folder": "FORMACIÓN en marcha / INSTRUCTIONAL DESIGN / STORYLINE - tutoriales",
-    "tags": [
-      "storyline - tutoriales"
-    ]
+    "tags": []
   },
   {
     "title": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FUEmJ57qB74w%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUEmJ57qB74w&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FUEmJ57qB74w%2Fhqdefault.jpg&key=40cb30655a7f4a46adaaf18efb05db21&type=text%2Fhtml&schema=youtube",
     "url": "https://www.youtube.com/watch?v=UEmJ57qB74w",
     "type": "video",
     "folder": "FORMACIÓN en marcha / INSTRUCTIONAL DESIGN / STORYLINE - tutoriales",
-    "tags": [
-      "storyline - tutoriales"
-    ]
+    "tags": []
   },
   {
     "title": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FZcB2qg-1jUc%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZcB2qg-1jUc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZcB2qg-1jUc%2Fhqdefault.jpg&key=40cb30655a7f4a46adaaf18efb05db21&type=text%2Fhtml&schema=youtube",
     "url": "https://www.youtube.com/watch?v=ZcB2qg-1jUc",
     "type": "video",
     "folder": "FORMACIÓN en marcha / INSTRUCTIONAL DESIGN / STORYLINE - tutoriales",
-    "tags": [
-      "storyline - tutoriales"
-    ]
+    "tags": []
   },
   {
     "title": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FzFDkNACc5kc%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzFDkNACc5kc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FzFDkNACc5kc%2Fhqdefault.jpg&key=40cb30655a7f4a46adaaf18efb05db21&type=text%2Fhtml&schema=youtube",
     "url": "https://www.youtube.com/watch?v=zFDkNACc5kc",
     "type": "video",
     "folder": "FORMACIÓN en marcha / INSTRUCTIONAL DESIGN / STORYLINE - tutoriales",
-    "tags": [
-      "storyline - tutoriales"
-    ]
+    "tags": []
   },
   {
     "title": "Preparing Vector Ai files for Motion (after effects import) | Lesson 2 Motion Brand Design",
@@ -7775,7 +7735,7 @@
     "type": "video",
     "folder": "FORMACIÓN en marcha / UX MOTION",
     "tags": [
-      "ux motion"
+      "Ux motion"
     ]
   },
   {
@@ -7784,7 +7744,7 @@
     "type": "video",
     "folder": "FORMACIÓN en marcha / UX MOTION",
     "tags": [
-      "ux motion"
+      "Ux motion"
     ]
   },
   {
@@ -7793,8 +7753,7 @@
     "type": "video",
     "folder": "FORMACIÓN interesante",
     "tags": [
-      "formación-interesante",
-      "uxmotion"
+      "Formación interesante"
     ]
   },
   {
@@ -7803,7 +7762,7 @@
     "type": "video",
     "folder": "FORMACIÓN interesante",
     "tags": [
-      "formación interesante"
+      "Formación interesante"
     ]
   },
   {
@@ -7812,7 +7771,7 @@
     "type": "video",
     "folder": "FORMACIÓN interesante",
     "tags": [
-      "formación interesante"
+      "Formación interesante"
     ]
   },
   {
@@ -7821,7 +7780,7 @@
     "type": "video",
     "folder": "FORMACIÓN interesante",
     "tags": [
-      "formación interesante"
+      "Formación interesante"
     ]
   },
   {
@@ -7830,7 +7789,7 @@
     "type": "video",
     "folder": "FORMACIÓN interesante",
     "tags": [
-      "formación interesante"
+      "Formación interesante"
     ]
   },
   {
@@ -7839,7 +7798,7 @@
     "type": "video",
     "folder": "FORMACIÓN interesante",
     "tags": [
-      "formación interesante"
+      "Formación interesante"
     ]
   },
   {
@@ -7848,7 +7807,7 @@
     "type": "video",
     "folder": "FORMACIÓN interesante",
     "tags": [
-      "formación interesante"
+      "Formación interesante"
     ]
   },
   {
@@ -7857,7 +7816,7 @@
     "type": "video",
     "folder": "FORMACIÓN interesante",
     "tags": [
-      "formación interesante"
+      "Formación interesante"
     ]
   },
   {
@@ -7866,7 +7825,7 @@
     "type": "video",
     "folder": "FORMACIÓN interesante",
     "tags": [
-      "formación interesante"
+      "Formación interesante"
     ]
   },
   {
@@ -7875,7 +7834,7 @@
     "type": "video",
     "folder": "FORMACIÓN interesante",
     "tags": [
-      "formación interesante"
+      "Formación interesante"
     ]
   },
   {
@@ -7884,7 +7843,7 @@
     "type": "video",
     "folder": "FORMACIÓN interesante",
     "tags": [
-      "formación interesante"
+      "Formación interesante"
     ]
   },
   {
@@ -7902,7 +7861,7 @@
     "type": "video",
     "folder": "Fotografía",
     "tags": [
-      "fotografía"
+      "Fotografía"
     ]
   },
   {
@@ -7911,7 +7870,7 @@
     "type": "video",
     "folder": "Fotografía",
     "tags": [
-      "fotografía"
+      "Fotografía"
     ]
   },
   {
@@ -7920,7 +7879,7 @@
     "type": "video",
     "folder": "Fotografía",
     "tags": [
-      "fotografía"
+      "Fotografía"
     ]
   },
   {
@@ -7929,7 +7888,7 @@
     "type": "video",
     "folder": "Fotografía",
     "tags": [
-      "fotografía"
+      "Fotografía"
     ]
   },
   {
@@ -7938,7 +7897,7 @@
     "type": "video",
     "folder": "Fotografía",
     "tags": [
-      "fotografía"
+      "Fotografía"
     ]
   },
   {
@@ -7947,7 +7906,7 @@
     "type": "video",
     "folder": "Fotografía",
     "tags": [
-      "fotografía"
+      "Fotografía"
     ]
   },
   {
@@ -7956,7 +7915,7 @@
     "type": "video",
     "folder": "Fotografía",
     "tags": [
-      "fotografía"
+      "Fotografía"
     ]
   },
   {
@@ -7965,7 +7924,7 @@
     "type": "video",
     "folder": "Fotografía",
     "tags": [
-      "fotografía"
+      "Fotografía"
     ]
   },
   {
@@ -7974,7 +7933,7 @@
     "type": "video",
     "folder": "Fotografía",
     "tags": [
-      "fotografía"
+      "Fotografía"
     ]
   },
   {
@@ -7983,7 +7942,7 @@
     "type": "video",
     "folder": "Fotografía",
     "tags": [
-      "fotografía"
+      "Fotografía"
     ]
   },
   {
@@ -7992,7 +7951,7 @@
     "type": "video",
     "folder": "Fotografía",
     "tags": [
-      "fotografía"
+      "Fotografía"
     ]
   },
   {
@@ -8001,7 +7960,7 @@
     "type": "video",
     "folder": "Fotografía",
     "tags": [
-      "fotografía"
+      "Fotografía"
     ]
   },
   {
@@ -8010,7 +7969,7 @@
     "type": "video",
     "folder": "Fotografía",
     "tags": [
-      "fotografía"
+      "Fotografía"
     ]
   },
   {
@@ -8019,7 +7978,7 @@
     "type": "video",
     "folder": "Fotografía",
     "tags": [
-      "fotografía"
+      "Fotografía"
     ]
   },
   {
@@ -8028,7 +7987,7 @@
     "type": "video",
     "folder": "Fotografía",
     "tags": [
-      "fotografía"
+      "Fotografía"
     ]
   },
   {
@@ -8037,7 +7996,7 @@
     "type": "video",
     "folder": "Fotografía",
     "tags": [
-      "fotografía"
+      "Fotografía"
     ]
   },
   {
@@ -8046,7 +8005,7 @@
     "type": "video",
     "folder": "Fotografía",
     "tags": [
-      "fotografía"
+      "Fotografía"
     ]
   },
   {
@@ -8118,7 +8077,7 @@
     "type": "video",
     "folder": "FRAMER",
     "tags": [
-      "framer"
+      "Framer"
     ]
   },
   {
@@ -8127,7 +8086,7 @@
     "type": "video",
     "folder": "FRAMER",
     "tags": [
-      "framer"
+      "Framer"
     ]
   },
   {
@@ -8136,7 +8095,7 @@
     "type": "video",
     "folder": "FRAMER",
     "tags": [
-      "framer"
+      "Framer"
     ]
   },
   {
@@ -8145,7 +8104,7 @@
     "type": "video",
     "folder": "FRAMER",
     "tags": [
-      "framer"
+      "Framer"
     ]
   },
   {
@@ -8154,7 +8113,7 @@
     "type": "video",
     "folder": "FRAMER",
     "tags": [
-      "framer"
+      "Framer"
     ]
   },
   {
@@ -8163,7 +8122,7 @@
     "type": "video",
     "folder": "FRAMER",
     "tags": [
-      "framer"
+      "Framer"
     ]
   },
   {
@@ -8361,7 +8320,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8370,7 +8329,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8379,7 +8338,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8388,7 +8347,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8397,7 +8356,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8406,7 +8365,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8415,7 +8374,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8424,7 +8383,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8433,7 +8392,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8442,7 +8401,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8451,7 +8410,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8460,7 +8419,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8469,7 +8428,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8478,7 +8437,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8487,7 +8446,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8496,7 +8455,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8505,7 +8464,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8514,7 +8473,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8523,7 +8482,7 @@
     "type": "video",
     "folder": "Ideas interesantes",
     "tags": [
-      "ideas interesantes"
+      "Ideas"
     ]
   },
   {
@@ -8730,7 +8689,7 @@
     "type": "video",
     "folder": "No Code / Framer",
     "tags": [
-      "framer"
+      "Framer"
     ]
   },
   {
@@ -8739,7 +8698,7 @@
     "type": "video",
     "folder": "No Code / Framer",
     "tags": [
-      "framer"
+      "Framer"
     ]
   },
   {
@@ -8748,7 +8707,7 @@
     "type": "video",
     "folder": "No Code / Framer",
     "tags": [
-      "framer"
+      "Framer"
     ]
   },
   {
@@ -8766,7 +8725,7 @@
     "type": "video",
     "folder": "No Code / Framer / Framer - Formación",
     "tags": [
-      "framer - formación"
+      "Framer"
     ]
   },
   {
@@ -8775,7 +8734,7 @@
     "type": "video",
     "folder": "No Code / Framer / Framer - Formación",
     "tags": [
-      "framer - formación"
+      "Framer"
     ]
   },
   {
@@ -8784,7 +8743,7 @@
     "type": "video",
     "folder": "No Code / Framer / Framer - Formación",
     "tags": [
-      "framer - formación"
+      "Framer"
     ]
   },
   {
@@ -8793,7 +8752,7 @@
     "type": "video",
     "folder": "No Code / Framer / Framer - Formación",
     "tags": [
-      "framer - formación"
+      "Framer"
     ]
   },
   {
@@ -8802,7 +8761,7 @@
     "type": "video",
     "folder": "No Code / Framer / Framer - Formación",
     "tags": [
-      "framer - formación"
+      "Framer"
     ]
   },
   {
@@ -8811,7 +8770,7 @@
     "type": "video",
     "folder": "No Code / Framer / Framer - Formación",
     "tags": [
-      "framer - formación"
+      "Framer"
     ]
   },
   {
@@ -8820,7 +8779,7 @@
     "type": "video",
     "folder": "No Code / Framer / Framer - Formación",
     "tags": [
-      "framer - formación"
+      "Framer"
     ]
   },
   {
@@ -8829,7 +8788,7 @@
     "type": "video",
     "folder": "No Code / Framer / Framer - Formación",
     "tags": [
-      "framer - formación"
+      "Framer"
     ]
   },
   {
@@ -11399,7 +11358,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -11408,7 +11367,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -11417,7 +11376,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -11426,7 +11385,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -11435,7 +11394,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -11444,7 +11403,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -11453,7 +11412,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -11462,7 +11421,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -11471,7 +11430,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -11480,7 +11439,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -11489,7 +11448,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -11498,7 +11457,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -11507,7 +11466,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -11516,7 +11475,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -11525,7 +11484,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -11534,7 +11493,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -11543,7 +11502,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -11552,7 +11511,7 @@
     "type": "video",
     "folder": "PREST!",
     "tags": [
-      "prest!"
+      "Prest"
     ]
   },
   {
@@ -14911,7 +14870,7 @@
     "type": "video",
     "folder": "Storytelling",
     "tags": [
-      "storytelling"
+      "Storytelling"
     ]
   },
   {
@@ -14920,9 +14879,8 @@
     "type": "video",
     "folder": "Storytelling",
     "tags": [
-      "storytelling"
-    ],
-    "featured": false
+      "Storytelling"
+    ]
   },
   {
     "title": "Give me 9min, and I'll improve your storytelling skills by 176%",
@@ -14930,7 +14888,7 @@
     "type": "video",
     "folder": "Storytelling",
     "tags": [
-      "storytelling"
+      "Storytelling"
     ]
   },
   {
@@ -14984,7 +14942,7 @@
     "type": "video",
     "folder": "UIPEDIA",
     "tags": [
-      "uipedia"
+      "UI"
     ]
   },
   {
@@ -14993,7 +14951,7 @@
     "type": "video",
     "folder": "UIPEDIA",
     "tags": [
-      "uipedia"
+      "UI"
     ]
   },
   {
@@ -15002,7 +14960,7 @@
     "type": "video",
     "folder": "UIPEDIA",
     "tags": [
-      "uipedia"
+      "UI"
     ]
   },
   {
@@ -15011,7 +14969,7 @@
     "type": "video",
     "folder": "UIPEDIA",
     "tags": [
-      "uipedia"
+      "UI"
     ]
   },
   {
@@ -15020,7 +14978,7 @@
     "type": "video",
     "folder": "UIPEDIA",
     "tags": [
-      "uipedia"
+      "UI"
     ]
   },
   {
@@ -15029,7 +14987,7 @@
     "type": "video",
     "folder": "UIPEDIA",
     "tags": [
-      "uipedia"
+      "UI"
     ]
   },
   {
@@ -15038,7 +14996,7 @@
     "type": "video",
     "folder": "UIPEDIA",
     "tags": [
-      "uipedia"
+      "UI"
     ]
   },
   {
@@ -15047,7 +15005,7 @@
     "type": "video",
     "folder": "UX MOTION",
     "tags": [
-      "ux motion"
+      "Ux motion"
     ]
   },
   {
@@ -15056,7 +15014,7 @@
     "type": "video",
     "folder": "UX MOTION",
     "tags": [
-      "ux motion"
+      "Ux motion"
     ]
   },
   {
@@ -15065,7 +15023,7 @@
     "type": "video",
     "folder": "UX MOTION",
     "tags": [
-      "ux motion"
+      "Ux motion"
     ]
   },
   {
@@ -15074,7 +15032,7 @@
     "type": "video",
     "folder": "UX MOTION",
     "tags": [
-      "ux motion"
+      "Ux motion"
     ]
   },
   {
@@ -15083,7 +15041,7 @@
     "type": "video",
     "folder": "UX MOTION",
     "tags": [
-      "ux motion"
+      "Ux motion"
     ]
   },
   {
@@ -15092,7 +15050,7 @@
     "type": "video",
     "folder": "UX MOTION",
     "tags": [
-      "ux motion"
+      "Ux motion"
     ]
   },
   {
@@ -15101,7 +15059,7 @@
     "type": "video",
     "folder": "UX MOTION",
     "tags": [
-      "ux motion"
+      "Ux motion"
     ]
   },
   {
@@ -15110,7 +15068,7 @@
     "type": "video",
     "folder": "UX MOTION",
     "tags": [
-      "ux motion"
+      "Ux motion"
     ]
   },
   {
@@ -15119,7 +15077,7 @@
     "type": "video",
     "folder": "UX MOTION",
     "tags": [
-      "ux motion"
+      "Ux motion"
     ]
   },
   {
@@ -15128,7 +15086,7 @@
     "type": "video",
     "folder": "UX MOTION",
     "tags": [
-      "ux motion"
+      "Ux motion"
     ]
   },
   {
@@ -15137,7 +15095,7 @@
     "type": "video",
     "folder": "UX MOTION",
     "tags": [
-      "ux motion"
+      "Ux motion"
     ]
   },
   {
@@ -15146,7 +15104,7 @@
     "type": "video",
     "folder": "UX MOTION",
     "tags": [
-      "ux motion"
+      "Ux motion"
     ]
   },
   {
@@ -15155,7 +15113,7 @@
     "type": "video",
     "folder": "UX MOTION",
     "tags": [
-      "ux motion"
+      "Ux motion"
     ]
   },
   {
@@ -15164,7 +15122,7 @@
     "type": "video",
     "folder": "UX MOTION",
     "tags": [
-      "ux motion"
+      "Ux motion"
     ]
   },
   {
@@ -15173,7 +15131,7 @@
     "type": "video",
     "folder": "UX MOTION",
     "tags": [
-      "ux motion"
+      "Ux motion"
     ]
   },
   {
@@ -15227,7 +15185,7 @@
     "type": "video",
     "folder": "UX MOTION / _UXMOTION_SPLINE",
     "tags": [
-      "_uxmotion_spline"
+      "Ux motion"
     ]
   },
   {
@@ -15236,7 +15194,7 @@
     "type": "video",
     "folder": "UX MOTION / _UXMOTION_SPLINE",
     "tags": [
-      "_uxmotion_spline"
+      "Ux motion"
     ]
   },
   {
@@ -15245,7 +15203,7 @@
     "type": "video",
     "folder": "UX MOTION / _UXMOTION_SPLINE",
     "tags": [
-      "_uxmotion_spline"
+      "Ux motion"
     ]
   },
   {
@@ -15254,7 +15212,7 @@
     "type": "video",
     "folder": "UX MOTION / _UXMOTION_SPLINE",
     "tags": [
-      "_uxmotion_spline"
+      "Ux motion"
     ]
   },
   {
@@ -15263,7 +15221,7 @@
     "type": "video",
     "folder": "UX MOTION / _UXMOTION_SPLINE",
     "tags": [
-      "_uxmotion_spline"
+      "Ux motion"
     ]
   },
   {
@@ -15272,7 +15230,7 @@
     "type": "video",
     "folder": "UX MOTION / _UXMOTION_SPLINE",
     "tags": [
-      "_uxmotion_spline"
+      "Ux motion"
     ]
   },
   {
@@ -15281,7 +15239,7 @@
     "type": "video",
     "folder": "UX MOTION / _UXMOTION_SPLINE",
     "tags": [
-      "_uxmotion_spline"
+      "Ux motion"
     ]
   },
   {
@@ -15290,7 +15248,7 @@
     "type": "video",
     "folder": "UX MOTION / _UXMOTION_SPLINE",
     "tags": [
-      "_uxmotion_spline"
+      "Ux motion"
     ]
   },
   {
@@ -15299,7 +15257,7 @@
     "type": "video",
     "folder": "UX MOTION / _UXMOTION_SPLINE",
     "tags": [
-      "_uxmotion_spline"
+      "Ux motion"
     ]
   },
   {
@@ -15308,7 +15266,7 @@
     "type": "video",
     "folder": "UX MOTION / _UXMOTION_SPLINE",
     "tags": [
-      "_uxmotion_spline"
+      "Ux motion"
     ]
   },
   {
@@ -15317,7 +15275,7 @@
     "type": "video",
     "folder": "UX MOTION / _UXMOTION_SPLINE",
     "tags": [
-      "_uxmotion_spline"
+      "Ux motion"
     ]
   },
   {
@@ -15326,7 +15284,7 @@
     "type": "video",
     "folder": "UX MOTION / _UXMOTION_SPLINE",
     "tags": [
-      "_uxmotion_spline"
+      "Ux motion"
     ]
   },
   {
