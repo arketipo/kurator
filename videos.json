@@ -4,7 +4,8 @@
     "url": "https://www.youtube.com/watch?v=lJuk_7ZjOYw",
     "type": "video",
     "folder": null,
-    "tags": []
+    "tags": [],
+    "comments": "este tipo sabe mucho, tengo que ver el video"
   },
   {
     "title": "\"In the American West\" de Richard Avedon:Claves y curiosidades de un trabajo fotográfico legendario",
@@ -12,7 +13,8 @@
     "type": "video",
     "folder": null,
     "tags": [],
-    "comments": "una tia muy intersante, tengo que revisar su contenido"
+    "comments": "esta tia es muy interesante, tengo que dedicarle tiempo a su contenido",
+    "featured": true
   },
   {
     "title": "\"Using AI To Decode Animal Communication\" with Aza Raskin",
@@ -133,7 +135,7 @@
     "type": "video",
     "folder": null,
     "tags": [],
-    "comments": "el documental de filmin muy interesante. añadir a temario"
+    "comments": "buen documental en filmin, meter en la documentación para compartirlo"
   },
   {
     "title": "24 fuentes GRATIS que parecen caras (¡Descárgalas!)",
@@ -161,7 +163,8 @@
     "url": "https://www.youtube.com/watch?v=7kwqWgXzHvc",
     "type": "video",
     "folder": null,
-    "tags": []
+    "tags": [],
+    "comments": "un poco saturante, pero me ahorra mucho tiempo. Alguno en mi lista de pendientes"
   },
   {
     "title": "40 Harsh Life Lessons I Wish I Knew in My 20s",
@@ -345,7 +348,8 @@
     "url": "https://www.youtube.com/watch?v=-MGeQziqFXI",
     "type": "video",
     "folder": null,
-    "tags": []
+    "tags": [],
+    "comments": "tengo que hacer este curso algún día"
   },
   {
     "title": "ALL MY WRONGS | A Short Film",
@@ -366,14 +370,16 @@
     "url": "https://www.youtube.com/watch?v=jbHB-rzKBAs",
     "type": "video",
     "folder": null,
-    "tags": []
+    "tags": [],
+    "comments": "revisarlo, pero sin volverte loco, ya lo tengo bastante fino"
   },
   {
     "title": "Apartamento compacto retro-moderno de diseñadores gráficos, Milán, 60 m²/645 pies²",
     "url": "https://www.youtube.com/watch?v=J750HM4quPw",
     "type": "video",
     "folder": null,
-    "tags": []
+    "tags": [],
+    "comments": "esto hila con el proyecto de hacer un sistema de muebles \"on the "
   },
   {
     "title": "Apple Design: how blur effect reshaped design forever",
@@ -429,7 +435,8 @@
     "url": "https://www.youtube.com/watch?v=SoGGdBenPc4",
     "type": "video",
     "folder": null,
-    "tags": []
+    "tags": [],
+    "comments": "esta gente es brillante. Tengo que revisar bien todos sus trabajos y su forma de hacerlo"
   },
   {
     "title": "Behind The Scenes: Making Our 'Tokyo City Guide' For Issue 3!",
@@ -1727,7 +1734,8 @@
     "url": "https://www.youtube.com/watch?v=drGORRWEO3s",
     "type": "video",
     "folder": null,
-    "tags": []
+    "tags": [],
+    "featured": true
   },
   {
     "title": "I let Replit loose on my Figma design",
@@ -1826,7 +1834,7 @@
     "type": "video",
     "folder": null,
     "tags": [],
-    "comments": "maravilla de video",
+    "comments": "maravilla de video. Revisar este material",
     "featured": true
   },
   {
@@ -4056,7 +4064,8 @@
     "folder": "a WALLING",
     "tags": [
       "a walling"
-    ]
+    ],
+    "featured": true
   },
   {
     "title": "Kurt Vonnegut, Shape of Stories (subtitulos castellano)",
@@ -10496,7 +10505,8 @@
     "url": "https://www.youtube.com/watch?v=drYpxgUyC8o",
     "type": "video",
     "folder": "ORGANIZAR (Pendiente)",
-    "tags": []
+    "tags": [],
+    "featured": true
   },
   {
     "title": "Rejane Dal Bello on her new book Citizen First, Designer Second",
