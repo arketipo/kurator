@@ -1,0 +1,14 @@
+[
+  {
+    "id": "sample-1",
+    "title": "Ejemplo: Design System Best Practices",
+    "url": "https://example.com/article-1",
+    "type": "article",
+    "folder": "Design Systems",
+    "tags": ["design-systems", "best-practices"],
+    "description": "Mejores prácticas para crear design systems escalables",
+    "source": "Medium",
+    "createdAt": "2026-09-06T10:00:00Z",
+    "watched": false
+  }
+]

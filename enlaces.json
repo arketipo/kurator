@@ -1,0 +1,62 @@
+[
+  {
+    "id": "link-001",
+    "title": "Figma Design System",
+    "url": "https://www.figma.com/",
+    "type": "link",
+    "folder": "Tools & Resources",
+    "tags": ["tools", "design", "collaboration"],
+    "description": "Herramienta principal para diseño colaborativo",
+    "category": "design-tool",
+    "createdAt": "2026-09-06T10:00:00Z",
+    "watched": false
+  },
+  {
+    "id": "link-002",
+    "title": "NotebookLM by Google",
+    "url": "https://notebooklm.google.com/",
+    "type": "link",
+    "folder": "AI & Learning Tools",
+    "tags": ["ai", "learning", "productivity"],
+    "description": "Herramienta IA para transformar información en insights",
+    "category": "learning-tool",
+    "createdAt": "2026-09-06T10:00:00Z",
+    "watched": false
+  },
+  {
+    "id": "link-003",
+    "title": "Design Observer",
+    "url": "https://designobserver.com/",
+    "type": "link",
+    "folder": "Communities & Publications",
+    "tags": ["design", "community", "writing"],
+    "description": "Comunidad y publicaciones sobre diseño y cultura",
+    "category": "publication",
+    "createdAt": "2026-09-06T10:00:00Z",
+    "watched": false
+  },
+  {
+    "id": "link-004",
+    "title": "Product Hunt",
+    "url": "https://www.producthunt.com/",
+    "type": "link",
+    "folder": "Tools & Resources",
+    "tags": ["product", "discovery", "trends"],
+    "description": "Descubre productos nuevos y tendencias de tech",
+    "category": "discovery",
+    "createdAt": "2026-09-06T10:00:00Z",
+    "watched": false
+  },
+  {
+    "id": "link-005",
+    "title": "Obsidian",
+    "url": "https://obsidian.md/",
+    "type": "link",
+    "folder": "Tools & Resources",
+    "tags": ["tools", "notes", "knowledge-management"],
+    "description": "Sistema de gestión del conocimiento basado en archivos locales",
+    "category": "productivity-tool",
+    "createdAt": "2026-09-06T10:00:00Z",
+    "watched": false
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "sample-1",
+    "title": "Ejemplo: The Design of Everyday Things",
+    "url": "https://example.com/book-1",
+    "type": "book",
+    "folder": "Psychology & UX",
+    "tags": ["design", "psychology", "ux"],
+    "description": "Cómo el diseño afecta la experiencia del usuario",
+    "author": "Don Norman",
+    "year": 2013,
+    "createdAt": "2026-09-06T10:00:00Z",
+    "watched": false
+  }
+]
