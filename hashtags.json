@@ -1288,5 +1288,11 @@
     "nombre": "writing",
     "frecuencia": 1,
     "color": "#FF8C94"
+  },
+  {
+    "id": "leer",
+    "nombre": "leer",
+    "frecuencia": 1,
+    "color": "#6C8AE4"
   }
 ]
