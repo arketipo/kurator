@@ -1,952 +1,4490 @@
 [
   {
-    "plataforma": "Coursera",
-    "tema": "User Experience Design",
-    "enlace": "https://coursera.org/learn/user-experience-design"
-  },
-  {
-    "plataforma": "edX",
-    "tema": "Interactive Design",
-    "enlace": "https://edx.org/course/interactive-design"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Digital Product Design",
-    "enlace": "https://skillshare.com/classes/digital-product-design"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "Mobile UX Design",
-    "enlace": "https://interaction-design.org/courses/mobile-ux-design"
-  },
-  {
-    "plataforma": "Udemy",
-    "tema": "Web Design Principles",
-    "enlace": "https://udemy.com/course/web-design-principles"
-  },
-  {
-    "plataforma": "Frontend Masters",
-    "tema": "Advanced CSS",
-    "enlace": "https://frontendmasters.com/courses/advanced-css"
-  },
-  {
-    "plataforma": "LinkedIn Learning",
-    "tema": "Product Strategy",
-    "enlace": "https://linkedin.com/learning/product-strategy"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Design Thinking",
-    "enlace": "https://coursera.org/learn/design-thinking"
-  },
-  {
-    "plataforma": "CreativeLive",
-    "tema": "Web Accessibility",
-    "enlace": "https://creativelive.com/courses/web-accessibility"
-  },
-  {
-    "plataforma": "Adobe Learn",
-    "tema": "XD Masterclass",
-    "enlace": "https://adobe.com/learn/xd"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "Information Architecture",
-    "enlace": "https://interaction-design.org/courses/information-architecture"
-  },
-  {
-    "plataforma": "Udacity",
-    "tema": "Nanodegree UX",
-    "enlace": "https://udacity.com/course/ux-designer-nanodegree"
-  },
-  {
-    "plataforma": "Dribbble",
-    "tema": "Design Inspiration",
-    "enlace": "https://dribbble.com/resources"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "Motion Design",
-    "enlace": "https://youtube.com/results?search_query=motion+design+tutorial"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Figma Fundamentals",
-    "enlace": "https://skillshare.com/classes/figma-fundamentals"
-  },
-  {
-    "plataforma": "A Book Apart",
-    "tema": "Web Design",
-    "enlace": "https://abookapart.com/products/web-design"
-  },
-  {
-    "plataforma": "Designlab",
-    "tema": "Product Design Bootcamp",
-    "enlace": "https://designlab.com/bootcamp"
-  },
-  {
-    "plataforma": "General Assembly",
-    "tema": "UX Design Immersive",
-    "enlace": "https://generalassembly.com/ux-design"
-  },
-  {
-    "plataforma": "IDEO",
-    "tema": "Design Thinking Workshop",
-    "enlace": "https://ideo.com/work/design-thinking-workshop"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Behavioral Economics",
-    "enlace": "https://coursera.org/learn/behavioral-economics"
-  },
-  {
-    "plataforma": "MIT Media Lab",
-    "tema": "Interactive Design",
-    "enlace": "https://media.mit.edu/courses"
-  },
-  {
-    "plataforma": "Stanford d.school",
-    "tema": "Design Process",
-    "enlace": "https://dschool.stanford.edu"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "Visual Design",
-    "enlace": "https://interaction-design.org/courses/visual-design"
-  },
-  {
-    "plataforma": "Udemy",
-    "tema": "UI Kit Creation",
-    "enlace": "https://udemy.com/course/ui-kit-creation"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Typography Design",
-    "enlace": "https://skillshare.com/classes/typography-design"
-  },
-  {
-    "plataforma": "Frontend Masters",
-    "tema": "Design Systems",
-    "enlace": "https://frontendmasters.com/courses/design-systems"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Service Design",
-    "enlace": "https://coursera.org/learn/service-design"
-  },
-  {
-    "plataforma": "LinkedIn Learning",
-    "tema": "User Research Methods",
-    "enlace": "https://linkedin.com/learning/user-research-methods"
-  },
-  {
-    "plataforma": "edX",
-    "tema": "Design for Social Impact",
-    "enlace": "https://edx.org/course/design-social-impact"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "After Effects Animation",
-    "enlace": "https://youtube.com/results?search_query=after+effects+animation"
-  },
-  {
-    "plataforma": "CreativeLive",
-    "tema": "Illustration for Design",
-    "enlace": "https://creativelive.com/courses/illustration-for-design"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Design Thinking",
-    "enlace": "https://skillshare.com/classes/design-thinking"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "Usability Testing",
-    "enlace": "https://interaction-design.org/courses/usability-testing"
-  },
-  {
-    "plataforma": "Udemy",
-    "tema": "Prototyping Tools",
-    "enlace": "https://udemy.com/course/prototyping-tools"
-  },
-  {
-    "plataforma": "Adobe Learn",
-    "tema": "InDesign Templates",
-    "enlace": "https://adobe.com/learn/indesign"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Interaction Design",
-    "enlace": "https://coursera.org/learn/interaction-design"
-  },
-  {
-    "plataforma": "Frontend Masters",
-    "tema": "JavaScript Animations",
-    "enlace": "https://frontendmasters.com/courses/javascript-animations"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Color Theory",
-    "enlace": "https://skillshare.com/classes/color-theory"
-  },
-  {
-    "plataforma": "Dribbble",
-    "tema": "Design Trends",
-    "enlace": "https://dribbble.com/design-trends"
-  },
-  {
-    "plataforma": "LinkedIn Learning",
-    "tema": "Data Visualization",
-    "enlace": "https://linkedin.com/learning/data-visualization"
-  },
-  {
-    "plataforma": "Udacity",
-    "tema": "Responsive Design",
-    "enlace": "https://udacity.com/course/responsive-web-design"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "Cinema 4D Basics",
-    "enlace": "https://youtube.com/results?search_query=cinema+4d+basics"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "Interaction Patterns",
-    "enlace": "https://interaction-design.org/courses/interaction-patterns"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "E-commerce Design",
-    "enlace": "https://coursera.org/learn/ecommerce-design"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Layout Design",
-    "enlace": "https://skillshare.com/classes/layout-design"
-  },
-  {
-    "plataforma": "Adobe Learn",
-    "tema": "Photoshop Workflow",
-    "enlace": "https://adobe.com/learn/photoshop"
-  },
-  {
-    "plataforma": "CreativeLive",
-    "tema": "Digital Illustration",
-    "enlace": "https://creativelive.com/courses/digital-illustration"
-  },
-  {
-    "plataforma": "Figma",
-    "tema": "Design Essentials",
-    "enlace": "https://figma.com/community/file/1254025637621699699"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Design Ethics",
-    "enlace": "https://coursera.org/learn/design-ethics"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "Blender Modeling",
-    "enlace": "https://youtube.com/results?search_query=blender+modeling+tutorial"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Icon Design",
-    "enlace": "https://skillshare.com/classes/icon-design"
-  },
-  {
-    "plataforma": "Frontend Masters",
-    "tema": "Responsive Web Design",
-    "enlace": "https://frontendmasters.com/courses/responsive-web-design"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "Affordances",
-    "enlace": "https://interaction-design.org/courses/affordances"
-  },
-  {
-    "plataforma": "Udemy",
-    "tema": "Web Animation",
-    "enlace": "https://udemy.com/course/web-animation"
-  },
-  {
-    "plataforma": "Adobe Learn",
-    "tema": "Illustrator Techniques",
-    "enlace": "https://adobe.com/learn/illustrator"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Mobile App Design",
-    "enlace": "https://coursera.org/learn/mobile-app-design"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Branding Basics",
-    "enlace": "https://skillshare.com/classes/branding-basics"
-  },
-  {
-    "plataforma": "LinkedIn Learning",
-    "tema": "Design Leadership",
-    "enlace": "https://linkedin.com/learning/design-leadership"
-  },
-  {
-    "plataforma": "Dribbble",
-    "tema": "Portfolio Showcase",
-    "enlace": "https://dribbble.com/resources/portfolio"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "Premiere Pro Editing",
-    "enlace": "https://youtube.com/results?search_query=premiere+pro+editing"
-  },
-  {
-    "plataforma": "Udacity",
-    "tema": "Front End Developer",
-    "enlace": "https://udacity.com/course/front-end-web-developer"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "User Testing",
-    "enlace": "https://interaction-design.org/courses/user-testing"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Product Management",
-    "enlace": "https://coursera.org/learn/product-management"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Web Layout",
-    "enlace": "https://skillshare.com/classes/web-layout"
-  },
-  {
-    "plataforma": "CreativeLive",
-    "tema": "Brand Strategy",
-    "enlace": "https://creativelive.com/courses/brand-strategy"
-  },
-  {
-    "plataforma": "Adobe Learn",
-    "tema": "Animate Interactions",
-    "enlace": "https://adobe.com/learn/xd-interactions"
-  },
-  {
-    "plataforma": "Frontend Masters",
-    "tema": "Advanced React",
-    "enlace": "https://frontendmasters.com/courses/advanced-react"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "UI/UX Principles",
-    "enlace": "https://youtube.com/results?search_query=ui+ux+principles"
-  },
-  {
-    "plataforma": "Designlab",
-    "tema": "UX Research",
-    "enlace": "https://designlab.com/ux-research"
-  },
-  {
-    "plataforma": "IDEO",
-    "tema": "Human-Centered Design",
-    "enlace": "https://ideo.com/work/human-centered-design"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "Wireframing",
-    "enlace": "https://interaction-design.org/courses/wireframing"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Data Visualization Design",
-    "enlace": "https://coursera.org/learn/data-visualization"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Packaging Design",
-    "enlace": "https://skillshare.com/classes/packaging-design"
-  },
-  {
-    "plataforma": "edX",
-    "tema": "Web Development",
-    "enlace": "https://edx.org/course/web-development"
-  },
-  {
-    "plataforma": "LinkedIn Learning",
-    "tema": "Design Fundamentals",
-    "enlace": "https://linkedin.com/learning/design-fundamentals"
-  },
-  {
-    "plataforma": "Udemy",
-    "tema": "UI Design Patterns",
-    "enlace": "https://udemy.com/course/ui-design-patterns"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "Motion Graphics",
-    "enlace": "https://youtube.com/results?search_query=motion+graphics"
-  },
-  {
-    "plataforma": "Adobe Learn",
-    "tema": "XD Advanced",
-    "enlace": "https://adobe.com/learn/xd-advanced"
-  },
-  {
-    "plataforma": "Figma",
-    "tema": "Advanced Components",
-    "enlace": "https://figma.com/community"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "Navigation Design",
-    "enlace": "https://interaction-design.org/courses/navigation-design"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Accessibility Design",
-    "enlace": "https://coursera.org/learn/accessibility"
-  },
-  {
-    "plataforma": "Frontend Masters",
-    "tema": "CSS Grid Mastery",
-    "enlace": "https://frontendmasters.com/courses/css-grid"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Hand Lettering",
-    "enlace": "https://skillshare.com/classes/hand-lettering"
-  },
-  {
-    "plataforma": "CreativeLive",
-    "tema": "Photography Basics",
-    "enlace": "https://creativelive.com/courses/photography-basics"
-  },
-  {
-    "plataforma": "Udacity",
-    "tema": "Full Stack Developer",
-    "enlace": "https://udacity.com/course/full-stack-web-developer"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "SVG Animation",
-    "enlace": "https://youtube.com/results?search_query=svg+animation"
-  },
-  {
-    "plataforma": "Designlab",
-    "tema": "Visual Design",
-    "enlace": "https://designlab.com/visual-design"
-  },
-  {
-    "plataforma": "LinkedIn Learning",
-    "tema": "Stakeholder Management",
-    "enlace": "https://linkedin.com/learning/stakeholder-management"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Interaction Techniques",
-    "enlace": "https://coursera.org/learn/interaction-techniques"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Modern Web Design",
-    "enlace": "https://skillshare.com/classes/modern-web-design"
-  },
-  {
-    "plataforma": "Adobe Learn",
-    "tema": "Photoshop Advanced",
-    "enlace": "https://adobe.com/learn/photoshop-advanced"
-  },
-  {
-    "plataforma": "IDEO",
-    "tema": "Innovation Workshop",
-    "enlace": "https://ideo.com/work/innovation-workshop"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "Mobile Patterns",
-    "enlace": "https://interaction-design.org/courses/mobile-patterns"
-  },
-  {
-    "plataforma": "Udemy",
-    "tema": "Responsive Frameworks",
-    "enlace": "https://udemy.com/course/responsive-frameworks"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "Web Performance",
-    "enlace": "https://youtube.com/results?search_query=web+performance"
-  },
-  {
-    "plataforma": "Frontend Masters",
-    "tema": "Performance Optimization",
-    "enlace": "https://frontendmasters.com/courses/performance-optimization"
-  },
-  {
-    "plataforma": "Figma",
-    "tema": "Design Systems",
-    "enlace": "https://figma.com/community/file/1079053561186617050"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Business Strategy",
-    "enlace": "https://coursera.org/learn/business-strategy"
-  },
-  {
-    "plataforma": "LinkedIn Learning",
-    "tema": "Team Leadership",
-    "enlace": "https://linkedin.com/learning/team-leadership"
-  },
-  {
-    "plataforma": "CreativeLive",
-    "tema": "Product Photography",
-    "enlace": "https://creativelive.com/courses/product-photography"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Watercolor Painting",
-    "enlace": "https://skillshare.com/classes/watercolor-painting"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "Visual Hierarchy",
-    "enlace": "https://interaction-design.org/courses/visual-hierarchy"
-  },
-  {
-    "plataforma": "Udacity",
-    "tema": "Machine Learning",
-    "enlace": "https://udacity.com/course/machine-learning"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "After Effects Tips",
-    "enlace": "https://youtube.com/results?search_query=after+effects+tips"
-  },
-  {
-    "plataforma": "Designlab",
-    "tema": "Design Critique",
-    "enlace": "https://designlab.com/design-critique"
-  },
-  {
-    "plataforma": "Adobe Learn",
-    "tema": "InDesign Workflow",
-    "enlace": "https://adobe.com/learn/indesign-workflow"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Analytics Design",
-    "enlace": "https://coursera.org/learn/analytics-design"
-  },
-  {
-    "plataforma": "edX",
-    "tema": "Computer Science",
-    "enlace": "https://edx.org/course/computer-science"
-  },
-  {
-    "plataforma": "Frontend Masters",
-    "tema": "TypeScript Mastery",
-    "enlace": "https://frontendmasters.com/courses/typescript"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Visual Effects",
-    "enlace": "https://skillshare.com/classes/visual-effects"
-  },
-  {
-    "plataforma": "LinkedIn Learning",
-    "tema": "Change Management",
-    "enlace": "https://linkedin.com/learning/change-management"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "Blender Animation",
-    "enlace": "https://youtube.com/results?search_query=blender+animation"
-  },
-  {
-    "plataforma": "IDEO",
-    "tema": "Service Design",
-    "enlace": "https://ideo.com/work/service-design"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "Feedback Design",
-    "enlace": "https://interaction-design.org/courses/feedback-design"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Network Design",
-    "enlace": "https://coursera.org/learn/network-design"
-  },
-  {
-    "plataforma": "Figma",
-    "tema": "Prototyping",
-    "enlace": "https://figma.com/community/file/1229372172892161450"
-  },
-  {
-    "plataforma": "CreativeLive",
-    "tema": "Lighting Design",
-    "enlace": "https://creativelive.com/courses/lighting-design"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Game Design",
-    "enlace": "https://skillshare.com/classes/game-design"
-  },
-  {
-    "plataforma": "Udemy",
-    "tema": "JavaScript ES6",
-    "enlace": "https://udemy.com/course/javascript-es6"
-  },
-  {
-    "plataforma": "Adobe Learn",
-    "tema": "Premiere Advanced",
-    "enlace": "https://adobe.com/learn/premiere-advanced"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "User Flows",
-    "enlace": "https://interaction-design.org/courses/user-flows"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "CSS Tricks",
-    "enlace": "https://youtube.com/results?search_query=css+tricks"
-  },
-  {
-    "plataforma": "Frontend Masters",
-    "tema": "Web Components",
-    "enlace": "https://frontendmasters.com/courses/web-components"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Statistics Design",
-    "enlace": "https://coursera.org/learn/statistics-design"
-  },
-  {
-    "plataforma": "LinkedIn Learning",
-    "tema": "Strategic Planning",
-    "enlace": "https://linkedin.com/learning/strategic-planning"
-  },
-  {
-    "plataforma": "Designlab",
-    "tema": "UX Writing",
-    "enlace": "https://designlab.com/ux-writing"
-  },
-  {
-    "plataforma": "Udacity",
-    "tema": "AI Design",
-    "enlace": "https://udacity.com/course/ai-design"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Social Media Design",
-    "enlace": "https://skillshare.com/classes/social-media-design"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "Figma Tips",
-    "enlace": "https://youtube.com/results?search_query=figma+tips"
-  },
-  {
-    "plataforma": "IDEO",
-    "tema": "Prototyping Workshop",
-    "enlace": "https://ideo.com/work/prototyping-workshop"
-  },
-  {
-    "plataforma": "Figma",
-    "tema": "Variables and Tokens",
-    "enlace": "https://figma.com/community/file/1222624408163324373"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Microinteractions Design",
-    "enlace": "https://coursera.org/learn/microinteractions"
-  },
-  {
-    "plataforma": "Adobe Learn",
-    "tema": "Character Animation",
-    "enlace": "https://adobe.com/learn/character-animation"
-  },
-  {
-    "plataforma": "CreativeLive",
-    "tema": "Cinematography",
-    "enlace": "https://creativelive.com/courses/cinematography"
-  },
-  {
-    "plataforma": "Frontend Masters",
-    "tema": "Nextjs Mastery",
-    "enlace": "https://frontendmasters.com/courses/nextjs"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "Gesture Design",
-    "enlace": "https://interaction-design.org/courses/gesture-design"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "NFT Design",
-    "enlace": "https://skillshare.com/classes/nft-design"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "Web3 Design",
-    "enlace": "https://youtube.com/results?search_query=web3+design"
-  },
-  {
-    "plataforma": "Udemy",
-    "tema": "Vue.js Advanced",
-    "enlace": "https://udemy.com/course/vue-js-advanced"
-  },
-  {
-    "plataforma": "LinkedIn Learning",
-    "tema": "Executive Presence",
-    "enlace": "https://linkedin.com/learning/executive-presence"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Voice Design",
-    "enlace": "https://coursera.org/learn/voice-design"
-  },
-  {
-    "plataforma": "Designlab",
-    "tema": "AR/VR Design",
-    "enlace": "https://designlab.com/ar-vr-design"
-  },
-  {
-    "plataforma": "Figma",
-    "tema": "Collaborative Design",
-    "enlace": "https://figma.com/community"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "React Patterns",
-    "enlace": "https://youtube.com/results?search_query=react+patterns"
-  },
-  {
-    "plataforma": "Adobe Learn",
-    "tema": "VFX Compositing",
-    "enlace": "https://adobe.com/learn/vfx-compositing"
-  },
-  {
-    "plataforma": "IDEO",
-    "tema": "Futures Thinking",
-    "enlace": "https://ideo.com/work/futures-thinking"
-  },
-  {
-    "plataforma": "Frontend Masters",
-    "tema": "Serverless Functions",
-    "enlace": "https://frontendmasters.com/courses/serverless"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Metaverse Design",
-    "enlace": "https://skillshare.com/classes/metaverse-design"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Emotional Design",
-    "enlace": "https://coursera.org/learn/emotional-design"
-  },
-  {
-    "plataforma": "CreativeLive",
-    "tema": "Studio Management",
-    "enlace": "https://creativelive.com/courses/studio-management"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "Color Psychology",
-    "enlace": "https://interaction-design.org/courses/color-psychology"
-  },
-  {
-    "plataforma": "Udacity",
-    "tema": "Blockchain Design",
-    "enlace": "https://udacity.com/course/blockchain-design"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "Database Design",
-    "enlace": "https://youtube.com/results?search_query=database+design"
-  },
-  {
-    "plataforma": "Designlab",
-    "tema": "Content Strategy",
-    "enlace": "https://designlab.com/content-strategy"
-  },
-  {
-    "plataforma": "LinkedIn Learning",
-    "tema": "Emotional Intelligence",
-    "enlace": "https://linkedin.com/learning/emotional-intelligence"
-  },
-  {
-    "plataforma": "Figma",
-    "tema": "Performance Optimization",
-    "enlace": "https://figma.com/community"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Neurodesign",
-    "enlace": "https://coursera.org/learn/neurodesign"
-  },
-  {
-    "plataforma": "Adobe Learn",
-    "tema": "Stock Footage",
-    "enlace": "https://adobe.com/learn/stock"
-  },
-  {
-    "plataforma": "Frontend Masters",
-    "tema": "WebGL Fundamentals",
-    "enlace": "https://frontendmasters.com/courses/webgl"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Sustainable Design",
-    "enlace": "https://skillshare.com/classes/sustainable-design"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "Node.js Patterns",
-    "enlace": "https://youtube.com/results?search_query=nodejs+patterns"
-  },
-  {
-    "plataforma": "IDEO",
-    "tema": "Circular Economy Design",
-    "enlace": "https://ideo.com/work/circular-economy"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "Inclusive Design",
-    "enlace": "https://interaction-design.org/courses/inclusive-design"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Digital Transformation",
-    "enlace": "https://coursera.org/learn/digital-transformation"
-  },
-  {
-    "plataforma": "CreativeLive",
-    "tema": "Media Management",
-    "enlace": "https://creativelive.com/courses/media-management"
-  },
-  {
-    "plataforma": "Designlab",
-    "tema": "Growth Design",
-    "enlace": "https://designlab.com/growth-design"
-  },
-  {
-    "plataforma": "Udemy",
-    "tema": "Python for Data",
-    "enlace": "https://udemy.com/course/python-for-data"
-  },
-  {
-    "plataforma": "Figma",
-    "tema": "Design Handoff",
-    "enlace": "https://figma.com/community"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "System Design",
-    "enlace": "https://youtube.com/results?search_query=system+design"
-  },
-  {
-    "plataforma": "Frontend Masters",
-    "tema": "GraphQL Mastery",
-    "enlace": "https://frontendmasters.com/courses/graphql"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Diversity Design",
-    "enlace": "https://skillshare.com/classes/diversity-design"
-  },
-  {
-    "plataforma": "LinkedIn Learning",
-    "tema": "Conflict Resolution",
-    "enlace": "https://linkedin.com/learning/conflict-resolution"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Quantum Computing Design",
-    "enlace": "https://coursera.org/learn/quantum-computing"
-  },
-  {
-    "plataforma": "Adobe Learn",
-    "tema": "Motion Tracking",
-    "enlace": "https://adobe.com/learn/motion-tracking"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "Mental Models",
-    "enlace": "https://interaction-design.org/courses/mental-models"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "Docker Containers",
-    "enlace": "https://youtube.com/results?search_query=docker+containers"
-  },
-  {
-    "plataforma": "IDEO",
-    "tema": "Biosignals Design",
-    "enlace": "https://ideo.com/work/biosignals"
-  },
-  {
-    "plataforma": "Designlab",
-    "tema": "Behavior Change Design",
-    "enlace": "https://designlab.com/behavior-change"
-  },
-  {
-    "plataforma": "Udacity",
-    "tema": "Quantum Machine Learning",
-    "enlace": "https://udacity.com/course/quantum-machine-learning"
-  },
-  {
-    "plataforma": "Figma",
-    "tema": "Real-time Collaboration",
-    "enlace": "https://figma.com/multiplayer"
-  },
-  {
-    "plataforma": "Frontend Masters",
-    "tema": "Rust Web Development",
-    "enlace": "https://frontendmasters.com/courses/rust"
-  },
-  {
-    "plataforma": "Coursera",
-    "tema": "Biosecurity Design",
-    "enlace": "https://coursera.org/learn/biosecurity"
-  },
-  {
-    "plataforma": "Skillshare",
-    "tema": "Indigenous Design",
-    "enlace": "https://skillshare.com/classes/indigenous-design"
-  },
-  {
-    "plataforma": "CreativeLive",
-    "tema": "Podcast Production",
-    "enlace": "https://creativelive.com/courses/podcast-production"
-  },
-  {
-    "plataforma": "YouTube",
-    "tema": "Kubernetes Orchestration",
-    "enlace": "https://youtube.com/results?search_query=kubernetes"
-  },
-  {
-    "plataforma": "Interaction Design Foundation",
-    "tema": "Context Mapping",
-    "enlace": "https://interaction-design.org/courses/context-mapping"
-  },
-  {
-    "plataforma": "LinkedIn Learning",
-    "tema": "Presence and Impact",
-    "enlace": "https://linkedin.com/learning/presence-and-impact"
-  },
-  {
-    "plataforma": "Adobe Learn",
-    "tema": "Creative Cloud Master",
-    "enlace": "https://adobe.com/learn"
-  },
-  {
-    "plataforma": "IDEO",
-    "tema": "Resilience Design",
-    "enlace": "https://ideo.com/work/resilience"
-  },
-  {
-    "plataforma": "Designlab",
-    "tema": "Privacy by Design",
-    "enlace": "https://designlab.com/privacy-by-design"
+    "id": "6c464e4d-4f05-40b1-985c-1f80f3227e3d",
+    "title": "UI Kit Creation",
+    "description": null,
+    "url": "https://udemy.com/course/ui-kit-creation",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "f049bda1-4ef8-46cf-b5bc-52679035364f",
+    "title": "Typography Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/typography-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "ed51991d-3368-4429-947e-467b8ae36e28",
+    "title": "Design Systems",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/design-systems",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "d0d1808d-d072-4d0b-8470-34df5147e4a7",
+    "title": "Service Design",
+    "description": null,
+    "url": "https://coursera.org/learn/service-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "007ba1ee-6b71-4e0e-a4e6-65006930865d",
+    "title": "User Research Methods",
+    "description": null,
+    "url": "https://linkedin.com/learning/user-research-methods",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "a7c26d0a-9558-43fd-b7ac-b2011d400a93",
+    "title": "Design for Social Impact",
+    "description": null,
+    "url": "https://edx.org/course/design-social-impact",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "b2669401-edcf-47e7-9626-df64d556be64",
+    "title": "After Effects Animation",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=after+effects+animation",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "60044fb8-d71a-4631-8897-deabe8e837c9",
+    "title": "Illustration for Design",
+    "description": null,
+    "url": "https://creativelive.com/courses/illustration-for-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "d94a09ac-0d7c-4f8b-a78e-d295efaddfd5",
+    "title": "Design Thinking",
+    "description": null,
+    "url": "https://skillshare.com/classes/design-thinking",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "2078dd3f-306e-46b4-9c1f-b4ee253e3d13",
+    "title": "Usability Testing",
+    "description": null,
+    "url": "https://interaction-design.org/courses/usability-testing",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "89c80e3b-3c15-40a2-8825-3bd1724ba5af",
+    "title": "Prototyping Tools",
+    "description": null,
+    "url": "https://udemy.com/course/prototyping-tools",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "616e4223-4270-468c-9009-c1d3b46fc3bb",
+    "title": "InDesign Templates",
+    "description": null,
+    "url": "https://adobe.com/learn/indesign",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "2440865c-bd59-4472-ae87-1ffae7d00bf1",
+    "title": "Interaction Design",
+    "description": null,
+    "url": "https://coursera.org/learn/interaction-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "4f5ca10b-fb22-4603-85b6-f767e1ed801b",
+    "title": "JavaScript Animations",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/javascript-animations",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "5dabc99a-d972-49dd-8db4-fe6ace80aad6",
+    "title": "Color Theory",
+    "description": null,
+    "url": "https://skillshare.com/classes/color-theory",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "d3074aed-b1dd-401a-9691-de30539bdb36",
+    "title": "Design Trends",
+    "description": null,
+    "url": "https://dribbble.com/design-trends",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "70338963-7940-4c8f-a0cc-ad4551494eb8",
+    "title": "Data Visualization",
+    "description": null,
+    "url": "https://linkedin.com/learning/data-visualization",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "44491a41-cb73-46c9-a8a0-d77eab22e990",
+    "title": "Responsive Design",
+    "description": null,
+    "url": "https://udacity.com/course/responsive-web-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "c42b800c-b6a2-4a13-a964-270be49ffcd5",
+    "title": "Cinema 4D Basics",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=cinema+4d+basics",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "57454bcd-bac5-480f-a960-614091661cac",
+    "title": "Interaction Patterns",
+    "description": null,
+    "url": "https://interaction-design.org/courses/interaction-patterns",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "8666709c-7b0c-432d-a910-073075be13ef",
+    "title": "E-commerce Design",
+    "description": null,
+    "url": "https://coursera.org/learn/ecommerce-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "2839c375-62e4-4df9-96ca-a7c276fd6af3",
+    "title": "Layout Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/layout-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "63685d55-0fc1-4ec6-bf13-99a77a913b98",
+    "title": "Photoshop Workflow",
+    "description": null,
+    "url": "https://adobe.com/learn/photoshop",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "9242b58d-eff7-4035-a430-52c6a03936ce",
+    "title": "Digital Illustration",
+    "description": null,
+    "url": "https://creativelive.com/courses/digital-illustration",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "9a679cdd-7aee-49e4-8d4b-5c262f49d12f",
+    "title": "Design Essentials",
+    "description": null,
+    "url": "https://figma.com/community/file/1254025637621699699",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "124be258-5f35-46e6-a015-97798d3b377e",
+    "title": "Design Ethics",
+    "description": null,
+    "url": "https://coursera.org/learn/design-ethics",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "da1cc335-8c02-428e-9bba-0e7bf9dc4442",
+    "title": "Business Strategy",
+    "description": null,
+    "url": "https://coursera.org/learn/business-strategy",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "c3f4efac-8fcd-4442-8228-a0f338765732",
+    "title": "Team Leadership",
+    "description": null,
+    "url": "https://linkedin.com/learning/team-leadership",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "c30ea4cd-ba4d-4180-9321-957a502e36b4",
+    "title": "Behavioral Economics",
+    "description": null,
+    "url": "https://coursera.org/learn/behavioral-economics",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "6972f386-b0f9-473a-bbad-514011830825",
+    "title": "Interactive Design",
+    "description": null,
+    "url": "https://media.mit.edu/courses",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "c0cd58bc-8c81-4f8b-a9d3-5765e2e5d8ae",
+    "title": "Design Process",
+    "description": null,
+    "url": "https://dschool.stanford.edu",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "b18ac7db-cc26-4a54-8143-52ac05ff8732",
+    "title": "Visual Design",
+    "description": null,
+    "url": "https://interaction-design.org/courses/visual-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "98216c3f-c04a-4c36-8683-c513f97084be",
+    "title": "User Experience Design",
+    "description": null,
+    "url": "https://coursera.org/learn/user-experience-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "ef460f5f-5e34-48bc-9aba-8110165a5198",
+    "title": "Interactive Design",
+    "description": null,
+    "url": "https://edx.org/course/interactive-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "8d4b2ff8-f1ce-4f66-ab22-78bae91a7ba8",
+    "title": "Digital Product Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/digital-product-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "abe78651-d3a8-465e-8a86-1677574ed40f",
+    "title": "Mobile UX Design",
+    "description": null,
+    "url": "https://interaction-design.org/courses/mobile-ux-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "542aba7a-672a-4c1f-b7e2-71157afcd1fe",
+    "title": "Web Design Principles",
+    "description": null,
+    "url": "https://udemy.com/course/web-design-principles",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "ec4c13aa-9a5a-4ab2-9734-63aa6c9f25d6",
+    "title": "Advanced CSS",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/advanced-css",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "de88361e-030f-483c-a854-66c86f92dee4",
+    "title": "Product Strategy",
+    "description": null,
+    "url": "https://linkedin.com/learning/product-strategy",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "da06fe97-8b28-4c0c-9a9b-5dd79fdd06bc",
+    "title": "Design Thinking",
+    "description": null,
+    "url": "https://coursera.org/learn/design-thinking",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "1e4659e6-b285-487d-828e-7100595fe6c9",
+    "title": "Web Accessibility",
+    "description": null,
+    "url": "https://creativelive.com/courses/web-accessibility",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "1a841d2a-2cc7-45dc-8119-06c5a4e45707",
+    "title": "XD Masterclass",
+    "description": null,
+    "url": "https://adobe.com/learn/xd",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "3ce407d8-5f75-49ac-8e42-d8c05b9971e1",
+    "title": "Information Architecture",
+    "description": null,
+    "url": "https://interaction-design.org/courses/information-architecture",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "98414305-8fde-4f34-b084-4e776c177c3a",
+    "title": "Nanodegree UX",
+    "description": null,
+    "url": "https://udacity.com/course/ux-designer-nanodegree",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "e4e6cd05-bc84-44ea-888d-2d12ee997009",
+    "title": "Design Inspiration",
+    "description": null,
+    "url": "https://dribbble.com/resources",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "56338042-58a7-472a-a21b-83e62ccfee80",
+    "title": "Motion Design",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=motion+design+tutorial",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "5f26986c-ae22-41f2-96db-c26c71fa6f92",
+    "title": "Figma Fundamentals",
+    "description": null,
+    "url": "https://skillshare.com/classes/figma-fundamentals",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "40d9a74e-245c-46a2-ac1e-3d91994a15c6",
+    "title": "Web Design",
+    "description": null,
+    "url": "https://abookapart.com/products/web-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "7029852c-5dfb-40b0-81fa-b5a5334ffcf2",
+    "title": "Product Design Bootcamp",
+    "description": null,
+    "url": "https://designlab.com/bootcamp",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "27ad8645-4059-4950-801a-2caea4081d12",
+    "title": "UX Design Immersive",
+    "description": null,
+    "url": "https://generalassembly.com/ux-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "d9c91706-0a63-41a5-9aac-accf2b32bf0a",
+    "title": "Design Thinking Workshop",
+    "description": null,
+    "url": "https://ideo.com/work/design-thinking-workshop",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "1b793495-65f8-48c0-b515-7f321bba0cd9",
+    "title": "Blender Modeling",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=blender+modeling+tutorial",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "abbcc45f-f314-401a-9e5b-44e1b61008a9",
+    "title": "Icon Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/icon-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "3536efb0-881f-4bef-894e-fbfe991c28de",
+    "title": "Responsive Web Design",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/responsive-web-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "f6db7e16-a3bc-4268-8a8d-32d600f37915",
+    "title": "Affordances",
+    "description": null,
+    "url": "https://interaction-design.org/courses/affordances",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "4e7e0481-2f5b-4b3c-bca8-546afe33d74f",
+    "title": "Web Animation",
+    "description": null,
+    "url": "https://udemy.com/course/web-animation",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "32bba5c5-3bc6-458c-a836-f5cdaf3d25d6",
+    "title": "Illustrator Techniques",
+    "description": null,
+    "url": "https://adobe.com/learn/illustrator",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "b8cb2266-d9f9-42df-9c6b-07348ac8a54c",
+    "title": "Mobile App Design",
+    "description": null,
+    "url": "https://coursera.org/learn/mobile-app-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "54df23e3-c39e-452a-aff7-c36410922736",
+    "title": "Branding Basics",
+    "description": null,
+    "url": "https://skillshare.com/classes/branding-basics",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "3def2327-a70f-4e4d-afbd-d1f76a8d5b3a",
+    "title": "Design Leadership",
+    "description": null,
+    "url": "https://linkedin.com/learning/design-leadership",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "ac572a05-fdf7-40f8-ac36-8da834000546",
+    "title": "Portfolio Showcase",
+    "description": null,
+    "url": "https://dribbble.com/resources/portfolio",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "9468423f-aad6-431f-b421-da6ccedcabfd",
+    "title": "Premiere Pro Editing",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=premiere+pro+editing",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "85a245dd-c471-470b-949b-178de620931a",
+    "title": "Front End Developer",
+    "description": null,
+    "url": "https://udacity.com/course/front-end-web-developer",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "3e5f2394-cf85-41dc-9d77-1a77363babb1",
+    "title": "User Testing",
+    "description": null,
+    "url": "https://interaction-design.org/courses/user-testing",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "37515df7-7d11-4a3f-8ccd-a33a51c4bc8b",
+    "title": "Product Management",
+    "description": null,
+    "url": "https://coursera.org/learn/product-management",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "ee53ce8b-134a-44c8-8998-ba646821b7a4",
+    "title": "Web Layout",
+    "description": null,
+    "url": "https://skillshare.com/classes/web-layout",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "7906c71b-d44a-4c92-b0e9-6ead1dfe6b2a",
+    "title": "Brand Strategy",
+    "description": null,
+    "url": "https://creativelive.com/courses/brand-strategy",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "be46738f-0bd1-452d-9446-c06a8ee5200b",
+    "title": "Animate Interactions",
+    "description": null,
+    "url": "https://adobe.com/learn/xd-interactions",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "c347b3bf-da32-452c-a70f-598503073ea9",
+    "title": "Advanced React",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/advanced-react",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "26f2905f-0300-4623-aac3-103ca7262ed4",
+    "title": "UI/UX Principles",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=ui+ux+principles",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "e0a9c3b4-e916-4243-ad07-d931e22c6bb6",
+    "title": "UX Research",
+    "description": null,
+    "url": "https://designlab.com/ux-research",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "9af6b4fc-2332-4af8-a7a7-539d6d32dd28",
+    "title": "Human-Centered Design",
+    "description": null,
+    "url": "https://ideo.com/work/human-centered-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "04883c00-fcda-4e97-aa83-6168f2d88f19",
+    "title": "Wireframing",
+    "description": null,
+    "url": "https://interaction-design.org/courses/wireframing",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "29ce48c2-b6dd-4b29-80d1-233678d11d1b",
+    "title": "Data Visualization Design",
+    "description": null,
+    "url": "https://coursera.org/learn/data-visualization",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "92474478-3f05-422b-91dd-de3e63577432",
+    "title": "Packaging Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/packaging-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "d81802e9-4482-4d8a-bb71-f902663536aa",
+    "title": "Web Development",
+    "description": null,
+    "url": "https://edx.org/course/web-development",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "a56feeab-a154-4f8c-abd6-ae86183e0f1c",
+    "title": "Design Fundamentals",
+    "description": null,
+    "url": "https://linkedin.com/learning/design-fundamentals",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "b39f88cb-2d97-4a5d-a907-50fa875a5cfa",
+    "title": "UI Design Patterns",
+    "description": null,
+    "url": "https://udemy.com/course/ui-design-patterns",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "36e68db1-d69c-4de2-89bd-7633d8d56060",
+    "title": "Motion Graphics",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=motion+graphics",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "cf55ac99-b5bb-4814-a8db-9767e889c2dc",
+    "title": "XD Advanced",
+    "description": null,
+    "url": "https://adobe.com/learn/xd-advanced",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "14cc800d-7e19-48b3-8a6b-b3ff8a8e9d7d",
+    "title": "Advanced Components",
+    "description": null,
+    "url": "https://figma.com/community",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "b5e945df-ba4a-4260-93c6-6f6fe1c7f9d1",
+    "title": "Navigation Design",
+    "description": null,
+    "url": "https://interaction-design.org/courses/navigation-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "38cf26a9-1a5a-490b-a592-de9282a29059",
+    "title": "Accessibility Design",
+    "description": null,
+    "url": "https://coursera.org/learn/accessibility",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "cf24a6a7-0f43-431f-91ca-7fdd4d93aa47",
+    "title": "CSS Grid Mastery",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/css-grid",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "01f90d1e-a482-48fe-b544-ad56ce5b32a7",
+    "title": "Hand Lettering",
+    "description": null,
+    "url": "https://skillshare.com/classes/hand-lettering",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "ef8b2a80-8b1e-4e9f-9a98-a99b9cc9fa1b",
+    "title": "Photography Basics",
+    "description": null,
+    "url": "https://creativelive.com/courses/photography-basics",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "228817e7-4567-44ca-8219-14bd3638f481",
+    "title": "Full Stack Developer",
+    "description": null,
+    "url": "https://udacity.com/course/full-stack-web-developer",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "84c6faf5-16f8-4d9c-8fe1-0ded57b77f98",
+    "title": "SVG Animation",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=svg+animation",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "dc785b75-e181-4e9b-a6f7-2b5cb7237694",
+    "title": "Visual Design",
+    "description": null,
+    "url": "https://designlab.com/visual-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "1f65672f-7503-4c1d-89cb-8c0771e37042",
+    "title": "Stakeholder Management",
+    "description": null,
+    "url": "https://linkedin.com/learning/stakeholder-management",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "43a1dcf2-9fc2-452a-928d-d15536acd470",
+    "title": "Interaction Techniques",
+    "description": null,
+    "url": "https://coursera.org/learn/interaction-techniques",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "434ce725-e418-4383-9c6a-9873998942ad",
+    "title": "Modern Web Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/modern-web-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "58048f01-4a58-4b40-938e-79fc8a1f8c14",
+    "title": "Photoshop Advanced",
+    "description": null,
+    "url": "https://adobe.com/learn/photoshop-advanced",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "1f1db751-2815-4b50-9e16-eff777945ffd",
+    "title": "Innovation Workshop",
+    "description": null,
+    "url": "https://ideo.com/work/innovation-workshop",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "2ed5263a-22c5-4b16-99a7-e5ecc4775df3",
+    "title": "Mobile Patterns",
+    "description": null,
+    "url": "https://interaction-design.org/courses/mobile-patterns",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "cc64acaf-7db8-4fb5-9a22-a3025e1d7614",
+    "title": "Responsive Frameworks",
+    "description": null,
+    "url": "https://udemy.com/course/responsive-frameworks",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "dbffc789-65e7-4579-95da-2f0c270cfb4e",
+    "title": "Web Performance",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=web+performance",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "d2fdd657-690f-4319-9f3f-cf61edcee9f3",
+    "title": "Performance Optimization",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/performance-optimization",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "0cca82d6-4be0-4d9b-a990-f1c930eead8b",
+    "title": "Design Systems",
+    "description": null,
+    "url": "https://figma.com/community/file/1079053561186617050",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "d51aadff-edad-4bcb-ab12-fef57f125e15",
+    "title": "Product Photography",
+    "description": null,
+    "url": "https://creativelive.com/courses/product-photography",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "01dce2cb-28a8-4f00-bdc3-543108f96862",
+    "title": "Watercolor Painting",
+    "description": null,
+    "url": "https://skillshare.com/classes/watercolor-painting",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "9d6da510-4dfa-4314-89de-28d266101a13",
+    "title": "Visual Hierarchy",
+    "description": null,
+    "url": "https://interaction-design.org/courses/visual-hierarchy",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "399f3f60-f641-4161-97bb-d8838feeff6f",
+    "title": "Machine Learning",
+    "description": null,
+    "url": "https://udacity.com/course/machine-learning",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "63a3c2ee-0582-41e6-8aba-66894377dd50",
+    "title": "After Effects Tips",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=after+effects+tips",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "c6500837-6c1b-44b3-89f4-b4cd64300e11",
+    "title": "Design Critique",
+    "description": null,
+    "url": "https://designlab.com/design-critique",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "c4760ea4-7b58-4ea6-8dd9-49a416aaa491",
+    "title": "InDesign Workflow",
+    "description": null,
+    "url": "https://adobe.com/learn/indesign-workflow",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "51c715d5-13cf-4035-93b4-353ba788c5bf",
+    "title": "Analytics Design",
+    "description": null,
+    "url": "https://coursera.org/learn/analytics-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "33ee271d-741b-4875-a2d7-1d8007505cfd",
+    "title": "Computer Science",
+    "description": null,
+    "url": "https://edx.org/course/computer-science",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "0092fdf7-4357-468a-9ae4-ded36c12e99d",
+    "title": "TypeScript Mastery",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/typescript",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "06a29bb7-6c60-4bbd-959b-6eae24ae03c4",
+    "title": "Visual Effects",
+    "description": null,
+    "url": "https://skillshare.com/classes/visual-effects",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "3050e838-7511-42a6-999f-2b1ceeebcb5f",
+    "title": "Change Management",
+    "description": null,
+    "url": "https://linkedin.com/learning/change-management",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "cc700cbc-d128-4b2a-a582-1295b2a5d853",
+    "title": "Blender Animation",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=blender+animation",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "7b127832-f683-4220-bd81-0edc069de400",
+    "title": "Service Design",
+    "description": null,
+    "url": "https://ideo.com/work/service-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "282f44c7-19b8-4557-9cf3-bdcc4ff27bc0",
+    "title": "Feedback Design",
+    "description": null,
+    "url": "https://interaction-design.org/courses/feedback-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "c13a554c-8011-4a5f-bbb1-7007daef3640",
+    "title": "Network Design",
+    "description": null,
+    "url": "https://coursera.org/learn/network-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "e4e86e41-a7bf-41d6-9f5f-0144752b0758",
+    "title": "Prototyping",
+    "description": null,
+    "url": "https://figma.com/community/file/1229372172892161450",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "460255a6-cf06-4fd0-85fd-64d5a5799d5b",
+    "title": "Lighting Design",
+    "description": null,
+    "url": "https://creativelive.com/courses/lighting-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "a9843317-8352-483d-93dd-f839621994da",
+    "title": "Game Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/game-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "c2bb8120-2b14-4f48-ac55-24f24809e6a5",
+    "title": "JavaScript ES6",
+    "description": null,
+    "url": "https://udemy.com/course/javascript-es6",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "5dc0a0af-27af-4879-a485-7304d6684876",
+    "title": "Premiere Advanced",
+    "description": null,
+    "url": "https://adobe.com/learn/premiere-advanced",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "61a08c63-1f76-4652-a78f-e9af4fd1b210",
+    "title": "User Flows",
+    "description": null,
+    "url": "https://interaction-design.org/courses/user-flows",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "28657e11-8dad-4fa3-8206-0073d3262aa9",
+    "title": "CSS Tricks",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=css+tricks",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "3ddf5ae7-0bfc-40a1-bdfb-d8613e52839a",
+    "title": "Web Components",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/web-components",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "682a3499-2b24-4c21-b9f1-84d27c256347",
+    "title": "Statistics Design",
+    "description": null,
+    "url": "https://coursera.org/learn/statistics-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "e095df8f-fddd-4515-a85c-50ef11fbf9b6",
+    "title": "Strategic Planning",
+    "description": null,
+    "url": "https://linkedin.com/learning/strategic-planning",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "09816d26-4aaf-496d-9bce-1b2015cf8a08",
+    "title": "UX Writing",
+    "description": null,
+    "url": "https://designlab.com/ux-writing",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "74b4e9c3-cf5b-42d7-8e6e-2b95c6e88456",
+    "title": "AI Design",
+    "description": null,
+    "url": "https://udacity.com/course/ai-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "2b0f5ede-2875-4010-95f4-8a4e5a2fa18f",
+    "title": "Social Media Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/social-media-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "9f6dad43-d676-4cd8-a3d1-95166287b77a",
+    "title": "Figma Tips",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=figma+tips",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "1b5d0d43-9884-4864-8340-e87ec935b259",
+    "title": "Prototyping Workshop",
+    "description": null,
+    "url": "https://ideo.com/work/prototyping-workshop",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "cd3d962f-8da7-413f-ac89-7fc74ab8070e",
+    "title": "Variables and Tokens",
+    "description": null,
+    "url": "https://figma.com/community/file/1222624408163324373",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "47053a0a-9ef3-44ae-b807-143bf8a8887b",
+    "title": "Microinteractions Design",
+    "description": null,
+    "url": "https://coursera.org/learn/microinteractions",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "c5f815e0-56e6-44de-86a6-87edc34eb9b8",
+    "title": "Character Animation",
+    "description": null,
+    "url": "https://adobe.com/learn/character-animation",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "988cc5d4-7c64-4255-b2fd-176ed284d8f8",
+    "title": "Cinematography",
+    "description": null,
+    "url": "https://creativelive.com/courses/cinematography",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "b8f526df-2326-4ec7-8280-ca7c5e31c617",
+    "title": "Nextjs Mastery",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/nextjs",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "09f33646-a0b6-4a60-ade1-25ee4aca1deb",
+    "title": "Gesture Design",
+    "description": null,
+    "url": "https://interaction-design.org/courses/gesture-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "9297dae7-58b4-40c4-aa65-7be672e0f53b",
+    "title": "NFT Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/nft-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "c8bc9e80-f4bc-48af-b3ff-d55749cfa57e",
+    "title": "Web3 Design",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=web3+design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "4d7b4f3a-a1cf-46f0-b581-f0b213c08c51",
+    "title": "Vue.js Advanced",
+    "description": null,
+    "url": "https://udemy.com/course/vue-js-advanced",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "169eaef6-a3a8-41bb-85b2-8d7666ae0b7a",
+    "title": "Executive Presence",
+    "description": null,
+    "url": "https://linkedin.com/learning/executive-presence",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "a0d7a8e2-92c8-4f2b-a4c3-dab1504727c2",
+    "title": "Voice Design",
+    "description": null,
+    "url": "https://coursera.org/learn/voice-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "04be8dc8-fbd1-4545-adc1-78918e3db735",
+    "title": "AR/VR Design",
+    "description": null,
+    "url": "https://designlab.com/ar-vr-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "b4e14c60-dd48-46c6-9e14-a33446a07acf",
+    "title": "React Patterns",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=react+patterns",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "bf6366a8-cb5f-4036-b21e-ab6141f9899b",
+    "title": "VFX Compositing",
+    "description": null,
+    "url": "https://adobe.com/learn/vfx-compositing",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "1e3d7fab-acf5-46fb-8771-3678f6c9d1f5",
+    "title": "Futures Thinking",
+    "description": null,
+    "url": "https://ideo.com/work/futures-thinking",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "edad554a-ff3a-494a-a4c1-74cc38d698b4",
+    "title": "Serverless Functions",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/serverless",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "69494de7-d5c0-4cca-a901-e789b42010e2",
+    "title": "Metaverse Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/metaverse-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "66d3d432-4261-41d9-a37b-ed043b7a79a0",
+    "title": "Emotional Design",
+    "description": null,
+    "url": "https://coursera.org/learn/emotional-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "5de8f27e-e342-4f24-9220-55e1eadbeeb3",
+    "title": "Studio Management",
+    "description": null,
+    "url": "https://creativelive.com/courses/studio-management",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "d39da0d8-2f2b-4d44-a397-8b08a9b1141b",
+    "title": "Color Psychology",
+    "description": null,
+    "url": "https://interaction-design.org/courses/color-psychology",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "05687e86-437e-4484-8415-b4c0b1e6a9f3",
+    "title": "Blockchain Design",
+    "description": null,
+    "url": "https://udacity.com/course/blockchain-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "e2134ab6-9bb5-4573-be73-0ae34797917c",
+    "title": "Database Design",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=database+design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "ba12645a-b67c-4af5-85a5-370a20b6724e",
+    "title": "Content Strategy",
+    "description": null,
+    "url": "https://designlab.com/content-strategy",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "85458f62-654a-492c-a2e3-b067d09f0ef7",
+    "title": "Emotional Intelligence",
+    "description": null,
+    "url": "https://linkedin.com/learning/emotional-intelligence",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "aee26d83-736e-42cd-aff8-70ee945e7821",
+    "title": "Neurodesign",
+    "description": null,
+    "url": "https://coursera.org/learn/neurodesign",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "817cc3b8-08cb-4f55-9491-9db198863fbf",
+    "title": "Stock Footage",
+    "description": null,
+    "url": "https://adobe.com/learn/stock",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "13f4b825-517f-4644-ac1f-0482350d7390",
+    "title": "WebGL Fundamentals",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/webgl",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "7c713d15-3f29-4dc6-bd22-1ed9c2b3c9fe",
+    "title": "Sustainable Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/sustainable-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "efb127be-70af-4e06-a0aa-c2723f3b84cc",
+    "title": "Node.js Patterns",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=nodejs+patterns",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "35142f28-eb2f-4837-9361-0f614de48c44",
+    "title": "Circular Economy Design",
+    "description": null,
+    "url": "https://ideo.com/work/circular-economy",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "d57da610-66c4-42ed-a745-29e6dc205e0d",
+    "title": "Inclusive Design",
+    "description": null,
+    "url": "https://interaction-design.org/courses/inclusive-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "205e9139-344a-4218-bd8d-273ea7cb9d3f",
+    "title": "Digital Transformation",
+    "description": null,
+    "url": "https://coursera.org/learn/digital-transformation",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "d917d479-ecd1-4298-bc08-0515d27b8722",
+    "title": "Media Management",
+    "description": null,
+    "url": "https://creativelive.com/courses/media-management",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "81704bf4-d40f-484f-9e20-e499ed14afb3",
+    "title": "Growth Design",
+    "description": null,
+    "url": "https://designlab.com/growth-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "11e738e6-7e01-40c9-b540-20a93ff3090f",
+    "title": "Python for Data",
+    "description": null,
+    "url": "https://udemy.com/course/python-for-data",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "346c6ae3-a4cb-4fc2-9cb9-4341d3e31bf6",
+    "title": "System Design",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=system+design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "41e218ad-9dbc-4d21-8c7d-f7ec2855e3eb",
+    "title": "GraphQL Mastery",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/graphql",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "1a1d14b0-b659-4ea6-aa13-53d1caddf7fe",
+    "title": "Diversity Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/diversity-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "d0147ec7-11fa-4efe-b3c8-fef8fbf22142",
+    "title": "Conflict Resolution",
+    "description": null,
+    "url": "https://linkedin.com/learning/conflict-resolution",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "7de7ee0b-34c9-4115-acf5-2a05df8a2c08",
+    "title": "Quantum Computing Design",
+    "description": null,
+    "url": "https://coursera.org/learn/quantum-computing",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "92b8de3f-dc47-473a-8d4d-7b916b1d2e1e",
+    "title": "Motion Tracking",
+    "description": null,
+    "url": "https://adobe.com/learn/motion-tracking",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "87931b5c-dda5-482e-85ef-042c26214f06",
+    "title": "Mental Models",
+    "description": null,
+    "url": "https://interaction-design.org/courses/mental-models",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "a856f088-0ea6-4bc1-b5e1-ba1da6995691",
+    "title": "Docker Containers",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=docker+containers",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "49a5dc8e-3f9d-4c70-b00e-fcdf1dacca43",
+    "title": "Biosignals Design",
+    "description": null,
+    "url": "https://ideo.com/work/biosignals",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "eebde3f9-5e96-4383-8f84-e7356c667a15",
+    "title": "Behavior Change Design",
+    "description": null,
+    "url": "https://designlab.com/behavior-change",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "34c18fe1-5e2b-479f-88d2-5e8acc4b4db5",
+    "title": "Quantum Machine Learning",
+    "description": null,
+    "url": "https://udacity.com/course/quantum-machine-learning",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "cde00fc4-9205-4a70-9ec8-f2fefecf2e8d",
+    "title": "Real-time Collaboration",
+    "description": null,
+    "url": "https://figma.com/multiplayer",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "23287b17-beee-4391-9fea-41d09b93530c",
+    "title": "Rust Web Development",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/rust",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "d9b62788-a0bc-4438-9264-f97ae8abb956",
+    "title": "Biosecurity Design",
+    "description": null,
+    "url": "https://coursera.org/learn/biosecurity",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "a5ea932a-a91b-4d48-a802-31d4738b3ecd",
+    "title": "Indigenous Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/indigenous-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "23c2013b-376d-44e3-b7ca-688824648d09",
+    "title": "Podcast Production",
+    "description": null,
+    "url": "https://creativelive.com/courses/podcast-production",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "fe5af848-3f75-442f-8ecb-277caf116158",
+    "title": "Kubernetes Orchestration",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=kubernetes",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "a227c28d-4a6e-4727-9730-0968b888dc8f",
+    "title": "Context Mapping",
+    "description": null,
+    "url": "https://interaction-design.org/courses/context-mapping",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "0875ffd3-5f7a-44ab-b7d3-a552e437120f",
+    "title": "Presence and Impact",
+    "description": null,
+    "url": "https://linkedin.com/learning/presence-and-impact",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "81425992-b1c1-4a36-bab4-42b89d3ef40a",
+    "title": "Creative Cloud Master",
+    "description": null,
+    "url": "https://adobe.com/learn",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "92032767-c38f-470f-b317-0fad3a1fc618",
+    "title": "Resilience Design",
+    "description": null,
+    "url": "https://ideo.com/work/resilience",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "b0c45c4c-a442-4a20-a230-d5735eed6769",
+    "title": "Privacy by Design",
+    "description": null,
+    "url": "https://designlab.com/privacy-by-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "16a63e01-ef79-4346-bf6b-56b0ab4234ac",
+    "title": "Service Design",
+    "description": null,
+    "url": "https://coursera.org/learn/service-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "56088db5-e7fd-473e-866c-35705a3bf08f",
+    "title": "Advanced Components",
+    "description": null,
+    "url": "https://figma.com/community",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "71dec804-eaaf-47d3-b076-75ca92573826",
+    "title": "User Research Methods",
+    "description": null,
+    "url": "https://linkedin.com/learning/user-research-methods",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "d0ff97d1-eeff-4d3c-8442-258487c710d5",
+    "title": "Design for Social Impact",
+    "description": null,
+    "url": "https://edx.org/course/design-social-impact",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "37d28b77-e07d-4751-af39-968fecbd12be",
+    "title": "After Effects Animation",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=after+effects+animation",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "c0af28ce-6da1-4d07-87de-e5bda36bbde1",
+    "title": "User Experience Design",
+    "description": null,
+    "url": "https://coursera.org/learn/user-experience-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "8b746ce4-1efa-42b4-8ee0-696cf87bc0a7",
+    "title": "Interactive Design",
+    "description": null,
+    "url": "https://edx.org/course/interactive-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "b97226b1-68ff-4651-8251-a7d10c580d8c",
+    "title": "Digital Product Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/digital-product-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "70346be0-7c3f-4003-8958-a33a6e086279",
+    "title": "Mobile UX Design",
+    "description": null,
+    "url": "https://interaction-design.org/courses/mobile-ux-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "3f6f54dc-1d2a-49b4-8edb-c7e8ff8d974d",
+    "title": "Web Design Principles",
+    "description": null,
+    "url": "https://udemy.com/course/web-design-principles",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "0379a5ff-a0d7-4033-91a3-c41684069097",
+    "title": "Advanced CSS",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/advanced-css",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "739cca91-9935-4d61-8e74-b6a2a2a26755",
+    "title": "Product Strategy",
+    "description": null,
+    "url": "https://linkedin.com/learning/product-strategy",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "750543b3-80f3-4dd8-9408-e4168ed4f425",
+    "title": "Design Thinking",
+    "description": null,
+    "url": "https://coursera.org/learn/design-thinking",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "82bb556a-4803-4bc2-900b-84e12ed62093",
+    "title": "Web Accessibility",
+    "description": null,
+    "url": "https://creativelive.com/courses/web-accessibility",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "75ac9e88-60eb-4c50-a359-6cf387e3fc49",
+    "title": "XD Masterclass",
+    "description": null,
+    "url": "https://adobe.com/learn/xd",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "63bbe3b8-8638-451b-b779-bd19f5d50356",
+    "title": "Information Architecture",
+    "description": null,
+    "url": "https://interaction-design.org/courses/information-architecture",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "baa5e6de-182e-443b-b715-124d834903bb",
+    "title": "Nanodegree UX",
+    "description": null,
+    "url": "https://udacity.com/course/ux-designer-nanodegree",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "e97539f1-cdff-43f6-a2bc-742fc0cc8420",
+    "title": "Design Inspiration",
+    "description": null,
+    "url": "https://dribbble.com/resources",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "967e4426-e2fb-4fce-a781-aa53f19a0403",
+    "title": "Motion Design",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=motion+design+tutorial",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "1993ed01-d1a8-48d4-bad2-d61d0afdf24e",
+    "title": "Figma Fundamentals",
+    "description": null,
+    "url": "https://skillshare.com/classes/figma-fundamentals",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "0194501d-d855-4b73-9e13-ff0e66ae23fe",
+    "title": "Web Design",
+    "description": null,
+    "url": "https://abookapart.com/products/web-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "79efbc33-6789-4409-aa98-76a92a512ab8",
+    "title": "Product Design Bootcamp",
+    "description": null,
+    "url": "https://designlab.com/bootcamp",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "ce59c492-d3f7-4724-a1ae-06ad2c48a898",
+    "title": "UX Design Immersive",
+    "description": null,
+    "url": "https://generalassembly.com/ux-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "3905e61f-28af-4ba9-86d0-2f5eace4ca01",
+    "title": "Design Thinking Workshop",
+    "description": null,
+    "url": "https://ideo.com/work/design-thinking-workshop",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "ba0ce1ca-3a16-4c31-be75-932a2ae3ea29",
+    "title": "Behavioral Economics",
+    "description": null,
+    "url": "https://coursera.org/learn/behavioral-economics",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "1ef17e53-305b-41b6-91a1-a850a0dc9bf1",
+    "title": "Interactive Design",
+    "description": null,
+    "url": "https://media.mit.edu/courses",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "89ae8ee3-c796-48af-8aac-0e91551cb7db",
+    "title": "Design Process",
+    "description": null,
+    "url": "https://dschool.stanford.edu",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "73cffe03-9c23-4a69-92b9-606079f6d84f",
+    "title": "Visual Design",
+    "description": null,
+    "url": "https://interaction-design.org/courses/visual-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "42620836-416c-4a67-9b55-c9e966961f90",
+    "title": "UI Kit Creation",
+    "description": null,
+    "url": "https://udemy.com/course/ui-kit-creation",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "c34d9299-a4e7-4926-9e6b-32f69ea918c6",
+    "title": "Typography Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/typography-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "5b7f45f5-23ec-42c6-94a5-304169fcc829",
+    "title": "Design Systems",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/design-systems",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "66f0d85d-1c6c-4fe0-8163-7cfc51d624c2",
+    "title": "Illustration for Design",
+    "description": null,
+    "url": "https://creativelive.com/courses/illustration-for-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "e236f23e-0f1d-4a98-8d17-7890df279d66",
+    "title": "Design Thinking",
+    "description": null,
+    "url": "https://skillshare.com/classes/design-thinking",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "1b5ce0f4-da4a-4cdd-81c7-bc690d71b3d9",
+    "title": "Usability Testing",
+    "description": null,
+    "url": "https://interaction-design.org/courses/usability-testing",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "44742d70-3e9b-4c24-892f-07ce6bc231d3",
+    "title": "Prototyping Tools",
+    "description": null,
+    "url": "https://udemy.com/course/prototyping-tools",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "e7d4f2dc-c2e6-41bd-bedb-698305ad456a",
+    "title": "InDesign Templates",
+    "description": null,
+    "url": "https://adobe.com/learn/indesign",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "30bdc9b4-3075-462f-a15a-76cf9d5173de",
+    "title": "Interaction Design",
+    "description": null,
+    "url": "https://coursera.org/learn/interaction-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "421e7996-71d9-4baf-bb09-5702f5fa3dc9",
+    "title": "JavaScript Animations",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/javascript-animations",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "30740eaf-4591-4e50-bc45-69b7ec0d8f74",
+    "title": "Color Theory",
+    "description": null,
+    "url": "https://skillshare.com/classes/color-theory",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "3f9fe618-ce5c-4678-9d81-d36891649b49",
+    "title": "Design Trends",
+    "description": null,
+    "url": "https://dribbble.com/design-trends",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "221e10ed-85c6-4650-85f8-74ed6fddc381",
+    "title": "Data Visualization",
+    "description": null,
+    "url": "https://linkedin.com/learning/data-visualization",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "2172f36d-f9e8-4163-9eb8-8c04ccc65d98",
+    "title": "Responsive Design",
+    "description": null,
+    "url": "https://udacity.com/course/responsive-web-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "ed56e2c0-f806-43e5-af3d-cefa8dec09a3",
+    "title": "Cinema 4D Basics",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=cinema+4d+basics",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "b7167f35-5e1e-47d8-b92e-2b2f1ce2dcd3",
+    "title": "Interaction Patterns",
+    "description": null,
+    "url": "https://interaction-design.org/courses/interaction-patterns",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "dc15b188-75cb-41d9-b732-f9d128ac54ac",
+    "title": "E-commerce Design",
+    "description": null,
+    "url": "https://coursera.org/learn/ecommerce-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "e12dd346-db10-4454-bae7-66178fa1be88",
+    "title": "Layout Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/layout-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "7a362852-c2df-4b2e-9deb-5d21cf8f0290",
+    "title": "Photoshop Workflow",
+    "description": null,
+    "url": "https://adobe.com/learn/photoshop",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "426fee89-3aeb-4cb0-88e4-23f404a54b2a",
+    "title": "Digital Illustration",
+    "description": null,
+    "url": "https://creativelive.com/courses/digital-illustration",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "58cd2922-de35-4a0a-b29b-e0f6868070b6",
+    "title": "Design Essentials",
+    "description": null,
+    "url": "https://figma.com/community/file/1254025637621699699",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "a91b1c70-2a7f-40e9-9e4c-cd51e60bc581",
+    "title": "Design Ethics",
+    "description": null,
+    "url": "https://coursera.org/learn/design-ethics",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "cf17fecf-2855-4467-9c0c-0e86ddaec360",
+    "title": "Blender Modeling",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=blender+modeling+tutorial",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "b76a8af6-1d26-42bc-bc15-04b9a6c0970e",
+    "title": "Icon Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/icon-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "6337f23a-f5e3-4c9e-8516-70aa4905bdf4",
+    "title": "Responsive Web Design",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/responsive-web-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "715738a8-f968-4205-a580-e7653c54437c",
+    "title": "Affordances",
+    "description": null,
+    "url": "https://interaction-design.org/courses/affordances",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "ccbe064e-c60a-4b8d-9be2-49eacfb13e0c",
+    "title": "Web Animation",
+    "description": null,
+    "url": "https://udemy.com/course/web-animation",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "cb81c988-07ab-4687-8eb9-c82a4223e7bb",
+    "title": "Illustrator Techniques",
+    "description": null,
+    "url": "https://adobe.com/learn/illustrator",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "5b962eac-0295-40e0-84e6-d551d2d62e2e",
+    "title": "Mobile App Design",
+    "description": null,
+    "url": "https://coursera.org/learn/mobile-app-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "15e7f40c-1a76-4d56-86e6-a184cce5b9ad",
+    "title": "Branding Basics",
+    "description": null,
+    "url": "https://skillshare.com/classes/branding-basics",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "2c5df2d8-62fc-4f05-bf77-4190ac8b3c1f",
+    "title": "Design Leadership",
+    "description": null,
+    "url": "https://linkedin.com/learning/design-leadership",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "77227655-9b4b-4024-8a40-285307d625c2",
+    "title": "Portfolio Showcase",
+    "description": null,
+    "url": "https://dribbble.com/resources/portfolio",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "68beeda3-653f-4d3e-91f5-8d716608a379",
+    "title": "Premiere Pro Editing",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=premiere+pro+editing",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "d886fae1-6e25-497e-9592-04378403dddb",
+    "title": "Front End Developer",
+    "description": null,
+    "url": "https://udacity.com/course/front-end-web-developer",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "8b03b2fa-81e5-4579-9b44-bbff0bcf1742",
+    "title": "User Testing",
+    "description": null,
+    "url": "https://interaction-design.org/courses/user-testing",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "35e06a11-09a4-4ea5-9824-c9bc2858bcbb",
+    "title": "Product Management",
+    "description": null,
+    "url": "https://coursera.org/learn/product-management",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "60777401-b336-491e-9c91-0d0cd6a059be",
+    "title": "Web Layout",
+    "description": null,
+    "url": "https://skillshare.com/classes/web-layout",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "ab815190-a1ad-4412-a73f-f626a0b4b1ef",
+    "title": "Brand Strategy",
+    "description": null,
+    "url": "https://creativelive.com/courses/brand-strategy",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "edc0a1fb-c583-4aa8-aab2-734e7e2ec636",
+    "title": "Animate Interactions",
+    "description": null,
+    "url": "https://adobe.com/learn/xd-interactions",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "b16212d6-64ec-4b2e-98bd-3cd09764ab35",
+    "title": "Advanced React",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/advanced-react",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "26573fdf-3faa-43b2-a03b-8568a9ee43cc",
+    "title": "UI/UX Principles",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=ui+ux+principles",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "0954d52e-533f-4414-a052-eabef8de3309",
+    "title": "UX Research",
+    "description": null,
+    "url": "https://designlab.com/ux-research",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "8e1fdfe7-13b6-4299-a3a3-c74588590675",
+    "title": "Human-Centered Design",
+    "description": null,
+    "url": "https://ideo.com/work/human-centered-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "dfb76178-f74e-4f0f-a7e0-8b73f69d19ca",
+    "title": "Wireframing",
+    "description": null,
+    "url": "https://interaction-design.org/courses/wireframing",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "d9d70f41-acfa-48a9-8b2a-3e77a6d33086",
+    "title": "Data Visualization Design",
+    "description": null,
+    "url": "https://coursera.org/learn/data-visualization",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "340d61af-27e6-4e39-afb5-f9e8fbb92b24",
+    "title": "Packaging Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/packaging-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "f6661875-8668-4450-8302-8e8a2e8de37a",
+    "title": "Web Development",
+    "description": null,
+    "url": "https://edx.org/course/web-development",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "b5edb61b-dc41-4509-a878-6dd3fbeaf9a3",
+    "title": "Design Fundamentals",
+    "description": null,
+    "url": "https://linkedin.com/learning/design-fundamentals",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "7336e5e9-7583-423a-9644-095b33aefd1e",
+    "title": "UI Design Patterns",
+    "description": null,
+    "url": "https://udemy.com/course/ui-design-patterns",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "81a72c9f-f28e-47f7-ba99-b15e12161867",
+    "title": "Motion Graphics",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=motion+graphics",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "31fbf367-cbf2-4497-bfbf-02e67a548c1d",
+    "title": "XD Advanced",
+    "description": null,
+    "url": "https://adobe.com/learn/xd-advanced",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "fe4f4368-4302-434c-ac5b-8a0d638653f4",
+    "title": "Navigation Design",
+    "description": null,
+    "url": "https://interaction-design.org/courses/navigation-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "0509f2ad-d8fb-404a-8ad0-39fbee0aff1e",
+    "title": "Accessibility Design",
+    "description": null,
+    "url": "https://coursera.org/learn/accessibility",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "4a193edf-0af0-4bd1-85be-1e277dac6d79",
+    "title": "CSS Grid Mastery",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/css-grid",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "8ea83181-5af3-41e2-b96a-5a26270a2115",
+    "title": "Hand Lettering",
+    "description": null,
+    "url": "https://skillshare.com/classes/hand-lettering",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "0e8c1677-67de-4020-b35f-24c4d34670d5",
+    "title": "Photography Basics",
+    "description": null,
+    "url": "https://creativelive.com/courses/photography-basics",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "d42ba0db-404f-4f40-b680-c1afff49b837",
+    "title": "Full Stack Developer",
+    "description": null,
+    "url": "https://udacity.com/course/full-stack-web-developer",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "4bc16a8e-dc5d-4355-8916-9a47dfbee138",
+    "title": "SVG Animation",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=svg+animation",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "0d889ae7-a49e-45be-9bc5-abe711ab3f34",
+    "title": "Visual Design",
+    "description": null,
+    "url": "https://designlab.com/visual-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "aa4b34bf-a56b-4ac8-a9f8-ea4207d5a085",
+    "title": "Stakeholder Management",
+    "description": null,
+    "url": "https://linkedin.com/learning/stakeholder-management",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "18ee33e4-a6eb-454f-8cda-2b0c515f2d57",
+    "title": "Interaction Techniques",
+    "description": null,
+    "url": "https://coursera.org/learn/interaction-techniques",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "debc710a-2653-4a52-af51-1b9600ec19be",
+    "title": "Modern Web Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/modern-web-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "b664b1f3-1f8b-4e3f-9e0d-b240fcecbac0",
+    "title": "Photoshop Advanced",
+    "description": null,
+    "url": "https://adobe.com/learn/photoshop-advanced",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "75115c7b-91fe-45df-ae48-5f83954e6c6c",
+    "title": "Innovation Workshop",
+    "description": null,
+    "url": "https://ideo.com/work/innovation-workshop",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "15410e0c-170b-4932-b586-4394e74dbfcf",
+    "title": "Mobile Patterns",
+    "description": null,
+    "url": "https://interaction-design.org/courses/mobile-patterns",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "0f7d682f-3ed4-45ed-b968-8450a6f72025",
+    "title": "Responsive Frameworks",
+    "description": null,
+    "url": "https://udemy.com/course/responsive-frameworks",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "3f172d8a-7ab5-405b-be95-2615c210bfa1",
+    "title": "Web Performance",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=web+performance",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "28cda438-d583-4411-a0b3-02f4906ca52a",
+    "title": "Performance Optimization",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/performance-optimization",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "45149ed7-bd78-4176-ad4f-cafa82827112",
+    "title": "Design Systems",
+    "description": null,
+    "url": "https://figma.com/community/file/1079053561186617050",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "0c5470ea-5170-4e8a-8e3a-fadaf08bbb6c",
+    "title": "Business Strategy",
+    "description": null,
+    "url": "https://coursera.org/learn/business-strategy",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "5d16a865-d560-4176-ab82-39fbbe344c81",
+    "title": "Team Leadership",
+    "description": null,
+    "url": "https://linkedin.com/learning/team-leadership",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "09e5094d-4107-40f6-8412-eddfd239d0d6",
+    "title": "Product Photography",
+    "description": null,
+    "url": "https://creativelive.com/courses/product-photography",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "41c16707-902f-4f2a-a14e-2039bb19cb9e",
+    "title": "Watercolor Painting",
+    "description": null,
+    "url": "https://skillshare.com/classes/watercolor-painting",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "0854d965-5214-4485-b333-1e5b1110e1dc",
+    "title": "Visual Hierarchy",
+    "description": null,
+    "url": "https://interaction-design.org/courses/visual-hierarchy",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "a5396e32-dfaf-4063-a0d3-85a301047bc4",
+    "title": "Machine Learning",
+    "description": null,
+    "url": "https://udacity.com/course/machine-learning",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "fd29c179-43f7-4ce7-ac10-2ed2e79c394c",
+    "title": "After Effects Tips",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=after+effects+tips",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "e116175f-0f7a-4377-95eb-3c00ccf54886",
+    "title": "Design Critique",
+    "description": null,
+    "url": "https://designlab.com/design-critique",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "ffbbcfbd-17d1-464f-a135-108b65fbcd0d",
+    "title": "InDesign Workflow",
+    "description": null,
+    "url": "https://adobe.com/learn/indesign-workflow",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "796eacb7-e486-47b3-8d45-df0fd56955e8",
+    "title": "Analytics Design",
+    "description": null,
+    "url": "https://coursera.org/learn/analytics-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "f8c69f82-c329-4fcd-a3da-a91be4610eed",
+    "title": "Computer Science",
+    "description": null,
+    "url": "https://edx.org/course/computer-science",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "1643c78c-1aea-470e-b66c-73b6e52c0dc2",
+    "title": "TypeScript Mastery",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/typescript",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "bc7db249-5dbb-49e1-a10d-c83bf4dcbeed",
+    "title": "Visual Effects",
+    "description": null,
+    "url": "https://skillshare.com/classes/visual-effects",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "0b17202d-0795-4ff2-bcb4-2201be4aadb9",
+    "title": "Change Management",
+    "description": null,
+    "url": "https://linkedin.com/learning/change-management",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "acb846e4-654e-4a2b-ad0b-d4442ee50d44",
+    "title": "Blender Animation",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=blender+animation",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "e41c949c-5969-4195-b721-50f572247469",
+    "title": "Service Design",
+    "description": null,
+    "url": "https://ideo.com/work/service-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "f9919e85-806d-47d3-aa81-3b7af12a6647",
+    "title": "Feedback Design",
+    "description": null,
+    "url": "https://interaction-design.org/courses/feedback-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "55512d82-b961-44b2-b64e-07281714ea26",
+    "title": "Network Design",
+    "description": null,
+    "url": "https://coursera.org/learn/network-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "523fecbb-c658-473b-972c-c0eb695cec1f",
+    "title": "Prototyping",
+    "description": null,
+    "url": "https://figma.com/community/file/1229372172892161450",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "1ee06f0a-5cd1-4356-b7d9-da6320d5da1f",
+    "title": "Lighting Design",
+    "description": null,
+    "url": "https://creativelive.com/courses/lighting-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "43ab8f8a-0556-4567-9f6f-c1e4d55a4504",
+    "title": "Game Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/game-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "7c45be74-d846-4f86-bcc4-de66e49f9b95",
+    "title": "JavaScript ES6",
+    "description": null,
+    "url": "https://udemy.com/course/javascript-es6",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "fe06da57-c9db-474e-a459-cf4130e142a7",
+    "title": "Premiere Advanced",
+    "description": null,
+    "url": "https://adobe.com/learn/premiere-advanced",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "d1a05ee3-0934-4135-8881-92effad091eb",
+    "title": "User Flows",
+    "description": null,
+    "url": "https://interaction-design.org/courses/user-flows",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "51aaa643-e6f4-4fdb-bd2d-819a77ee7d24",
+    "title": "CSS Tricks",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=css+tricks",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "95bab10a-d1ff-4382-9fd2-c42d9ab14bc4",
+    "title": "Web Components",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/web-components",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "579ef8e1-0481-4b9c-a008-5969468d95d5",
+    "title": "Statistics Design",
+    "description": null,
+    "url": "https://coursera.org/learn/statistics-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "2ea4d58e-5346-4f52-9b8e-cafecf7501f8",
+    "title": "Strategic Planning",
+    "description": null,
+    "url": "https://linkedin.com/learning/strategic-planning",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "5780c752-2c36-434f-bec1-b598375542e7",
+    "title": "UX Writing",
+    "description": null,
+    "url": "https://designlab.com/ux-writing",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "0d8c45ff-08ad-42cf-90be-edd5d25514ac",
+    "title": "AI Design",
+    "description": null,
+    "url": "https://udacity.com/course/ai-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "bff05a76-6fdc-4355-8ea5-39f69ed141fa",
+    "title": "Social Media Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/social-media-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "5a781cd2-755a-45e9-9768-935fafa19550",
+    "title": "Figma Tips",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=figma+tips",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "5c81b34f-5c23-47ba-8b76-5519ee45949b",
+    "title": "Prototyping Workshop",
+    "description": null,
+    "url": "https://ideo.com/work/prototyping-workshop",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "7e612c92-f4b8-4a91-9662-d9500b320274",
+    "title": "Variables and Tokens",
+    "description": null,
+    "url": "https://figma.com/community/file/1222624408163324373",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "d4871700-c927-4e1f-8c48-b9f9f9b85e64",
+    "title": "Microinteractions Design",
+    "description": null,
+    "url": "https://coursera.org/learn/microinteractions",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "890a79c3-0c45-4683-a8a9-5ac708e23173",
+    "title": "Character Animation",
+    "description": null,
+    "url": "https://adobe.com/learn/character-animation",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "67a93523-6b39-4938-bdf5-0d990a6bc5e6",
+    "title": "Cinematography",
+    "description": null,
+    "url": "https://creativelive.com/courses/cinematography",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "79f1e5e6-c94c-4898-bcc4-91529b78cc9f",
+    "title": "Nextjs Mastery",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/nextjs",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "339b23cf-b59f-4c40-a048-68495628a789",
+    "title": "Gesture Design",
+    "description": null,
+    "url": "https://interaction-design.org/courses/gesture-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "38a70764-d24f-4cd2-b6e5-470a19147b9a",
+    "title": "NFT Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/nft-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "e70c13ab-f859-4fad-8b89-3a8f5f608bb8",
+    "title": "Web3 Design",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=web3+design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "dfd57866-d16e-43dd-a9d0-f85688f65a26",
+    "title": "Vue.js Advanced",
+    "description": null,
+    "url": "https://udemy.com/course/vue-js-advanced",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "9d2d639c-5521-4067-92a2-599e58e4bccb",
+    "title": "Executive Presence",
+    "description": null,
+    "url": "https://linkedin.com/learning/executive-presence",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "6cc01a00-bdb6-4519-9302-885b712d58ac",
+    "title": "Voice Design",
+    "description": null,
+    "url": "https://coursera.org/learn/voice-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "929fbb74-a7fe-4891-ba6b-4dc871061602",
+    "title": "AR/VR Design",
+    "description": null,
+    "url": "https://designlab.com/ar-vr-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "a4ddb4dc-4396-48d7-8fba-9c46c1864173",
+    "title": "React Patterns",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=react+patterns",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "43dbdd4f-d012-4fee-b703-0af74dff7779",
+    "title": "VFX Compositing",
+    "description": null,
+    "url": "https://adobe.com/learn/vfx-compositing",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "b91737d3-abc4-47ae-b90e-786ffbe899f8",
+    "title": "Futures Thinking",
+    "description": null,
+    "url": "https://ideo.com/work/futures-thinking",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "3f712d3d-a8d1-4b7d-bcf2-3bc3f01eafa0",
+    "title": "Serverless Functions",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/serverless",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "935f7590-9726-485c-9450-177f7b37040c",
+    "title": "Metaverse Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/metaverse-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "eda17c4d-ea53-4383-ae82-bcc9732bd443",
+    "title": "Emotional Design",
+    "description": null,
+    "url": "https://coursera.org/learn/emotional-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "5eb662c6-633d-4eac-9044-ef4305fdbe95",
+    "title": "Studio Management",
+    "description": null,
+    "url": "https://creativelive.com/courses/studio-management",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "0fe116ae-e4af-44af-80f2-13776eeea311",
+    "title": "Color Psychology",
+    "description": null,
+    "url": "https://interaction-design.org/courses/color-psychology",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "a68afc30-d5e3-42da-9fff-91ec158171fb",
+    "title": "Blockchain Design",
+    "description": null,
+    "url": "https://udacity.com/course/blockchain-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "6c02b283-995d-4050-8f0e-8e276b9c0c2e",
+    "title": "Database Design",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=database+design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "f5e6811e-c3f5-4345-8593-c4f951bfc529",
+    "title": "Content Strategy",
+    "description": null,
+    "url": "https://designlab.com/content-strategy",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "dc732aec-1f4a-45b5-aebc-11cb8d85d86c",
+    "title": "Emotional Intelligence",
+    "description": null,
+    "url": "https://linkedin.com/learning/emotional-intelligence",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "0a4d0e03-6e1f-49a1-b5a8-eb48db410396",
+    "title": "Neurodesign",
+    "description": null,
+    "url": "https://coursera.org/learn/neurodesign",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "e5e64fbf-3128-44a4-b69f-15c9eac66833",
+    "title": "Stock Footage",
+    "description": null,
+    "url": "https://adobe.com/learn/stock",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "53485aae-f64b-4fd0-b908-4e491755eca5",
+    "title": "WebGL Fundamentals",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/webgl",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "ff50c0c4-a121-4956-99d4-b9f188996f53",
+    "title": "Sustainable Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/sustainable-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "fc486cad-6072-4ada-baa9-e6c94496b0c7",
+    "title": "Node.js Patterns",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=nodejs+patterns",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "976795ee-5336-4faf-aea7-43ae5b118e4f",
+    "title": "Circular Economy Design",
+    "description": null,
+    "url": "https://ideo.com/work/circular-economy",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "8b1c8bd9-9c96-42d8-bf4a-b33b7234276d",
+    "title": "Inclusive Design",
+    "description": null,
+    "url": "https://interaction-design.org/courses/inclusive-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "b5c0b7ce-7e1b-4934-9592-803156b6d438",
+    "title": "Digital Transformation",
+    "description": null,
+    "url": "https://coursera.org/learn/digital-transformation",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "83a9ec6d-2724-4eea-949c-7b30c0586f1c",
+    "title": "Media Management",
+    "description": null,
+    "url": "https://creativelive.com/courses/media-management",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "49921e81-0c62-47ac-9094-726ce1eb9cfd",
+    "title": "Growth Design",
+    "description": null,
+    "url": "https://designlab.com/growth-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "844055b2-cf28-4464-abf5-f71854beb0ae",
+    "title": "Python for Data",
+    "description": null,
+    "url": "https://udemy.com/course/python-for-data",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "f788dca9-e5af-49f0-b292-53ce1199be64",
+    "title": "System Design",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=system+design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "59878493-90e9-47f4-8364-a107571d1ef2",
+    "title": "GraphQL Mastery",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/graphql",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "ddd458dc-efb8-4657-a173-cc3b5c29f73a",
+    "title": "Diversity Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/diversity-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "eb4e8666-eed5-4daa-bfaa-9c316cf1d0eb",
+    "title": "Conflict Resolution",
+    "description": null,
+    "url": "https://linkedin.com/learning/conflict-resolution",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "cc6d9b6d-53f1-4229-9318-46f273c98bef",
+    "title": "Quantum Computing Design",
+    "description": null,
+    "url": "https://coursera.org/learn/quantum-computing",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "4e4df185-1827-4f1f-912d-3ffc61fd6eb1",
+    "title": "Motion Tracking",
+    "description": null,
+    "url": "https://adobe.com/learn/motion-tracking",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "984ae4df-6ee6-41da-832a-2611613e47b0",
+    "title": "Mental Models",
+    "description": null,
+    "url": "https://interaction-design.org/courses/mental-models",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "5dd36c51-a37a-4588-aa2a-ff8c6fc31392",
+    "title": "Docker Containers",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=docker+containers",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "e1fb1db4-99f3-4aa6-8c3a-d254392ebcf9",
+    "title": "Biosignals Design",
+    "description": null,
+    "url": "https://ideo.com/work/biosignals",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "3761ae78-ecea-42f4-b8aa-b36f594db157",
+    "title": "Behavior Change Design",
+    "description": null,
+    "url": "https://designlab.com/behavior-change",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "70d60460-a387-40a4-b1e5-96e9d1b5f128",
+    "title": "Quantum Machine Learning",
+    "description": null,
+    "url": "https://udacity.com/course/quantum-machine-learning",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "3d180b2f-7c5f-4c9a-a900-95691728c7cf",
+    "title": "Real-time Collaboration",
+    "description": null,
+    "url": "https://figma.com/multiplayer",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "81c93939-3143-45dc-bf77-21fb111f69f7",
+    "title": "Rust Web Development",
+    "description": null,
+    "url": "https://frontendmasters.com/courses/rust",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "bea69192-fa96-4ffa-8924-2b010ff9a580",
+    "title": "Biosecurity Design",
+    "description": null,
+    "url": "https://coursera.org/learn/biosecurity",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "8b3cdfad-90bd-4afa-b030-bf7ee8a9a5d2",
+    "title": "Indigenous Design",
+    "description": null,
+    "url": "https://skillshare.com/classes/indigenous-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "ce1839e7-d82e-449c-bdbc-5d578b18777b",
+    "title": "Podcast Production",
+    "description": null,
+    "url": "https://creativelive.com/courses/podcast-production",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "a59cb75c-e5d5-40ce-8a54-72a997709f82",
+    "title": "Kubernetes Orchestration",
+    "description": null,
+    "url": "https://youtube.com/results?search_query=kubernetes",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "a3029b70-13ce-4ea0-ae87-b06ff3d961d9",
+    "title": "Context Mapping",
+    "description": null,
+    "url": "https://interaction-design.org/courses/context-mapping",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "90ef740c-626e-4a1d-a338-3769cbd4508d",
+    "title": "Presence and Impact",
+    "description": null,
+    "url": "https://linkedin.com/learning/presence-and-impact",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "69047770-8350-4d03-8aff-eae7d64b12fa",
+    "title": "Creative Cloud Master",
+    "description": null,
+    "url": "https://adobe.com/learn",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "690b666a-ead9-4e9b-80e8-427e393b77da",
+    "title": "Resilience Design",
+    "description": null,
+    "url": "https://ideo.com/work/resilience",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "b203162f-eebb-401b-b266-6d712ee24f16",
+    "title": "Privacy by Design",
+    "description": null,
+    "url": "https://designlab.com/privacy-by-design",
+    "type": "course",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
   }
 ]
