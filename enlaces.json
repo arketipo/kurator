@@ -1,5 +1,43 @@
 [
   {
+    "id": "4fbd6697-94f0-4bcc-9bc7-09e6462987b3",
+    "title": "Paper – design, share, ship",
+    "description": "Paper is a modern and powerful design tool that helps you create, share, and ship your best work.",
+    "url": "https://paper.design/?utm_source=heydesigner",
+    "type": "link",
+    "source": null,
+    "folder": "herramientas que quiero probar",
+    "tags": [
+      "herramientas"
+    ],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T20:48:28.472667+00:00"
+  },
+  {
+    "id": "f931f65f-b2e5-4093-bd1f-8a57b0ad5aaf",
+    "title": "Uxdesign cc",
+    "description": null,
+    "url": "https://uxdesign.cc/",
+    "type": "link",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T20:08:52.628927+00:00"
+  },
+  {
+    "id": "90bb096f-36db-483e-9f68-84ca32060434",
+    "title": "Polycam — AI 3D Scanning, Floor Plans & Reality Capture for Teams",
+    "description": "AI 3D scanning for AEC teams — floor plans, measurements, and CAD/BIM exports from your phone. Start a free 7-day Business trial.",
+    "url": "https://poly.cam/",
+    "type": "link",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T20:07:01.190427+00:00"
+  },
+  {
     "id": "9d4e8bfb-d282-4c0f-87dd-b4d3081565f7",
     "title": "prueba para ver si funciona",
     "description": null,
