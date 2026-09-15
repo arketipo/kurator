@@ -1,115 +1,216 @@
 [
   {
-    "id": "link-mtrapvb5-fyfvp",
+    "id": "9d4e8bfb-d282-4c0f-87dd-b4d3081565f7",
     "title": "prueba para ver si funciona",
+    "description": null,
     "url": "arketipo.net",
     "type": "link",
-    "description": "",
-    "author": "",
-    "year": null,
-    "image": "",
-    "folder": "",
+    "source": null,
+    "folder": null,
     "tags": [],
-    "comments": "",
-    "featured": false,
-    "createdAt": "2026-09-07T13:48:08.225Z"
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
   },
   {
-    "id": "link-mtq9rbo3-ls8w1",
+    "id": "f2cd3363-82ee-41e4-8621-1d9ed23850a0",
     "title": "DESIGN.md Examples for AI Agents | Refero Styles",
+    "description": "Browse a curated DESIGN.md library for AI agents: colors, typography, spacing, components, and design rules from leading product websites.",
     "url": "https://styles.refero.design/",
     "type": "link",
-    "description": "Browse a curated DESIGN.md library for AI agents: colors, typography, spacing, components, and design rules from leading product websites.",
-    "author": "",
-    "year": null,
-    "image": "https://styles.refero.design/opengraph-image.png",
-    "folder": "",
+    "source": null,
+    "folder": null,
     "tags": [
       "ia",
       "claude"
     ],
-    "comments": "",
-    "featured": false,
-    "createdAt": "2026-09-06T20:33:30.247Z"
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
   },
   {
-    "id": "link-001",
+    "id": "b32e1d41-b72b-41f5-ae8d-cfc6edf74a79",
     "title": "Figma Design System",
+    "description": "Herramienta principal para diseño colaborativo",
     "url": "https://www.figma.com/",
     "type": "link",
+    "source": "design-tool",
     "folder": "Tools & Resources",
     "tags": [
       "tools",
       "design",
       "collaboration"
     ],
-    "description": "Herramienta principal para diseño colaborativo",
-    "category": "design-tool",
-    "createdAt": "2026-09-06T10:00:00Z",
-    "watched": false
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
   },
   {
-    "id": "link-002",
+    "id": "5b99ab67-4ca0-4071-ad41-aa58be200d1f",
     "title": "NotebookLM by Google",
+    "description": "Herramienta IA para transformar información en insights",
     "url": "https://notebooklm.google.com/",
     "type": "link",
+    "source": "learning-tool",
     "folder": "AI & Learning Tools",
     "tags": [
-      "IA",
+      "ia",
       "learning",
       "productivity"
     ],
-    "description": "Herramienta IA para transformar información en insights",
-    "category": "learning-tool",
-    "createdAt": "2026-09-06T10:00:00Z",
-    "watched": false
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
   },
   {
-    "id": "link-003",
+    "id": "6e743bb6-9fc8-486d-b2df-fb9e32814262",
     "title": "Design Observer",
+    "description": "Comunidad y publicaciones sobre diseño y cultura",
     "url": "https://designobserver.com/",
     "type": "link",
+    "source": "publication",
     "folder": "Communities & Publications",
     "tags": [
       "design",
       "community",
       "writing"
     ],
-    "description": "Comunidad y publicaciones sobre diseño y cultura",
-    "category": "publication",
-    "createdAt": "2026-09-06T10:00:00Z",
-    "watched": false
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
   },
   {
-    "id": "link-004",
+    "id": "d3e7a58f-ecae-40e6-9580-c511d86fa609",
     "title": "Product Hunt",
+    "description": "Descubre productos nuevos y tendencias de tech",
     "url": "https://www.producthunt.com/",
     "type": "link",
+    "source": "discovery",
     "folder": "Tools & Resources",
     "tags": [
       "product",
       "discovery",
       "trends"
     ],
-    "description": "Descubre productos nuevos y tendencias de tech",
-    "category": "discovery",
-    "createdAt": "2026-09-06T10:00:00Z",
-    "watched": false
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
   },
   {
-    "id": "link-005",
+    "id": "63355b24-3e4d-45b6-a11c-4076f56732fb",
     "title": "Obsidian",
+    "description": "Sistema de gestión del conocimiento basado en archivos locales",
     "url": "https://obsidian.md/",
     "type": "link",
+    "source": "productivity-tool",
     "folder": "Tools & Resources",
     "tags": [
       "tools",
       "notes",
       "knowledge-management"
     ],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:28:28.292293+00:00"
+  },
+  {
+    "id": "94aae7d5-64f2-42ad-bc37-1f8f768820de",
+    "title": "prueba para ver si funciona",
+    "description": null,
+    "url": "arketipo.net",
+    "type": "link",
+    "source": null,
+    "folder": null,
+    "tags": [],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "01a0ad36-920a-4a2b-bfd5-21bfbdd757d0",
+    "title": "DESIGN.md Examples for AI Agents | Refero Styles",
+    "description": "Browse a curated DESIGN.md library for AI agents: colors, typography, spacing, components, and design rules from leading product websites.",
+    "url": "https://styles.refero.design/",
+    "type": "link",
+    "source": null,
+    "folder": null,
+    "tags": [
+      "ia",
+      "claude"
+    ],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "873a3894-e0c5-4568-a498-b719e508aa92",
+    "title": "Figma Design System",
+    "description": "Herramienta principal para diseño colaborativo",
+    "url": "https://www.figma.com/",
+    "type": "link",
+    "source": "design-tool",
+    "folder": "Tools & Resources",
+    "tags": [
+      "tools",
+      "design",
+      "collaboration"
+    ],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "1388e1e7-c529-4c22-bde9-c64842f643ad",
+    "title": "NotebookLM by Google",
+    "description": "Herramienta IA para transformar información en insights",
+    "url": "https://notebooklm.google.com/",
+    "type": "link",
+    "source": "learning-tool",
+    "folder": "AI & Learning Tools",
+    "tags": [
+      "ia",
+      "learning",
+      "productivity"
+    ],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "b29cc2c3-6bdf-415d-8c21-a9a1574f76f8",
+    "title": "Design Observer",
+    "description": "Comunidad y publicaciones sobre diseño y cultura",
+    "url": "https://designobserver.com/",
+    "type": "link",
+    "source": "publication",
+    "folder": "Communities & Publications",
+    "tags": [
+      "design",
+      "community",
+      "writing"
+    ],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "3a2382e7-e609-4227-a03b-22565291fb9c",
+    "title": "Product Hunt",
+    "description": "Descubre productos nuevos y tendencias de tech",
+    "url": "https://www.producthunt.com/",
+    "type": "link",
+    "source": "discovery",
+    "folder": "Tools & Resources",
+    "tags": [
+      "product",
+      "discovery",
+      "trends"
+    ],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
+  },
+  {
+    "id": "7f0daa6e-e39d-4533-84a5-1db06c323f1f",
+    "title": "Obsidian",
     "description": "Sistema de gestión del conocimiento basado en archivos locales",
-    "category": "productivity-tool",
-    "createdAt": "2026-09-06T10:00:00Z",
-    "watched": false
+    "url": "https://obsidian.md/",
+    "type": "link",
+    "source": "productivity-tool",
+    "folder": "Tools & Resources",
+    "tags": [
+      "tools",
+      "notes",
+      "knowledge-management"
+    ],
+    "curated_at": "2026-09-15",
+    "created_at": "2026-09-15T18:27:51.332159+00:00"
   }
 ]
